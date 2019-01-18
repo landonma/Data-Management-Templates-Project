@@ -1,7 +1,10 @@
 
 # How to Use This Repository
-This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.
-
+!!This repository contains the tools necessary to create three different data mangment documents; a documentation file(README), data implementation plan and an internal data sharing plan. We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.
+This document will help you
+* [Understand Github](#github) and [Github Pages](#github-pages)
+* [Basic Markdown Editing](#markdown-editing)
+* [Customizing Github Pages](#customizing-github-pages)
 
 ## Github
 Github is a website with variety of uses including: sharing data and creating collaborative projects. You will need a Github account if you want to use Github to publish your documents and can create one [here](hhttps://github.com/join "Create a Github account").
@@ -58,7 +61,7 @@ You may want a list of links with some basic text for the home page. To do this,
 
 * Some of them are basic hyper links which contain the full url of the page in the () which is linked to ie. [google.com](google.com).
 * Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited.md). All the links that point to other pages in this repository were created using relative links so if you have all the file names as this repository then your wont have to change any of these links (but may need to delete ones such as the link to the guidance file).
-* There are also "links" which jump to header within the same page. These are used in the table of contents [this](#customizing-github-pages). The link must be all lower case and the spaces are replaces with dashes -. Make sure to change these links whenever a header name is changed. Also note that there should only be **ONE #** regardless of the header level.
+* There are also "links" which jump to header within the same page. These are used in the table of contents [this](#customizing-github-pages). They are created by putting one "#" then the name of the header you wan to jump. The header name must be typed in all lower case even if the actually header isn't and the spaces are replaces with dashes -. Make sure to change these links whenever a header name is changed. Also note that there should only be **ONE #** regardless of the header level.
 
 
 Github has also created a number of themes that change the appearance of your pages and can be viewed [here](http://jekyllthemes.org/ "Available Themes").  Instructions on how to apply the themes are [here](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/ "Add Jekyll Themes"). This repository has **no theme** applied to it but you are welcome to try them out.

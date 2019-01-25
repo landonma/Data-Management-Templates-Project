@@ -1,4 +1,8 @@
 # Templates
+[Example of ####](example.md)
+["Tools For This Project"](howtouse.md)
+[About the Project](readme.md)
+[Three Templates](templates.md)
 
 The goal of this project is to help researchers manage their data by creating documentation about how their research data will be managed. We provide templates, instructions with tools and resources, and examples to make these documents as easy as possible to generate. The templates are:
 

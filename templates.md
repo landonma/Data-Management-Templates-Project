@@ -17,5 +17,5 @@ Disagreements between the members of a team regarding the sharing of research da
 
 ### 3. Documentation File
 
-A  Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.  
+A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.  
 [Link to repository](https://github.com/landonma/Data-Management-README-Creator)

@@ -42,42 +42,34 @@ You can take this template and use it as you want. It is published under a CC0 l
 ## FAQ
 ### Who is this project for?
 
-This Data Management Plan implementation template is aimed to document data management practices of research projects, large and small, of any disciplines.
+This Data Management Templates Project is aimed to anyone create and distribute various types of documents. Our templates can be used for any research projects, large and small, of any disciplines.
 
 Whomever is responsible for data management decisions in the project, will probably be the one interested in using this template. In many cases this person will be the Principal Investigator with the help of the research team. In large projects it may be a data manager. A grad student in charge of his/her research project may want to use this too.
 
-We have tried to make this template as general as possible. It is possible that this template will fit some fields more than others. If you have feedback to give us open an issue or send us an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu), we are very interested in hearing whether this is useful for you!
+We have tried to make this template as general as possible. It is possible that these template will fit some fields more than others. If you have feedback to give us open an issue or send us an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu), we are very interested in hearing whether this is useful for you!
 
-### Why do I need an implementation of a Data Management Plan?
-Data Management Plans are often submitted with grant proposals. Thus, these plans are written generally, as many details about day to day data management are still not known. Many research groups are also not used to document changes in their data management plan during the research process, so the Data Management Plan becomes less useful.
+### Is there a Data Management Plan template?
 
-The goal of this template is both to help research groups make concrete and specific decisions about data management practices, and to make it a living document that can be updated and consulted often.
-
-### Is this a Data Management Plan template?
-
-No, this is a Data Management Plan Implementation template. A Data Management Plan is a document that many funding agencies require be submitted with grant proposals. This template assumes that you already have a Data Management Plan, and that you want to put it into action. This template includes a lot more details than what you want to write in your Data Management Plan.
-
-If you need help to write a Data Management Plan you can:
-- Find guidance in [DMPTool.org](https://dmptool.org/)
-- Find guidance in [DMPonline](https://dmponline.dcc.ac.uk/)
-- Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
-- If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
+No, this is a project does not include a template. A Data Management Plan is a document that many funding agencies require be submitted with grant proposals. This template assumes that you already have a Data Management Plan, and need to create supplementary documents.
 
 ### How can I get help to write my own Data Management Plan?
-This template is not for writing Data Managment Plans for grant applications. It is to write a living implementation of such Data Management Plans.
-
 If you need help to write a Data Management Plan you can:
 - Find guidance in [DMPTool.org](https://dmptool.org/)
 - Find guidance in [DMPonline](https://dmponline.dcc.ac.uk/)
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
+
+### I have a Data Management Plan, why do I need these other documents?
+Data Management Plans are often submitted with grant proposals. Thus, these plans are written generally, as many details about day to day data management are still not known.
+
+The goal of this template is both to help research groups make concrete and specific decisions about data management practices, and to make it a living document that can be updated and consulted often.
 
 ### Does my Data Management Plan Implementation need to be in GitHub?
 
 No, it does not need to be in GitHub. There are a few reasons why we have decided to host this Data Management Plan Implementation Template in GitHub:
 - Because you can easily clone our template, edit it, and have a website with your Data Management Plan Implementation. Having a public Data Management Plan Implementation in the form of a website will help your research group because it will make your data management practices transparent, and because everybody in your research group will be able to consult them easily from wherever they are.
 - Because it is a tool that many researchers are already familiar with. If you are not one of these researchers, we have created guidelines to help you through the process.
-- Because you can edit websites with Markdown. You do not need to know html or other programming languages. Markdown is generally intuitive and easy to learn for most researchers. We have also included a few guidelines for Markdown editing in this template, just in case.
+- Because you can edit websites with Markdown. You do not need to know html or other programming languages. Markdown is generally intuitive and easy to learn for most researchers. We have also included a [few guidelines for Markdown editing](https://dmponline.dcc.ac.uk/) in this template, just in case.
 
 However, there are many reasons why GitHub may not be the right choice for a research project. This template is also accessible as a Word document, a pdf, and a LaTeX document.
 

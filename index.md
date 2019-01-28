@@ -25,7 +25,7 @@ Data management plans are relatively new and there are still several challenges 
 * The data management plan is writen at the proposal stage of the research process, so it has general provisions and it generally does not go into great detail about day to day data management practices.
 * Data management strategies can change during the research project. There is no established practice to make Data Management Plans be live documents,
 
-This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as they happen.   
+This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as they happen.   
 
 ## Suggested use of this template
 
@@ -52,6 +52,10 @@ We have tried to make this template as general as possible. It is possible that 
 
 No, this is a project does not include a template. A Data Management Plan is a document that many funding agencies require be submitted with grant proposals. This template assumes that you already have a Data Management Plan, and need to create supplementary documents.
 
+### What does DMP stand for?
+
+Data Management Plan
+
 ### How can I get help to write my own Data Management Plan?
 If you need help to write a Data Management Plan you can:
 - Find guidance in [DMPTool.org](https://dmptool.org/)
@@ -64,24 +68,23 @@ Data Management Plans are often submitted with grant proposals. Thus, these plan
 
 The goal of this template is both to help research groups make concrete and specific decisions about data management practices, and to make it a living document that can be updated and consulted often.
 
-### Does my Data Management Plan Implementation need to be in GitHub?
+### Do I need to publish my documents using GitHub?
 
-No, it does not need to be in GitHub. There are a few reasons why we have decided to host this Data Management Plan Implementation Template in GitHub:
-- Because you can easily clone our template, edit it, and have a website with your Data Management Plan Implementation. Having a public Data Management Plan Implementation in the form of a website will help your research group because it will make your data management practices transparent, and because everybody in your research group will be able to consult them easily from wherever they are.
+No, it does not need to be in GitHub. There are a few reasons why we have decided to host these templates GitHub:
+- Because you can easily clone our templates, edit them, and have a website with your Data Management Plan Implementation. Having a public Data Management Plan Implementation or other documents in the form of a website will help your research group because it will make your practices transparent, and because everybody in your research group will be able to consult them easily from wherever they are.
 - Because it is a tool that many researchers are already familiar with. If you are not one of these researchers, we have created guidelines to help you through the process.
 - Because you can edit websites with Markdown. You do not need to know html or other programming languages. Markdown is generally intuitive and easy to learn for most researchers. We have also included a [few guidelines for Markdown editing](https://dmponline.dcc.ac.uk/) in this template, just in case.
 
 However, there are many reasons why GitHub may not be the right choice for a research project. This template is also accessible as a Word document, a pdf, and a LaTeX document.
 
-### Your template does not fit very well with my discipline.
+### Can I use Github without using Github Pages?
+Yes! Github Pages allows your documents to appear as webpages but simply hosting Github without pages also works. This maybe a better option if there are concerns about the privacy of your information.  
 
-Please, let us know! Write us an e-mail at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu) or open an issue. We may be able to improve the template in the future.
+### Your templates does not fit very well with my discipline.
 
-This template can be changed as much as you need, so hopefully this will still be somewhat useful to help implement the Data Management Plan of your research project.
+Please, let us know! Write us an e-mail at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu) or open an issue. We may be able to improve the templates in the future.
 
-### What does DMP stand for?
-
-Data Management Plan
+These templates can be changed as much as you need, so hopefully this will still be somewhat useful to help implement create the documents for your research project.
 
 ### What if I don't have a Data Management Plan?
 The assumption of this Data Management Plan Implementation Template is that you have a Data Management Plan that you want to implement. This is the case of many research projects because many funding agencies require data management plans to be submitted with grant proposals. But if this is not your case, you can still use this template! We actually really encourage you to do so. Go ahead and start editing!
@@ -94,17 +97,11 @@ Yes. Data Management Plans are absolutely useful for masters research projects o
 
 Excellent! Please open an issue with the feedback or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu). We appreciate your time doing that!
 
-### How do I acknowledge that I am using your template?
+### How do I acknowledge that I am using your templates?
 
-This template is published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do. You can include a line to your Data Management Plan or to the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
+These templates are published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do. You can include a line to your Data Management Plan or to the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/Data-Managment-Templates-Project"
 
 ### I need help!
-
-If you need help to write a Data Management Plan you can:
-- Find guidance in [DMPTool.org](https://dmptool.org/)
-- Find guidance in [DMPonline](https://dmponline.dcc.ac.uk/)
-- Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
-- If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
 If you need help to write the implementation of your Data Management Plan you can:
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
@@ -115,21 +112,21 @@ If you need help to write the implementation of your Data Management Plan you ca
 
 We also offer this template in Word, pdf and LaTeX.
 
-### I don't want my data management plan to be openly available. How can I use this template?
+### I don't want my data management documents to be openly available. How can I use this template?
 
-Unfortunately, there is no way of hosting a website using GitHub pages and having your pages be private. They will be openly available. You can use other formats of the template that we distribute: Word, pdf, LaTeX.
+You can still use our template documents for creating your own. You should **NOT** use Github Pages and should only use Github **IF** your repository is private.
 
 
-### Will I find this template useful if I am not from OSU?
+### Will I find these templates useful if I am not from OSU?
 
-We have writen this template as generally as possible so that it is useful to the maximum number of people. However, the guidance document has been written with Oregon State University in mind, so that it is especially useful for researchers of that institution. If you have suggestions about how to improve the template or the guidance so that it is useful, please open an issue or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
+We have writen these templates as generally as possible so that they are useful to the maximum number of people. However, the guidance documents have been written with Oregon State University in mind, so that they are especially useful for researchers of that institution. If you have suggestions about how to improve the templates or the guidance documents so that they are more broadly useful, please open an issue or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
 ## About us
-This template has been developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library.
+These templates has been developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library.
 
-This work is licensed under a CC0 license. If you would like to give attribution, you can include the following line in the readme of your repository, or somewhere in your data management plan, but you are not expected to do so. "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
+This work is licensed under a CC0 license. If you would like to give attribution, you can include the following line in the readme of your repository, or somewhere in your data management plan, but you are not expected to do so. "This document has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
 
-We always welcome feedback (good and bad) about how this template has helped you. You can open an issue in this repository, or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
+We always welcome feedback (good and bad) about how these templates have helped you. You can open an issue in this repository(https://github.com/landonma/Data-Management-Templates-Project), or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
 
 # How to Use This Repository
 This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.

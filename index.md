@@ -52,10 +52,6 @@ We have tried to make this template as general as possible. It is possible that 
 
 No, this is a project does not include a template. A Data Management Plan is a document that many funding agencies require be submitted with grant proposals. This template assumes that you already have a Data Management Plan, and need to create supplementary documents.
 
-### What does DMP stand for?
-
-Data Management Plan
-
 ### How can I get help to write my own Data Management Plan?
 If you need help to write a Data Management Plan you can:
 - Find guidance in [DMPTool.org](https://dmptool.org/)
@@ -89,7 +85,7 @@ These templates can be changed as much as you need, so hopefully this will still
 ### What if I don't have a Data Management Plan?
 The assumption of this Data Management Plan Implementation Template is that you have a Data Management Plan that you want to implement. This is the case of many research projects because many funding agencies require data management plans to be submitted with grant proposals. But if this is not your case, you can still use this template! We actually really encourage you to do so. Go ahead and start editing!
 
-### I am a grad student. Should I use this template?
+### I am a grad student. Can I use these templates?
 
 Yes. Data Management Plans are absolutely useful for masters research projects or for PhD research projects. We encourage you to write a Data Management Plan, whether you use this template or not! It is most useful to write a Data Management Plan at the beginning of your project, but it will still be useful at other more advanced stages of the project.
 

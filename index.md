@@ -189,4 +189,12 @@ You may want a list of links with some basic text for the home page. To do this,
 Github has also created a number of themes that change the appearance of your pages and can be viewed [here](http://jekyllthemes.org/ "Available Themes").  Instructions on how to apply the themes are [here](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/ "Add Jekyll Themes"). This repository has **no theme** applied to it but you are welcome to try them out.
 * I suggest the method that edits the "_ config" file because you can simply delete the line if you want to remove the theme later.
 
-You can also use HTML to create/format any pages on your repository. For simplicity and to show what Markdown can do; nothing in this repository was written using HTML.
+You can also use HTML to create/format any pages on your repository. For simplicity and to show what Markdown can do; nothing in this repository was written using HTML.  
+
+
+
+
+
+
+
+There is some flexibility with what in your repository is published using Github Pages. When enabling GitHub Pages in your repository settings you can select the option to publish from the master branch / docs folder. This will restrict what's available through Github Pages to only the contents of the docs folder. This allows anyone with a private repository to use Github Pages and only those files in the docs folder will be publicly available. 

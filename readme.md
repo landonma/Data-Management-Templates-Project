@@ -17,7 +17,7 @@ There are two types of repositories on GitHub; public ones and private ones. Pub
 Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.
 
 ###### ------------** IMPORTANT NOTE ** ------------
-GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that  **ALL FILES IN A PAGE ENABLED REPOSITORY ARE VIEWABLE**  means you must be certain their is **ABSOLUTELY ZERO** private information in your repository before you set it up with Github Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. If there is some question about the privacy of files in your repository then it maybe best to simply create a new Github repository free of the private information to use with Pages.
+GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that  **ALL FILES IN A PAGEs ENABLED REPOSITORY ARE VIEWABLE**  means you must be certain their is **ABSOLUTELY ZERO** private information in your repository before you set it up with Github Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. If there is some question about the privacy of files in your repository then it maybe best to simply create a new Github repository free of the private information to use with Pages.
 
 ### Setting Up Your Account to Use Github Pages
 Setting up Github Pages is fairly simple and straight forward.
@@ -39,7 +39,12 @@ Next you will need to enable Github Pages on any other repositories such as the 
 
 Next clone or download [our repository](https://github.com/landonma/datamanagement "Data Management Implementation Plan Repository"). Then place upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/ "Adding a File to a Repository") is a quick article if you are unfamiliar with Github)
 
+### How to edit the Templates
 
+
+
+
+### How
 
 ## Markdown editing
 Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the functionality of writing documents in an HTML format while still remaining easily readable. Github and Github Pages are set up to use Markdown already. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
@@ -52,9 +57,7 @@ Markdown was created to be easy to read and edit and we use this format for all 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using source code editing software such as Notepad++ or Atom (these docs were created using Atom). You could theoretically use Microsoft Word or Google Docs but it is strongly recommended that you use Github's editor instead. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 
 ## Using Our Template and Guide Documents
-The template markdown file (found [here](datastorage-norm-edited.md)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.
-
-
+The template markdown file (found [here](datastorage-norm-edited.md)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
 The guidance document (found [here](guidance-edit.md)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
 

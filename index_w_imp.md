@@ -5,16 +5,27 @@
 # The Data Management Templates Project
 
 ## Summary
-In this collection of repositories you will find templates that will help you create several data management documents. This repository explains the project, discusses each template and gives you the tools to complete these templates. This projects help you create the following three documents:
-* Data Management Implementation Plan
-* Data Internal Sharing Plan
-* Data Documentation File (README)
+We have created a series of templates that will help you put your Data Management Plan into action. This repository is designed to make your life easy, so that you can start working on the implementation of your Data Management Plan right away, following a few steps:
+* Import this repository and add your collaborators.
+* Make the template page be your index.md page
+* Start editing! Fill the blanks, delete and add as you need so that this document is useful for your research project.
+* Consult the guidelines from the original repository to help you make choices about what to write in your DMP implementation. Consult the guidelines to learn how to edit this template and make it into a website if you are unfamiliar with GitHub and Markdown.
 
 ## Context of the project
-Many funding agencies require the Principal Investigator to submit a Data Management Plan with grant applications. The Data Management Plan is usually a two page document in which the researcher makes a plan for how the research data generated or used during the project will be managed. The Data Management Plan document is created at the beginning stages of a project, is general in scope, and isn't updated once the project starts. !!
+Many funding agencies require the Principal Investigator to submit a Data Management Plan with grant applications. The Data Management Plan is usually a two page document in which the researcher makes a plan for how the research data generated or used during the project will be managed. The requirements for Data Management Plans vary depending on the agency requiring them, but they often include these pieces of information:
+* **Data description**: a description of the types of data to be produced in the course of the project. The amount of data that will be generated. How the data will be collected. What format the data will be saved on, and whether standards will be used for the data.
+* **Data documentation**: description of how the data will be documented (given metadata). Metadata standards.
+* **Policies for accessing and sharing**: when and how the data will be made publicly available. If there is any sensitive data, how will the confidentiality of research subjects be protected? Formats that will be used to make the data available.
+* **Policies for re-use and redistribution**, and how these policies will be communicated (e.g. through data licenses).
+* **Data archiving and preservation**: how will the data will be preserved for the long term.
+* **Roles and responsibilities**: who in the project will have the responsibility of implementing the data management plan, and who will have the responsibility of doing all the other data management tasks: data collection, data organization, data quality control, data documentation, preparation for data archival, etc.
 
+Data management plans are relatively new and there are still several challenges around their use. Two of the challenges that this project aims to solve are:
+* The fact that a data management plan is written at the beginning of the grant does not mean that the data management plan will be implemented and followed during the research project. It is not always clear how granting agencies check for compliance at the end of the project.
+* The data management plan is writen at the proposal stage of the research process, so it has general provisions and it generally does not go into great detail about day to day data management practices.
+* Data management strategies can change during the research project. There is no established practice to make Data Management Plans be live documents,
 
-This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as necessary.   
+This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as they happen.   
 
 ## Suggested use of this template
 

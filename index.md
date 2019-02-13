@@ -1,6 +1,6 @@
-[Github Repository](https://github.com/landonma/Data-Management-Templates-Project)
+[Github Repository](https://github.com/landonma/Data-Management-Templates-Project)  
 [Data Management Implementation Plan Template](readme.md)  
-Templates| [Data Management Implementation Plan](https://github.com/landonma/Data-Management-Implementation-Template)  [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template)  [Documentation File](https://github.com/landonma/Data-Management-Documentation-File-Template) |
+Templates: [Data Management Implementation Plan](https://github.com/landonma/Data-Management-Implementation-Template) | [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template) | [Documentation File](https://github.com/landonma/Data-Management-Documentation-File-Template)
 
 
 # The Data Management Templates Project
@@ -34,9 +34,9 @@ You can take this template and use it as you want. It is published under a CC0 l
 
 This Data Management Templates Project is aimed to anyone create and distribute various types of documents. Our templates can be used for any research projects, large and small, of any disciplines.
 
-Whomever is responsible for data management decisions in the project, will probably be the one interested in using this template. In many cases this person will be the Principal Investigator with the help of the research team. In large projects it may be a data manager. A grad student in charge of his/her research project may want to use this too.
+Whomever is responsible for data management decisions in the project, will probably be the one interested in using our templates. In many cases this person will be the Principal Investigator with the help of the research team. In large projects it may be a data manager. A grad student in charge of his/her research project may want to use this too.
 
-We have tried to make this template as general as possible. It is possible that these template will fit some fields more than others. If you have feedback to give us open an issue or send us an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu), we are very interested in hearing whether this is useful for you!
+We have tried to make these templates as general as possible. It is possible that these templates will fit some fields more than others. If you have feedback to give us open an issue or send us an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu), we are very interested in hearing whether this is useful for you!
 
 ### Is there a Data Management Plan template?
 

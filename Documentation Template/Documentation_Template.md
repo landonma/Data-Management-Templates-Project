@@ -227,19 +227,22 @@ ORCID:
         Code/symbol        Definition
 
 
-4) Variable List  
+4) {Variable List  
 *[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]*  
 *[Example:]*
+
 Name: Species
 Description: Species of the Drosophila sampled
       DML = Drosophila melanogaster
       DMJ = Drosophila mojavensis
       O = Other
+      
  A. Name: *[variable name]*
  Description: *[description of the variable]*
+ 
  B. Name: *[variable name]*
  Description: *[description of the variable]*
-              *[Value labels if appropriate. Units if appropriate.]*  
+              *[Value labels if appropriate. Units if appropriate.]*  }
 
 ## CODE-SPECIFIC INFORMATION:
 

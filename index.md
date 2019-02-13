@@ -1,6 +1,7 @@
-[Data Management Implementation Plan Template](datastorage-norm-edited.md)  
-[Data Management Implementation Guidance Document](guidance-edit.md)  
-[Github Repository](https://github.com/landonma/datamanagement)  
+[Github Repository](https://github.com/landonma/Data-Management-Templates-Project)
+[Data Management Implementation Plan Template](readme.md)  
+Templates| [Data Management Implementation Plan](https://github.com/landonma/Data-Management-Implementation-Template)  [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template)  [Documentation File](https://github.com/landonma/Data-Management-Documentation-File-Template) |
+
 
 # The Data Management Templates Project
 

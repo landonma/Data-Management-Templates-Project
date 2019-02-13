@@ -12,10 +12,8 @@ In this collection of repositories you will find templates that will help you cr
 * Data Documentation File (README)
 
 ## Context of the project
-Many funding agencies require the Principal Investigator to submit a Data Management Plan with grant applications. The Data Management Plan is usually a two page document in which the researcher makes a plan for how the research data generated or used during the project will be managed. The Data Management Plan document is created at the beginning stages of a project, is general in scope, and isn't updated once the project starts. !!
 
-
- The goal of having these templates in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as necessary. The goal of this project is to help researchers manage their data by creating documentation about how their research data will be managed. We provide templates, instructions with tools and resources, and examples to make these documents as easy as possible to generate. The templates are:
+The Data Management Templates project aims to make research data management easier by providing templates that researchers can use to document their data management strategies. We provide templates, instructions with tools and resources, and examples to make these documents as easy as possible to generate.
 
 ## Templates
 

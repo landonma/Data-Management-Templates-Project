@@ -12,9 +12,7 @@
 This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name]*
 
 
--------------------
 ## GENERAL INFORMATION
--------------------
 
 
 1) Title of Dataset
@@ -71,9 +69,8 @@ Email:
 ORCID:  
 
 
--------------------
 ## CONTEXTUAL INFORMATION
--------------------
+
 
 1) Abstract for the dataset  
 *[The abstract should describe the dataset, not the research or the results obtained after analyzing the dataset. The dataset abstract should be different than an article or book abstract, even if the dataset is tightly related to the article or book.]*
@@ -99,9 +96,9 @@ ORCID:
 
 
 
---------------------------
+
 ## SHARING/ACCESS INFORMATION
---------------------------
+
 
 
 1) Licenses/restrictions placed on the data:  
@@ -125,9 +122,9 @@ ORCID:
 *[Describe any known problems or caveats that would limit reuse of the data.]*
 
 
---------------------------
+
 ## VERSIONING AND PROVENANCE
---------------------------
+
 
 1) Last modification date  
 *[Date dataset was last modified in format YYYY-MM-DD]*
@@ -146,9 +143,10 @@ ORCID:
 4) Additional related data collected that was not included in the current data package:
 
 
---------------------------
+
 ## METHODOLOGICAL INFORMATION
---------------------------
+
+
 *[Describe the methodology used to generate the dataset]*  
 *[Include links or references to publications or other documentation containing methodological information]*  
 *[Do not copy paste the methods section from a pending publication unless you have made sure that you can do that. Some journals may consider this as a publication, and will not accept a manuscript with a section that has already been published.]*  
@@ -181,9 +179,10 @@ ORCID:
 *[If they are not include as collaborators, or if you want to describe more carefully who did what.]*
 
 
----------------------
+
 ## DATA & FILE OVERVIEW
----------------------
+
+
 *[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]*  
 *[Filenames should include extension.]*
 
@@ -209,9 +208,8 @@ ORCID:
 
 
 
------------------------------------------
 ## TABULAR DATA-SPECIFIC INFORMATION FOR: *[FILENAME]*
------------------------------------------
+
 
 
 *[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]*
@@ -245,9 +243,9 @@ ORCID:
           B. Name: *[variable name]*
              Description: *[description of the variable]*
                           *[Value labels if appropriate. Units if appropriate.]*  
------------------------------------------
+
 ## CODE-SPECIFIC INFORMATION:
------------------------------------------
+
 
 1) Installation  
 *[Instructions to install the software, if necessary]*
@@ -265,7 +263,7 @@ ORCID:
 *[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
 
 
------------------------------------------
+
 ## OTHER:
------------------------------------------
+
 *[Include any other important information about the data that you did not have opportunity to discuss anywhere in this template]*

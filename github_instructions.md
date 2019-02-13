@@ -36,18 +36,19 @@ Next you will need to enable Github Pages on any other repositories such as the 
 - Click the "source" drop down menu and select either one of the following options (if you do not see some of the following options or they are greyed out it is likely because you have not created that paths in your repository)
     - **master branch** will publish your entire repository using GitHub Pages making **anything and everything** in the master branch navigable through a web browser. This is a good option if you are creating a repository for the purpose of publishing documents or if you are using a public repository.
     - **master branch /docs folder** will only publish those files contained within the /docs folder and in the master branch. This is a good option if you have some files which you don't want published but don't want to create multiple branches. It will not work with any folder name other than docs. If multiple people are using the repository they must **ALL** be clear on what can go into the docs folder.
-    - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch. 
+    - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch.
 
 ## Cloning and Modifying Our Templates
 
 Next clone or download [our repository](https://github.com/landonma/datamanagement "Data Management Implementation Plan Repository"). Then place upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/) is a quick article if you are unfamiliar with uploading files onto Github)
 
-### How to edit the Templates
+## Using Our Template and Guide Documents
+Choose the file format which you wish to edit the document. If you want to publish on GitHub Pages you should edit the markdown format. Otherwise you can choose between the markdown, word file, or LaTeX. 
 
 
+ (found [here](datastorage-norm-edited.md)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
-
-### How
+The guidance document (found [here](guidance-edit.md)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
 
 ## Markdown editing
 Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the functionality of writing documents in an HTML format while still remaining easily readable. Github and Github Pages are set up to use Markdown already. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
@@ -58,11 +59,6 @@ Markdown was created to be easy to read and edit and we use this format for all 
 * The guide shows the different ways to format hyperlinks but doesn't describe the different types of links. I describe the different links in other section [below](#customizing-github-pages).
 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a source code/text editor (Atom was created by GitHub and is a great tool for editing/previewing markdown). You can use any text editor such as Microsoft Word or Google Docs but if you are unfamiliar with editing code I strongly recommend using editing the documents on Github itself. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
-
-## Using Our Template and Guide Documents
-The template markdown file (found [here](datastorage-norm-edited.md)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
-
-The guidance document (found [here](guidance-edit.md)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
 
 ## Customizing Github Pages
 When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. Our repositories have been set up so that the . For your repository you will want something that suites your needs.

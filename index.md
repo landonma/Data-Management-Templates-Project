@@ -17,6 +17,8 @@ Many funding agencies require the Principal Investigator to submit a Data Manage
 
  The goal of having these templates in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as necessary. The goal of this project is to help researchers manage their data by creating documentation about how their research data will be managed. We provide templates, instructions with tools and resources, and examples to make these documents as easy as possible to generate. The templates are:
 
+## Templates
+
 ### 1. Data Management Implementation Plan  
 This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
 [Link to template !!](https://github.com/landonma/Data-Management-Implementation-Creator)
@@ -36,6 +38,8 @@ A Documentation File (sometimes referred to as README file)  has information abo
 ## About us
 These templates has been developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library.
 
-This work is licensed under a CC0 license. If you would like to give attribution, you can include the following line in the readme of your repository, or somewhere in your data management plan, but you are not expected to do so. "This document has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
+This work is licensed under a CC0 license. If you would like to give attribution, you can do so citing the work as
+
+COMPLETE
 
 We always welcome feedback (good and bad) about how these templates have helped you. You can open an issue in this repository(https://github.com/landonma/Data-Management-Templates-Project), or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).

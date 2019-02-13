@@ -30,7 +30,7 @@ The assumption of this Data Management Plan Implementation Template is that you 
 
 ### How do I acknowledge that I am using your templates?
 
-These templates are published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do. 
+These templates are published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do.
 
 You can include a line to your Data Management Plan or to the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/Data-Managment-Templates-Project"
 
@@ -43,6 +43,19 @@ If you need help to write a Data Management Plan you can:
 - Find guidance in [DMPonline](https://dmponline.dcc.ac.uk/)
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
+
+### Suggested use of this template
+
+You can take this template and use it as you want. It is published under a CC0 license. However, this is how we think it is most useful:
+
+* Once your grant has been awarded: pass the information from the Data Management Plan submitted with the grant proposal to this template. During this process, make data management practices specific so that they can be useful in the day-to-day in the lab. You can involve other members of the team who weren't involved in the grant writing process.
+* At the beginning of the project: use it to involve other researchers in data management decisions.
+* During your project: use it as a reference document to train new researchers that get involved in the research project..
+* During the project: use it to document changes in any of the data management practices followed by the group.
+* At the end of your research project: use it to document your compliance with funders requirements related to data management.
+* At the end of the project: use it to inform the data management plan of your new grant proposal.
+* Before, during and after your project: make your research more transparent by making your research data management practices publicly available.
+
 
 ## Documentation Readme file.
 

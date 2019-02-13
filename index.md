@@ -15,19 +15,22 @@ In this collection of repositories you will find templates that will help you cr
 Many funding agencies require the Principal Investigator to submit a Data Management Plan with grant applications. The Data Management Plan is usually a two page document in which the researcher makes a plan for how the research data generated or used during the project will be managed. The Data Management Plan document is created at the beginning stages of a project, is general in scope, and isn't updated once the project starts. !!
 
 
-This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as necessary.   
+ The goal of having these templates in Github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as necessary. The goal of this project is to help researchers manage their data by creating documentation about how their research data will be managed. We provide templates, instructions with tools and resources, and examples to make these documents as easy as possible to generate. The templates are:
 
-## Suggested use of this template
+### 1. Data Management Implementation Plan  
+This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
+[Link to template !!](https://github.com/landonma/Data-Management-Implementation-Creator)
+[Link to template !! "io"](https://github.com/landonma/Data-Management-Implementation-Creator)
 
-You can take this template and use it as you want. It is published under a CC0 license. However, this is how we think it is most useful:
+### 2. Internal Data Sharing Plan
 
-* Once your grant has been awarded: pass the information from the Data Management Plan submitted with the grant proposal to this template. During this process, make data management practices specific so that they can be useful in the day-to-day in the lab. You can involve other members of the team who weren't involved in the grant writing process.
-* At the beginning of the project: use it to involve other researchers in data management decisions.
-* During your project: use it as a reference document to train new researchers that get involved in the research project..
-* During the project: use it to document changes in any of the data management practices followed by the group.
-* At the end of your research project: use it to document your compliance with funders requirements related to data management.
-* At the end of the project: use it to inform the data management plan of your new grant proposal.
-* Before, during and after your project: make your research more transparent by making your research data management practices publicly available.
+Disagreements between the members of a team regarding the sharing of research data during the project is a common occurrence. This Internal Data Sharing Plan is designed so that researchers will make decisions about data sharing and data attribution at the beginning of the project, to minimize disagreements down the road. This document makes sure everyone has the information they need to decide when and how to share data internally.   
+[Link to repository](https://github.com/landonma/Data-Management-Internal-Sharing-Creator)
+
+### 3. Documentation File
+
+A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.  
+[Link to repository](https://github.com/landonma/Data-Management-README-Creator)
 
 
 ## About us
@@ -36,4 +39,3 @@ These templates has been developed by Clara Llebot Lorente and Mark Landon, work
 This work is licensed under a CC0 license. If you would like to give attribution, you can include the following line in the readme of your repository, or somewhere in your data management plan, but you are not expected to do so. "This document has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
 
 We always welcome feedback (good and bad) about how these templates have helped you. You can open an issue in this repository(https://github.com/landonma/Data-Management-Templates-Project), or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
-

@@ -1,5 +1,5 @@
-[Github Repository](https://github.com/landonma/Data-Management-Templates-Project)  
-[Data Management Implementation Plan Template](readme.md)  
+[Instruction for Editing the Templates](.md)  
+[Frequently Asked Questions](faq.md)  
 Templates: [Data Management Implementation Plan](https://github.com/landonma/Data-Management-Implementation-Template) | [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template) | [Documentation File](https://github.com/landonma/Data-Management-Documentation-File-Template)
 
 

@@ -6,9 +6,8 @@ The Data Management Templates Project is a compilation of templates that can be 
 Included in the project are the following templates:
 
 ### 1. Data Management Implementation Plan  
-This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
-[Link to template !!](https://github.com/landonma/Data-Management-Implementation-Creator)
-[Link to template !! "io"](https://github.com/landonma/Data-Management-Implementation-Creator)
+This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed. This template is avalible in the following formats
+*How to download*
 
 ### 2. Internal Data Sharing Plan
 

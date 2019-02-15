@@ -43,4 +43,4 @@ For more information on how to download files from our repository go [here](gith
 ###
 
 ### FAQ
-[Data Management Implementation Plan Template](faq.md)  
+[FAQs(faq.md)  

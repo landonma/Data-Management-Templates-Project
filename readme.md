@@ -1,10 +1,3 @@
-[Instructions For Using the Templates](github_instructions)  
-[Frequently Asked Questions](faq.md)  
-Templates: [Data Management Implementation Plan](Implementation_Template/Implementation_Template) | [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template) | [Documentation File](Documentation_Template/Documentation_Template)  
-[Documentation File](Documentation_Template) 
-**To download the templates please follow the steps [HERE](github_instructions)"** 
-
-
 # The Data Management Templates Project
 
 ## Summary
@@ -22,6 +15,8 @@ These templates has been developed by Clara Llebot Lorente and Mark Landon, work
 
 This work is licensed under a CC0 license. If you would like to give attribution, you can do so citing the work as
 
-COMPLETE
+COMPLETE!!
 
 We always welcome feedback (good and bad) about how these templates have helped you. You can open an issue in this repository(https://github.com/landonma/Data-Management-Templates-Project), or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
+
+!! add some sort of link to webpage

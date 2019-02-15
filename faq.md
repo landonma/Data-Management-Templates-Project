@@ -1,8 +1,4 @@
-[Instructions For Using the Templates](github_instructions)  
-[Frequently Asked Questions](faq.md)  
-Templates: [Data Management Implementation Plan](Implementation_Template/Implementation_Template) | [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template) | [Documentation File](Documentation_Template/Documentation_Template)  
-[Documentation File](Documentation_Template) 
-**To download the templates please follow the steps [HERE](github_instructions)"** 
+
 # FAQ
 ## General
 ### Who is this project for?

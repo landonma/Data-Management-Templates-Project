@@ -1,9 +1,9 @@
 
 # How to Use This Repository
-This repository contains the tools necessary to create three different data management documents; a [Data Management Implementation Plan](Implementation_Template/Implementation_Template), an [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template), and a [Documentation File](Documentation_Template/Documentation_Template). We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the actual and don't want to make a Github Webpage then skip to [this](#markdown-editing) step.
+This repository contains the tools necessary to create three different data management documents; a [Data Management Implementation Plan](Implementation_Template/Implementation_Template.md), an [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template.md), and a [Documentation File](Documentation_Template/Documentation_Template.md). We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the actual and don't want to make a Github Webpage then skip to [this](#markdown-editing) step.
 This document will help you
 * [Understand Github](#github) and [Github Pages](#github-pages)
-* [Cloning and Modifying Our Templates](#cloning-and-modifying-our-templates)
+* [ How to Download the Template Files](#how-to-download-the-template-files)
 * [Basic Markdown Editing](#markdown-editing)
 * [Customizing Github Pages](#customizing-github-pages)
 
@@ -11,7 +11,7 @@ This document will help you
 Github is a website with variety of uses including: sharing data and creating collaborative projects. You will need a Github account if you want to use Github to publish your documents and can create one [here](hhttps://github.com/join "Create a Github account").
 * Note: the url for the webpage will use either the username or organization name which sets it up. Try to make sure the URL will be appropriate to share with others and relevant to what is on the webpage.
 
-There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account") steps.
+There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
 
 ## Github Pages
 Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.
@@ -38,20 +38,35 @@ Next you will need to enable Github Pages on any other repositories such as the 
     - **master branch /docs folder** will only publish those files contained within the /docs folder and in the master branch. This is a good option if you have some files which you don't want published but don't want to create multiple branches. It will not work with any folder name other than docs. If multiple people are using the repository they must **ALL** be clear on what can go into the docs folder.
     - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch.
 
-## Cloning and Modifying Our Templates
+## How to Download the Template Files
 
-Next clone or download [our repository](https://github.com/landonma/datamanagement "Data Management Implementation Plan Repository"). Then place upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/) is a quick article if you are unfamiliar with uploading files onto Github)
+#### Download/Clone our Repository
+One way to get the template files is to download the entire repository. To do this:
+-Navigate to our [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)
+-Click the green "Clone or download" button on the right side of the page above the list of files, then click "download zip"
+-Go to your downloads folder and extract the zip file to gain access to all the files on this repository
+
+#### Download a Specific File
+If would like to select the files you download individually follow these steps:
+- Navigate to out [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)
+- Click on the specific file you want to download by choosing it from the files list. The templates are contained within the respective folders with varous formats to choose from
+- You should now be on the file page and [it should look something like this](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docx).  
+-If is a docx or pdf file, click the "download" button on the bottom straight
+-If it is a md or tex file:
+  - Click the "Raw" button on the right above the file's text
+  - Right click somewhere on the page and select "Save as"
+  - **Delete the .txt** at the end of the file name and save file to your computer
 
 ## Using Our Template and Guide Documents
 Choose the file format which you wish to edit the document. If you want to publish on GitHub Pages you should edit the markdown format. Otherwise you can choose between the markdown, word file, or LaTeX.
 
 
- (found [here](datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
+ !!(found [here](datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
 The guidance document (found [here](guidance-edit)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
 
 ## Markdown editing
-Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files() have some of the functionality of writing documents in an HTML format while still remaining easily readable. Github and Github Pages are set up to use Markdown already. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
+Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the structural functionality of LaTeX or HTML while still remaining easily readable. Through [Jekyll]() Github you can publish your markdown files as webpages. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
 * There must be a space after the ##'s when making headers
 * There is NO space when bolding and using italics; ie. **bold** not ** bold **
 * If you want to force a line break put two spaces at the end of the line then press Enter.
@@ -59,6 +74,9 @@ Markdown was created to be easy to read and edit and we use this format for all 
 * The guide shows the different ways to format hyperlinks but doesn't describe the different types of links. I describe the different links in other section [below](#customizing-github-pages).
 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a source code/text editor (Atom was created by GitHub and is a great tool for editing/previewing markdown). You can use any text editor such as Microsoft Word or Google Docs but if you are unfamiliar with editing code I strongly recommend using editing the documents on Github itself. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
+
+!!
+ Then you may upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/) is a quick article if you are unfamiliar with uploading files onto Github)
 
 ## Customizing Github Pages
 When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. Our repositories have been set up so that the . For your repository you will want something that suites your needs.
@@ -68,12 +86,12 @@ You may want a list of links with some basic text for the home page. To do this,
 
 * Some of them are basic hyper links which contain the full url of the page in the () which is linked to ie. [google.com](google.com).
 
-* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). Relative links work differently on github site versus displaying pages on your .io via Github Pages. 
+* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). Relative links work differently on github site versus displaying pages on your .io via Github Pages.
 
 
 
 
-All the links that point to other pages in this repository were created using relative links. If you include the .md at the end of the file name it will load the actual markdown file and will not apply the formatting that is enabled with Github Pages(via Jekyll). Also these links keep you in your current web experience. This means that if you are navigating the pages via github's actual site it will keep you in this experience. While, if you are loading the pages through the .io path the relative links will keep loading .io pages.
+All the links that point to other pages in this repository were created using relative links. If you include the .md at the end of the file name it will load the actual markdown file and will not apply the formatting that is enabled with Github Pages(via Jekyll). Also these links keep you in your current web experience. This means that if you are navigating the pages via github's actual site it will keep you in this experience. While, if you are loading the pages through the .io path the relative links will keep loading .io pages. !!
 
 
 

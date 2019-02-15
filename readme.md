@@ -1,6 +1,7 @@
-[Instruction for Editing the Templates](.md)  
+[Instructions For Using the Templates](.md)  
 [Frequently Asked Questions](faq.md)  
-Templates: [Data Management Implementation Plan](https://github.com/landonma/Data-Management-Implementation-Template) | [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template) | [Documentation File](https://github.com/landonma/Data-Management-Documentation-File-Template)
+Templates: [Data Management Implementation Plan]() | [Internal Sharing Template]() | [Documentation File]()
+**To download the templates please follow the steps in the "Instructions For Using the Templates"** 
 
 
 # The Data Management Templates Project

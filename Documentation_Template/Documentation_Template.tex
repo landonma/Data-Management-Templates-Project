@@ -1,0 +1,364 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\emph{{[}Instructions in this document are in between brackets.{]}}\\
+\emph{{[}Dates in this document should use the format YYYY-MM-DD.{]}}\\
+\emph{{[}Scholarly outputs cited in this document should follow a
+consistent style (e.g.~APA style){]}}\\
+\emph{{[}When you are done filling this template delete all instructions
+and delete any sections or questions that do not apply to your
+dataset.{]}}\\
+\emph{{[}All of the items in this template are optional, but fill it as
+thoroughly as possible to ensure the reusability of your dataset.{]}}\\
+\emph{{[}You may create more than one readme file in your dataset, if
+appropriate (e.g.~one for your tabular data, one for your code){]}}\\
+\emph{{[}This template was created by Research Data Services at Oregon
+State University by modifying and expanding the University of Minnesota
+Libraries readme template that can be found in z.umn.edu/readme{]}}\\
+\emph{{[}Other sources used to elaborate this dataset: Georgia tech
+metadata template
+\url{http://d7)library.gatech.edu/research-data/metadata};{]}}\\
+\emph{{[}For questions or guidance about using this template contact
+\href{mailto:researchdataservices@oregonstate.edu}{\nolinkurl{researchdataservices@oregonstate.edu}}{]}}\\
+\emph{{[}This template is published under a CC0 license. You are free to
+reuse, redistribute and modify this template as you wish.{]}}
+
+This documentation file was generated on \emph{{[}date in YYYY-MM-DD
+format{]}} by \emph{{[}Name{]}}
+
+\subsection{GENERAL INFORMATION}\label{general-information}
+
+1) Title of Dataset
+
+2) Creator Information\\
+\emph{{[}Fill in the names and information about the researchers that
+are considered authors of this dataset. {]}}\\
+\emph{{[}ORCID is a persistent digital identifier for researchers.
+\url{https://orcid.org/} We encourage researchers to get one, but it is
+optional. You may chose to use a different author identifier if you have
+one.{]}}\\
+\emph{{[}Role: role of the author in the dataset. Consider using the
+CreDit taxonomy to describe these roles: 3rd page in
+\url{https://openscholar.mit.edu/sites/default/files/dept/files/lpub28-2_151-155)pdf}
+{]}}
+
+Name:\\
+Institution:\\
+College, School or Department:\\
+Address:\\
+Email:\\
+ORCID:\\
+Role:
+
+Name:\\
+Institution:\\
+College, School or Department:\\
+Address:\\
+Email:\\
+ORCID:\\
+Role:
+
+3) Collaborator information\\
+\emph{{[}Collaborators are not authors, but have contributed somehow to
+the dataset.{]}}
+
+Name:\\
+Institution:\\
+College, School or Department:\\
+Address:\\
+Email:\\
+ORCID:\\
+Role:
+
+Name:\\
+Institution:\\
+College, School or Department:\\
+Address:\\
+Email:\\
+ORCID:\\
+Role:
+
+4) Contact Information\\
+\emph{{[}Usually a creator, but may be somebody else. Consider adding
+more than one contact if the main contact is expected to change
+positions soon (e.g.~a student expected to graduate){]}}
+
+Name:\\
+Institution:\\
+College, School or Department:\\
+Address:\\
+Email:\\
+ORCID:
+
+\subsection{CONTEXTUAL INFORMATION}\label{contextual-information}
+
+1) Abstract for the dataset\\
+\emph{{[}The abstract should describe the dataset, not the research or
+the results obtained after analyzing the dataset. The dataset abstract
+should be different than an article or book abstract, even if the
+dataset is tightly related to the article or book.{]}}
+
+2) Context of the research project that this dataset was collected
+for.\\
+\emph{{[}Any contextual information that will help to interpret the
+dataset. You can give details about the research questions that prompted
+the collection of this dataset. {]}}
+
+3) Date of data collection:\\
+\emph{{[}single date or range or approximate date in format
+YYYY-MM-DD{]}}
+
+4) Geographic location of data collection:\\
+\emph{{[}Location of the data collection.{]}}\\
+\emph{{[}If you include coordinates use format: ``latitude, longitude''
+where latitude and longitude are preferably in fraction of degrees (a
+decimal number), not sexagesimal, and where north latitude is positive
+(south is negative) and east longitude is positive (west is
+negative).{]}}\\
+\emph{{[}If you include a Bounding box indicate Label, Latitude North,
+Latitude South, Longitude West, Longitude East{]}}
+
+5) Funding sources that supported the collection of the data:\\
+\emph{{[}Include agency and grant number if applicable{]}}
+
+\subsection{SHARING/ACCESS INFORMATION}\label{sharingaccess-information}
+
+1) Licenses/restrictions placed on the data:\\
+\emph{{[}E.g. This work is licensed under a Creative Commons No Rights
+Reserved (CC0) license; E.g. This work is on the Public Domain; E.g.
+This work is licensed under a Creative Commons Attribution 4)0
+International License{]}}
+
+2) Links to publications related to the dataset:\\
+\emph{{[}If there is a publication that uses or cites the data that has
+not been approved yet, include it here anyway, with as much information
+as you have at the moment (e.g.~authors and title). If the publications
+have been published include the DOI in the citation. {]}}
+
+3) Links to other publicly accessible locations of the data:
+
+4) Recommended citation for the data:\\
+\emph{{[}Doe, J. \& Smith, J. (2018) Title of this wonderful dataset
+\emph{{[}Data set{]}}. Oregon State University.
+\url{https://doi.org/10.7267/doid01DOI} {]}}
+
+5) Dataset Digital Object Identifier (DOI)\\
+\emph{{[}Information to add at the end of the submission process, after
+dataset review.{]}}
+
+6) Limitations to reuse\\
+\emph{{[}Describe any known problems or caveats that would limit reuse
+of the data.{]}}
+
+\subsection{VERSIONING AND PROVENANCE}\label{versioning-and-provenance}
+
+1) Last modification date\\
+\emph{{[}Date dataset was last modified in format YYYY-MM-DD{]}}
+
+2) Links/relationships to other versions of this dataset:\\
+\emph{{[}If there are previous versions explain where the other version
+is, when it was updated, and summarize the changes.{]}}\\
+\emph{{[}If a very granular description of the versions of the dataset
+is needed (e.g.~file by file) this section can be moved to Data and File
+overview.{]}}
+
+3) Was data derived from another source?\\
+\emph{{[}Answer Yes or No. If Yes, list source(s).{]}}\\
+\emph{{[}If there is code in the dataset, and the code is in a
+repository explain how this snapshot of the code is tagged in the
+repository{]}}
+
+4) Additional related data collected that was not included in the
+current data package:
+
+\subsection{METHODOLOGICAL
+INFORMATION}\label{methodological-information}
+
+\emph{{[}Describe the methodology used to generate the dataset{]}}\\
+\emph{{[}Include links or references to publications or other
+documentation containing methodological information{]}}\\
+\emph{{[}Do not copy paste the methods section from a pending
+publication unless you have made sure that you can do that. Some
+journals may consider this as a publication, and will not accept a
+manuscript with a section that has already been published.{]}}\\
+\emph{{[}If you want to refer to an article that has not been accepted
+for publication yet, include as much information as you have at the
+moment (e.g.~authors and title). If the publication has been published
+include the DOI in the citation. If the publication does not have a DOI
+(like a dissertation) include a URL.{]}}
+
+1) Description of methods used for collection/generation of data:\\
+\emph{{[}experimental design or protocols used in data collection{]}}
+
+2) Methods for processing the data:\\
+\emph{{[}describe how the submitted data were generated from the raw or
+collected data{]}}
+
+3) Instrument- or software-specific information needed to interpret the
+data:\\
+\emph{{[}If software is needed to interpret the data, explain where to
+get the software. If software is not openly available include it in the
+dataset (if possible). If including the software is not possible
+consider changing the format of the dataset. Include version of
+software. {]}}
+
+4) Standards and calibration information, if appropriate:
+
+5) Environmental/experimental conditions:\\
+\emph{{[}e.g., cloud cover, atmospheric influences, computational
+environment, etc.{]}}
+
+6) Describe any quality-assurance procedures performed on the data:
+
+7) People involved with sample collection, processing, analysis and/or
+submission:\\
+\emph{{[}If they are not include as collaborators, or if you want to
+describe more carefully who did what.{]}}
+
+\subsection{DATA \& FILE OVERVIEW}\label{data-file-overview}
+
+\emph{{[}All files in the dataset should be listed here. If a file
+naming schema is used, it is fine to explain it instead of listing all
+the files. Include directory structure if necessary.{]}}\\
+\emph{{[}Filenames should include extension.{]}}
+
+1) File List
+
+\begin{verbatim}
+  A. Filename:
+    Short description:
+
+  B. Filename:
+    Short description:
+
+  C. Filename:
+    Short description:
+\end{verbatim}
+
+2) Relationship between files:
+
+3) Formats\\
+\emph{{[}List all the formats present in this dataset. Include
+explanations or instructions if necessary (e.g.~links to page describing
+a metadata standard){]}}
+
+\subsection{\texorpdfstring{TABULAR DATA-SPECIFIC INFORMATION FOR:
+\emph{{[}FILENAME{]}}}{TABULAR DATA-SPECIFIC INFORMATION FOR: {[}FILENAME{]}}}\label{tabular-data-specific-information-for-filename}
+
+\emph{{[}This section should be created for each file or dataset that
+requires explanation of variables. Typically, this is always needed for
+tabular data with columns and column headers. All variables should be
+described. Include the units.{]}}
+
+1) Number of variables:
+
+2) Number of cases/rows:
+
+3) Missing data codes:\\
+Code/symbol Definition\\
+Code/symbol Definition
+
+4) Variable List\\
+\emph{{[}Include all information that is important: Value labels if
+appropriate. Units if appropriate. Min and Max values if appropriate.
+{]}}\\
+\emph{{[}Example:{]}}
+
+Name: Species\\
+Description: Species of the Drosophila sampled\\
+DML = Drosophila melanogaster\\
+DMJ = Drosophila mojavensis\\
+O = Other
+
+A. Name: \emph{{[}variable name{]}}\\
+Description: \emph{{[}description of the variable{]}}
+
+B. Name: \emph{{[}variable name{]}}\\
+Description: \emph{{[}description of the variable{]}}\\
+\emph{{[}Value labels if appropriate. Units if appropriate.{]}}
+
+\subsection{CODE-SPECIFIC INFORMATION:}\label{code-specific-information}
+
+1) Installation\\
+\emph{{[}Instructions to install the software, if necessary{]}}
+
+2) Requirements\\
+\emph{{[}Describe all programs and libraries that your code relies on.
+What should a user install to make sure that the code can be run
+successfully?{]}}
+
+3) Usage\\
+\emph{{[}Describe how to use the code. Include examples{]}}
+
+4) Support\\
+\emph{{[}Will the authors support others that want to use these
+scripts?{]}}
+
+5) Contributing\\
+\emph{{[}Can other researchers contribute to the code? Is the code in a
+public repository? Are pull requests welcome? In this case the code
+submitted in the repository will be a snapshot, which can be useful for
+preservation.{]}}
+
+\subsection{OTHER:}\label{other}
+
+\emph{{[}Include any other important information about the data that you
+did not have opportunity to discuss anywhere in this template{]}}
+
+\end{document}

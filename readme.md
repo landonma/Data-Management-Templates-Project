@@ -1,6 +1,6 @@
 [Instructions For Using the Templates](.md)  
 [Frequently Asked Questions](faq.md)  
-Templates: [Data Management Implementation Plan]() | [Internal Sharing Template]() | [Documentation File](Documentation_Template.md)  
+Templates: [Data Management Implementation Plan]() | [Internal Sharing Template]() | [Documentation File](Documentation Template/Documentation_Template.md)  
 **To download the templates please follow the steps in the "Instructions For Using the Templates"** 
 
 

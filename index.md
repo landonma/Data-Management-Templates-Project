@@ -1,7 +1,8 @@
 
-[Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md) |
+[Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
 
-The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. We have created templates are all generic, so they should be general enough that they will be generally useful to all disciplines. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. We also give you guidance on how to fill out each template and instuctions if you want to publish your documents on Github Pages.  
+## Info
+The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. We have created templates are all generic, so they should be general enough that they will be generally useful to all disciplines. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. We also give you guidance on how to fill out each template and instructions if you want to publish your documents on Github Pages.  
 
 ## Templates
 Included in the project are the following templates:
@@ -40,7 +41,7 @@ For more information on how to download files from our repository go [here](gith
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
 
 ## Other resources
-###
-
+### Detailed Instructions
+We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions).
 ### FAQ
-[FAQs(faq.md)  
+[Here](faq.md) are a list of frequently asked questions.

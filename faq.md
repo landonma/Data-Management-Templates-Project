@@ -1,4 +1,4 @@
-
+[Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
 # FAQ
 ## General
 ### Who is this project for?

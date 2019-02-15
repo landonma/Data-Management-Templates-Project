@@ -1,6 +1,5 @@
 
-[Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md) |
-[Templates](templates)  
+[Instructions For Using the Templates](github_instructions.md) | [Frequently Asked Questions](faq.md) | 
 **To download the templates please follow the steps [HERE](github_instructions#cloning-and-modifying-our-templates)"** 
 
 The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates are all generic, so they should be general enough that they will be generally useful to all disciplines. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. 
@@ -10,7 +9,7 @@ Included in the project are the following templates:
 
 ### 1. Data Management Implementation Plan  
 This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed. This template is avalible in the following formats
-*How to download*
+
 
 ### 2. Internal Data Sharing Plan
 
@@ -26,4 +25,4 @@ A Documentation File (sometimes referred to as README file)  has information abo
 ## Other resources
 
 ### FAQ
-[Data Management Implementation Plan Template](faq.md)  
+[FAQs(faq.md)  

@@ -67,7 +67,16 @@ If the only page you want is the data management implementation plan document yo
 You may want a list of links with some basic text for the home page. To do this, use this markdown file as a template and edit the text and links as necessary. There are three types of links used in this repository and they all have slightly different text inside the parentheses " () ". To best distinguish between these types it is best to look at the code in an editor.
 
 * Some of them are basic hyper links which contain the full url of the page in the () which is linked to ie. [google.com](google.com).
-* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). All the links that point to other pages in this repository were created using relative links. If you include the .md at the end of the file name it will load the actual markdown file and will not apply the formatting that is enabled with Github Pages(via Jekyll). Also these links keep you in your current web experience. This means that if you are navigating the pages via github's actual site it will keep you in this experience. While, if you are loading the pages through the .io path the relative links will keep loading .io pages.
+
+* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). Relative links work differently on github site versus displaying pages on your .io via Github Pages. 
+
+
+
+
+All the links that point to other pages in this repository were created using relative links. If you include the .md at the end of the file name it will load the actual markdown file and will not apply the formatting that is enabled with Github Pages(via Jekyll). Also these links keep you in your current web experience. This means that if you are navigating the pages via github's actual site it will keep you in this experience. While, if you are loading the pages through the .io path the relative links will keep loading .io pages.
+
+
+
 * There are also "links" which jump to header within the same page. These are useful when creating a table of contents and look like [this](#customizing-github-pages). They are created by putting one "#" then the name of the header you wan to jump. The header name must be typed in all lower case even if the actually header isn't and the spaces are replaces with dashes -. Make sure to change these links whenever a header name is changed. Also note that there should only be **ONE #** regardless of the header level.
 
 

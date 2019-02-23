@@ -19,9 +19,6 @@ This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name
 
 
 2) Creator Information  
-*[Fill in the names and information about the researchers that are considered authors of this dataset. ]*  
-*[ORCID is a persistent digital identifier for researchers. https://orcid.org/ We encourage researchers to get one, but it is optional. You may chose to use a different author identifier if you have one.]*  
-*[Role: role of the author in the dataset. Consider using the CreDit taxonomy to describe these roles: 3rd page in https://openscholar.mit.edu/sites/default/files/dept/files/lpub28-2_151-155)pdf ]*
 
 Name:  Mark Landon
 Institution:  !!
@@ -30,14 +27,6 @@ Address:  !!
 Email:  landonma@oregonstate.edu
 ORCID:  0000-0002-0798-6621
 Role:  Primary Investigator
-
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  0000-0001-0001-0001
-Role:  
 
 3) Collaborator information
 *[Collaborators are not authors, but have contributed somehow to the dataset.]*
@@ -73,7 +62,7 @@ ORCID:
 
 
 1) Abstract for the dataset  
-*[The abstract should describe the dataset, not the research or the results obtained after analyzing the dataset. The dataset abstract should be different than an article or book abstract, even if the dataset is tightly related to the article or book.]*
+The data set is a set of points containing fires
 
 
 
@@ -82,17 +71,14 @@ ORCID:
 
 
 3) Date of data collection:  
-*[single date or range or approximate date in format YYYY-MM-DD]*
+2012-02-01 to 2019-02-01
 
 4) Geographic location of data collection:  
-*[Location of the data collection.]*  
-*[If you include coordinates use format: "latitude, longitude" where latitude and longitude are preferably in fraction of degrees (a decimal number), not sexagesimal, and where north latitude is positive (south is negative) and east longitude is positive (west is negative).]*  
-*[If you include a Bounding box indicate Label, Latitude North, Latitude South, Longitude West, Longitude East]*
-
-
+Indonesia,
+Latitude North 5.47982086834, Latitude South -10.3599874813, Longitude West 95.2930261576, Longitude East 141.03385176
 
 5) Funding sources that supported the collection of the data:  
-*[Include agency and grant number if applicable]*
+This work was supported by  the National Science Foundation under grant No 1234567.
 
 
 
@@ -127,7 +113,7 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 
 1) Last modification date  
-*[Date dataset was last modified in format YYYY-MM-DD]*
+2019-02-26
 
 
 2) Links/relationships to other versions of this dataset:  
@@ -136,7 +122,7 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 
 3) Was data derived from another source?  
-*[Answer Yes or No. If Yes, list source(s).]*  
+Yes
 *[If there is code in the dataset, and the code is in a repository explain how this snapshot of the code is tagged in the repository]*
 
 
@@ -158,7 +144,11 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 *[experimental design or protocols used in data collection]*
 
 2) Methods for processing the data:  
-*[describe how the submitted data were generated from the raw or collected data]*
+imported FIRMs  
+imported shape file of the regions
+Filtered out all the fires below 50% confidence
+looked at the overview for Dates
+took out the 2015 fires which caused the program to form
 
 
 3) Instrument- or software-specific information needed to interpret the data:  
@@ -185,7 +175,6 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 *[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]*  
 *[Filenames should include extension.]*
-
 
 
 1) File List  
@@ -215,16 +204,15 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 *[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]*
 
 
-1) Number of variables:
+1) Number of variables: 46 variables
 
 
-2) Number of cases/rows:
+2) Number of cases/rows: 56,494 rows
 
 
 
 3) Missing data codes:
-        Code/symbol        Definition
-        Code/symbol        Definition
+        -9999   This is the number used for observations that were not recorded
 
 
 4) Variable List  
@@ -242,28 +230,141 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
    B. Name: *[variable name]*  
    Description: *[description of the variable]*  
-               *[Value labels if appropriate. Units if appropriate.]*    
+               *[Value labels if appropriate. Units if appropriate.]*   
+1) Name: OBJECTID  
+ Description: A unique ID for each row  
 
-## CODE-SPECIFIC INFORMATION:
+2) Name: LATITUDE  
+ Description:  
 
+3) Name: LONGITUDE  
+ Description:  
 
-1) Installation  
-*[Instructions to install the software, if necessary]*
+4) Name: BRIGHTNESS  
+ Description:  
 
-2) Requirements  
-*[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]*
+5) Name: SCAN  
+ Description:  
 
-3) Usage  
-*[Describe how to use the code. Include examples]*
+6) Name: TRACK  
+ Description:  
 
-4) Support  
-*[Will the authors support others that want to use these scripts?]*
+7) Name: ACQ_DATE  
+ Description: The date that the observation was recorded (Month/Day/Year, Time (AM/PM))   
 
-5) Contributing  
-*[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
+8) Name: ACQ_TIME  
+ Description: The time the observation was recorded in HHMM format  
 
+9) Name: CONFIDENCE  
+ Description: The cofidence that the observation was a fire (0-100%)  
 
+10) Name: VERSION  
+ Description:  
 
-## OTHER:
+11) Name: BRIGHT_T31  
+ Description:  
 
-*[Include any other important information about the data that you did not have opportunity to discuss anywhere in this template]*
+12) Name: FRP  
+ Description: Fire radiative power (MW)  
+
+13) Name: treecover  
+ Description:  
+
+14) Name: loss  
+ Description:  
+
+15) Name: lc_seasia  
+ Description:  
+
+16) Name: lc_ind  
+ Description:  
+
+17) Name: ifl  
+ Description:  
+
+18) Name: peat  
+ Description: Whether or not the observation was detected on peatland (0 or 1)  
+
+19) Name: legal  
+ Description:  
+
+20) Name: forma  
+ Description:  
+
+21) Name: primary_fo  
+ Description:  
+
+22) Name: ISO  
+ Description:  
+
+23) Name: ISLAND  
+ Description: The name of the island where the observation was detected  
+
+24) Name: TYPE  
+ Description:  
+
+25) Name: PROVINCE  
+ Description: Name of the province where the observation was detected  
+
+26) Name: SUBDISTRIC  
+ Description: Name of the sub-district where the observation was detected  
+
+27) Name: DISTRICT  
+ Description:  Name of the district where the observation was detected
+
+28) Name: sumatra  
+ Description: Wheather or not the point was on Sumatra or not (0 or 1)  
+
+29) Name: moratorium  
+ Description:  
+
+30) Name: primary_forest  
+ Description:  
+
+31) Name: NAME  
+ Description:  
+
+32) Name: ID  
+ Description:  
+
+33) Name: ID_KEC  
+ Description:  
+
+34) Name: ID_KAB  
+ Description:  
+
+35) Name: VILLName  
+ Description:  
+
+36) Name: pulpwood  
+ Description:  
+
+37) Name: palm_oil  
+ Description:  
+
+38) Name: logging  
+ Description:  
+
+39) Name: loggint  
+ Description:  
+
+40) Name: HIGH_CONF  
+ Description:  
+
+41) Name: cert_scheme  
+ Description:  
+
+42) Name: CERT_SCHEM  
+ Description:  
+
+43) Name: treecover_pct  
+ Description:  
+
+44) Name: lc_global  
+ Description:  
+
+45) Name: SATELLITE  
+ Description:  
+
+46) Name: wdpa  
+ Description:  

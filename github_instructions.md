@@ -43,14 +43,14 @@ Next you will need to enable Github Pages on any other repositories such as the 
 ## How to Download the Template Files
 
 #### Download/Clone our Repository
-One way to get the template files is to download the entire repository. To do this:
--Navigate to our [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)
--Click the green "Clone or download" button on the right side of the page above the list of files, then click "download zip"
--Go to your downloads folder and extract the zip file to gain access to all the files on this repository
+One way to get the template files is to download the entire repository. To do this:  
+- Navigate to our [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)  
+- Click the green "Clone or download" button on the right side of the page above the list of files, then click "download zip"  
+- Go to your downloads folder and extract the zip file to gain access to all the files on this repository  
 
 #### Download a Specific File
-If would like to select the files you download individually follow these steps:
-- Navigate to out [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)
+If would like to select the files you download individually follow these steps:  
+- Navigate to out [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)  
 - Click on the specific file you want to download by choosing it from the files list. The templates are contained within the respective folders with varous formats to choose from
 - You should now be on the file page and [it should look something like this](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docx).  
 -If is a docx or pdf file, click the "download" button on the bottom straight
@@ -66,9 +66,9 @@ Choose the file format which you wish to edit the document. If you want to publi
  !!(found [here](datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
 The guidance document (found [here](guidance-edit)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
-
+!!
 ## Markdown editing
-Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the structural functionality of LaTeX or HTML while still remaining easily readable. Through [Jekyll]() Github you can publish your markdown files as webpages. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
+Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the structural functionality of LaTeX or HTML while still remaining easily readable. !!Through [Jekyll]() Github you can publish your markdown files as webpages. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
 * There must be a space after the ##'s when making headers
 * There is NO space when bolding and using italics; ie. **bold** not ** bold **
 * If you want to force a line break put two spaces at the end of the line then press Enter.

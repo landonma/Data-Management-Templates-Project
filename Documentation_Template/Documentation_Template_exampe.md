@@ -1,15 +1,5 @@
-*[Instructions in this document are in between brackets.]*  
-*[Dates in this document should use the format YYYY-MM-DD.]*  
-*[Scholarly outputs cited in this document should follow a consistent style (e.g. APA style)]*  
-*[When you are done filling this template delete all instructions and delete any sections or questions that do not apply to your dataset.]*  
-*[All of the items in this template are optional, but fill it as thoroughly as possible to ensure the reusability of your dataset.]*  
-*[You may create more than one readme file in your dataset, if appropriate (e.g. one for your tabular data, one for your code)]*  
-*[This template was created by Research Data Services at Oregon State University by modifying and expanding the University of Minnesota Libraries readme template that can be found in z.umn.edu/readme]*  
-*[Other sources used to elaborate this dataset: Georgia tech metadata template http://d7)library.gatech.edu/research-data/metadata;]*  
-*[For questions or guidance about using this template contact researchdataservices@oregonstate.edu]*  
-*[This template is published under a CC0 license. You are free to reuse, redistribute and modify this template as you wish.]*  
 
-This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name]*
+This documentation file was generated on  2019-03-05 by Mark Landon
 
 
 ## GENERAL INFORMATION
@@ -22,7 +12,7 @@ This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name
 
 Name:  Mark Landon  
 Institution:  Oregon State University  
-College, School or Department:  
+College, School or Department:  Environment Sciences
 Address:  Heckart Lodge  
 2900 SW Jefferson Way  
 Oregon State University  
@@ -31,30 +21,31 @@ Email:  landonma@oregonstate.edu
 ORCID:  0000-0002-0798-6621  
 Role:  Primary Investigator  
 
-Name:  Mark Landon  
+Name:  Sam Smith   
 Institution:  Oregon State University  
-College, School or Department:  
+College, School or Department:  Environment Sciences
 Address:  Heckart Lodge  
 2900 SW Jefferson Way  
 Oregon State University  
 Corvallis, OR 97331-2121  
 Email:  landonma@oregonstate.edu  
-ORCID:  0000-0002-0798-6621  
-Role:  Primary Investigator  
+ORCID:  0000-0002-0798-3333  
+Role:  Co-Investigator
 
 3) Collaborator information
-*[Collaborators are not authors, but have contributed somehow to the dataset.]*
 
 Name: Joe Collaborer  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
+Institution:   Oregon State University
+College, School or Department:   Environment Sciences
+Address:  Heckart Lodge  
+2900 SW Jefferson Way  
+Oregon State University  
+Corvallis, OR 97331-2121  
+Email:  landonma@oregonstate.edu  
+ORCID:  0000-0002-0798-5555  
+Role:  Data Analyst
 
 4) Contact Information  
-*[Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]*
 
 Name:  Mark Landon  
 Institution:  Oregon State University  
@@ -71,11 +62,11 @@ ORCID:  0000-0002-0798-6621
 
 
 1) Abstract for the dataset  
-The data set is a set of points where fires were detected using the VIIRS sensor. Each point represents an infrared anomaly and spans from 2012 to 2018. The data set is separated into several shape files. One contains all the fire points in regions within the Fire Free Villages. Another contains all the fire points not in the regions participating in the Fire Free Village Program. Another contains only the fire points not in the regions participating in the Fire Free Village Program on the Island of !!.
+The data set is a set of points where fires were detected using the VIIRS sensor. Each point represents an infrared anomaly and spans from 2012 to 2018. The data set is separated into several shape files. One contains all the fire points in regions within the Fire Free Villages. Another contains all the detected fire pixels in Indonesia for the time period.
 
 
 2) Context of the research project that this dataset was collected for.  
-The project was designed to asses the differences in the use of the slash-and-burn farming techniques on Indonesian Palm Oil farms in areas participating in APRIL's Fire Free Village Program(FFVP). The project looks at the cluster and number of fires in the treated group (those in the FFVP) compared to the untreated groups(all other areas).
+The project was designed to asses the differences in the use of the slash-and-burn farming techniques on Indonesian Palm Oil farms in areas participating in APRIL's Fire Free Village Program(FFVP). The project looks at the clustering and number of fires in the treated group (those in the FFVP) compared to the untreated groups(all other areas).
 
 
 3) Date of data collection:  
@@ -105,7 +96,7 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 
 4) Recommended citation for the data:  
-Landon, M. & Smith, J. (2018) Title of this wonderful dataset [Data set. Oregon State University. https://doi.org/10.7267/123456DOI ]
+Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorough 2018 [Data set. Oregon State University. https://doi.org/10.7267/123456DOI ]
 
 
 5) Dataset Digital Object Identifier (DOI)  
@@ -119,14 +110,12 @@ Landon, M. & Smith, J. (2018) Title of this wonderful dataset [Data set. Oregon 
 
 
 2) Links/relationships to other versions of this dataset:  
-*[If there are previous versions explain where the other version is, when it was updated, and summarize the changes.]*  
-*[If a very granular description of the versions of the dataset is needed (e.g. file by file) this section can be moved to Data and File overview.]*
-
+https://doi.org/10.7267/678910DOI
+This is an updated version of the 2016 dataset. This version included two additional years of the VIIRS satellite data as well as three additional village which have been added to the Fire Free Village program.
 
 3) Was data derived from another source?  
-Yes
-The
-*[If there is code in the dataset, and the code is in a repository explain how this snapshot of the code is tagged in the repository]*
+This data was derived from VIIRS satellite data
+
 
 
 4) Additional related data collected that was not included in the current data package:
@@ -135,77 +124,44 @@ The
 
 ## METHODOLOGICAL INFORMATION
 
-
-*[Describe the methodology used to generate the dataset]*  
-*[Include links or references to publications or other documentation containing methodological information]*  
-*[Do not copy paste the methods section from a pending publication unless you have made sure that you can do that. Some journals may consider this as a publication, and will not accept a manuscript with a section that has already been published.]*  
-*[If you want to refer to an article that has not been accepted for publication yet, include as much information as you have at the moment (e.g. authors and title). If the publication has been published include the DOI in the citation. If the publication does not have a DOI (like a dissertation) include a URL.]*
-
-
-
 1) Description of methods used for collection/generation of data:  
-*[experimental design or protocols used in data collection]*
+The Visible Infrared Imaging Radiometer Suite (VIIRS) is an active fire product and is part of the Fire Imformation for Resource Managment Sytem (FIRMS). This sensor is aboard the joint NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite. The sensor looks for strong emissions in the mid-infrared bands. A suite of tests then filter out cloud mask and other false alarms. The algorithm and full description can be [read here](https://cdn.earthdata.nasa.gov/conduit/upload/4681/Schroeder_et_al_2014b_RSE.pdf).
 
 2) Methods for processing the data:  
-The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. The shape file containing the fire points and the shape file containing the region polygons. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following names from the rest of the data: !!. The selected points were then make into a new shape file and removed from the orignal shape file. The orginal was process !!.
-
-looked at the overview for Dates
-took out the 2015 fires which caused the program to form
+The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following DESA names from the rest of the data: Sering, Pelalawan, Kuala Tolam, Teluk Meranti, Teluk Binjai, Petodaan, Kuala Panduk, Pulau Muda, Langgam, Penarikan, Pkl Gondai, Tanjung Padang, Lukit and Olak. The selected points were then make into a new shape file.
 
 
-3) Instrument- or software-specific information needed to interpret the data:  
-The shape files are viable in GIS software such as ArcGIS Pro or QGIS. The files were create using ArcGIS Pro v2.3.1.
-
-5) Environmental/experimental conditions:  
-*[e.g., cloud cover, atmospheric influences, computational environment, etc.]*
-
-
-6) Describe any quality-assurance procedures performed on the data:
-
-
-7) People involved with sample collection, processing, analysis and/or submission:  
-Mike Wazowski did the data processing which created the modified shape files.
-
+3) People involved with sample collection, processing, analysis and/or submission:  
+The data processing which created the modified shape files was done by Mike Wazowski.
 
 
 ## DATA & FILE OVERVIEW
 
-
-*[All files in the dataset should be listed here. If a file naming schema is used, it is fine to explain it instead of listing all the files. Include directory structure if necessary.]*  
-*[Filenames should include extension.]*
-
-
 1) File List  
 
-      A. Filename:
-        Short description:
+      A. Filename: VIIRS_12_18_INDONESIA.shp
+        Short description: VIIRS fire pixels for Indonesia 2012 to 2018
 
-      B. Filename:
-        Short description:
+      B. Filename: VIIRS_12_18_TREATED.shp
+        Short description: VIIRS fire pixels for Indonesia 2012 to 2018
 
-      C. Filename:
-        Short description:
 
 
 2) Relationship between files:
-
+VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in FFVP.
 
 3) Formats  
-*[List all the formats present in this dataset. Include explanations or instructions if necessary (e.g. links to page describing a metadata standard)]*
+Both files are a shape file (.shp). There are several parts to a shape file but you open them in GIS software you can naviagate to the .shp.
 
 
 
-## TABULAR DATA-SPECIFIC INFORMATION FOR: *[FILENAME]*
+## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_INDONESIA.shp
 
 
-
-*[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]*
-
-
-1) Number of variables: 19 variables
+1) Number of variables: 28 variables
 
 
-2) Number of cases/rows:
+2) Number of cases/rows: 2,304,511
 
 
 
@@ -214,21 +170,7 @@ Mike Wazowski did the data processing which created the modified shape files.
 
 
 4) Variable List  
-*[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]*  
-*[Example:]*
 
-   Name: Species  
-   Description: Species of the Drosophila sampled  
-   DML = Drosophila melanogaster  
-   DMJ = Drosophila mojavensis  
-   O = Other  
-
-   A. Name: *[variable name]*  
-   Description: *[description of the variable]*  
-
-   B. Name: *[variable name]*  
-   Description: *[description of the variable]*  
-               *[Value labels if appropriate. Units if appropriate.]*   
 1) Name: OBJECTID  
  Description: A unique ID for each row  
 
@@ -261,7 +203,7 @@ Mike Wazowski did the data processing which created the modified shape files.
  Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
 
 10) Name: VERSION  
- Description:  
+ Description:  VIIRS algorithm version
 
 11) Name: BRIGHT_ti5  
  Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
@@ -273,7 +215,7 @@ Mike Wazowski did the data processing which created the modified shape files.
   Description: D= Daytime fire, N= Nighttime fire  
 
 24) Name: DESA  
- Description:  
+ Description:  Name of the village where the observation was detected
 
 25) Name: KECAMATAN  
  Description: Name of the province where the observation was detected  
@@ -285,7 +227,91 @@ Mike Wazowski did the data processing which created the modified shape files.
  Description:  Name of the district where the observation was detected
 
 28) Name: LUAS  
- Description: Wheather or not the point was on Sumatra or not (0 or 1)  
+ Description: Whether or not the point was on Sumatra or not (0 or 1)
 
-29) Name: MI_PRINX  
- Description:  
+## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_TREATED.shp
+
+
+ 1) Number of variables: 28 variables
+
+
+ 2) Number of cases/rows: 45,432
+
+
+
+ 3) Missing data codes:
+         -9999   This is the number used for observations that were not recorded
+
+
+ 4) Variable List  
+
+
+    Name: Species  
+    Description: Species of the Drosophila sampled  
+    DML = Drosophila melanogaster  
+    DMJ = Drosophila mojavensis  
+    O = Other  
+
+    A. Name: *[variable name]*  
+    Description: *[description of the variable]*  
+
+    B. Name: *[variable name]*  
+    Description: *[description of the variable]*  
+                *[Value labels if appropriate. Units if appropriate.]*   
+ 1) Name: OBJECTID  
+  Description: A unique ID for each row  
+
+ 2) Name: LATITUDE  
+  Description: The latitudinal center of nominal 375 m fire pixel  
+
+ 3) Name: LONGITUDE  
+  Description:  The longitudinal center of nominal 375 m fire pixel  
+
+ 4) Name: BRIGHT_ti4  
+  Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
+
+ 5) Name: SCAN  
+  Description: Actual along scan pixel size, 375 m at nadir  
+
+ 6) Name: TRACK  
+  Description: Actual along track pixel size, 375 at nadir   
+
+ 7) Name: ACQ_DATE  
+  Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
+
+ 8) Name: ACQ_TIME  
+  Description: The time the observation was recorded in (HHMM)  
+
+ 9) Name: Satellite  
+   Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
+
+
+ 9) Name: CONFIDENCE  
+  Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
+
+ 10) Name: VERSION  
+  Description:  VIIRS algorithm version
+
+ 11) Name: BRIGHT_ti5  
+  Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
+
+ 12) Name: FRP  
+  Description: Fire radiative power (MW)!!  
+
+  24) Name: DAYNIGHT  
+   Description: D= Daytime fire, N= Nighttime fire  
+
+ 24) Name: DESA  
+  Description:  Name of the village where the observation was detected
+
+ 25) Name: KECAMATAN  
+  Description: Name of the province where the observation was detected  
+
+ 26) Name: KABUPATEN  
+  Description: Name of the sub-district where the observation was detected  
+
+ 27) Name: PROPINSI  
+  Description:  Name of the district where the observation was detected
+
+ 28) Name: LUAS  
+  Description: Whether or not the point was on Sumatra or not (0 or 1)  

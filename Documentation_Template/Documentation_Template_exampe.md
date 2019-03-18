@@ -5,7 +5,7 @@ This documentation file was generated on  2019-03-05 by Mark Landon
 ## GENERAL INFORMATION
 
 
-1) Title of Dataset
+1) Title of Dataset VIIRS Detected Fire Pixel in Indonesia 2012 thorough 2018 v2
 
 
 2) Creator Information  
@@ -93,10 +93,10 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 *[If there is a publication that uses or cites the data that has not been approved yet, include it here anyway, with as much information as you have at the moment (e.g. authors and title). If the publications have been published include the DOI in the citation. ]*
 
 3) Links to other publicly accessible locations of the data:
-
+None
 
 4) Recommended citation for the data:  
-Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorough 2018 [Data set. Oregon State University. https://doi.org/10.7267/123456DOI ]
+Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorough 2018 v2[Data set.] Oregon State University. https://doi.org/10.7267/123456DOI ]
 
 
 5) Dataset Digital Object Identifier (DOI)  
@@ -106,15 +106,15 @@ Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorou
 
 
 1) Last modification date  
-2019-02-26
+2019-03-05
 
 
 2) Links/relationships to other versions of this dataset:  
 https://doi.org/10.7267/678910DOI
-This is an updated version of the 2016 dataset. This version included two additional years of the VIIRS satellite data as well as three additional village which have been added to the Fire Free Village program.
+This is an updated version of the 2016 dataset. !!This version included two additional years of the VIIRS satellite data as well as three additional village which have been added to the Fire Free Village program.
 
 3) Was data derived from another source?  
-This data was derived from VIIRS satellite data
+This data was derived from VIIRS satellite data !! more informaion and link, !! shape file of 
 
 
 
@@ -125,10 +125,10 @@ This data was derived from VIIRS satellite data
 ## METHODOLOGICAL INFORMATION
 
 1) Description of methods used for collection/generation of data:  
-The Visible Infrared Imaging Radiometer Suite (VIIRS) is an active fire product and is part of the Fire Imformation for Resource Managment Sytem (FIRMS). This sensor is aboard the joint NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite. The sensor looks for strong emissions in the mid-infrared bands. A suite of tests then filter out cloud mask and other false alarms. The algorithm and full description can be [read here](https://cdn.earthdata.nasa.gov/conduit/upload/4681/Schroeder_et_al_2014b_RSE.pdf).
+The Visible Infrared Imaging Radiometer Suite (VIIRS) is an active fire product and is part of the Fire Imformation for Resource Managment Sytem (FIRMS). This sensor is aboard the joint NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite. The sensor looks for strong emissions in the mid-infrared bands. A suite of tests then filter out cloud mask and other false alarms. The algorithm and full description can be [read here](https://cdn.earthdata.nasa.gov/conduit/upload/4681/Schroeder_et_al_2014b_RSE.pdf).!! change name and decib of link
 
 2) Methods for processing the data:  
-The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following DESA names from the rest of the data: Sering, Pelalawan, Kuala Tolam, Teluk Meranti, Teluk Binjai, Petodaan, Kuala Panduk, Pulau Muda, Langgam, Penarikan, Pkl Gondai, Tanjung Padang, Lukit and Olak. The selected points were then make into a new shape file.
+The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following DESA names from the rest of the data: Sering, Pelalawan, Kuala Tolam, Teluk Meranti, Teluk Binjai, Petodaan, Kuala Panduk, Pulau Muda, Langgam, Penarikan, Pkl Gondai, Tanjung Padang, Lukit and Olak. The selected points were then make into a new shape file. !! R scribe
 
 
 3) People involved with sample collection, processing, analysis and/or submission:  
@@ -148,12 +148,12 @@ The data processing which created the modified shape files was done by Mike Wazo
 
 
 2) Relationship between files:
-VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in FFVP.
+VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in .
 
 3) Formats  
 Both files are a shape file (.shp). There are several parts to a shape file but you open them in GIS software you can naviagate to the .shp.
 
-
+!! talk about other file names
 
 ## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_INDONESIA.shp
 
@@ -315,3 +315,11 @@ Both files are a shape file (.shp). There are several parts to a shape file but 
 
  28) Name: LUAS  
   Description: Whether or not the point was on Sumatra or not (0 or 1)  
+  
+  !! add r and code specifc section and packages 
+  rcode in github repo and will be kept updated
+!! make sure csv gis
+
+!! description of r variables under usage or other in code sp
+
+!!FGDC CSDGM talk about in methodalogy

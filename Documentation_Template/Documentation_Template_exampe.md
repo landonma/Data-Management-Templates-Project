@@ -20,26 +20,32 @@ This documentation file was generated on *[date in YYYY-MM-DD format]* by *[Name
 
 2) Creator Information  
 
-Name:  Mark Landon
-Institution:  !!
+Name:  Mark Landon  
+Institution:  Oregon State University  
 College, School or Department:  
-Address:  !!
-Email:  landonma@oregonstate.edu
-ORCID:  0000-0002-0798-6621
-Role:  Primary Investigator
+Address:  Heckart Lodge  
+2900 SW Jefferson Way  
+Oregon State University  
+Corvallis, OR 97331-2121  
+Email:  landonma@oregonstate.edu  
+ORCID:  0000-0002-0798-6621  
+Role:  Primary Investigator  
+
+Name:  Mark Landon  
+Institution:  Oregon State University  
+College, School or Department:  
+Address:  Heckart Lodge  
+2900 SW Jefferson Way  
+Oregon State University  
+Corvallis, OR 97331-2121  
+Email:  landonma@oregonstate.edu  
+ORCID:  0000-0002-0798-6621  
+Role:  Primary Investigator  
 
 3) Collaborator information
 *[Collaborators are not authors, but have contributed somehow to the dataset.]*
 
-Name:  
-Institution:  
-College, School or Department:  
-Address:  
-Email:  
-ORCID:  
-Role:  
-
-Name:  
+Name: Joe Collaborer  
 Institution:  
 College, School or Department:  
 Address:  
@@ -50,28 +56,30 @@ Role:
 4) Contact Information  
 *[Usually a creator, but may be somebody else. Consider adding more than one contact if the main contact is expected to change positions soon (e.g. a student expected to graduate)]*
 
-Name:  
-Institution:  
+Name:  Mark Landon  
+Institution:  Oregon State University  
 College, School or Department:  
-Address:  
-Email:  
-ORCID:  
+Address:  Heckart Lodge  
+2900 SW Jefferson Way  
+Oregon State University  
+Corvallis, OR 97331-2121  
+Email:  landonma@oregonstate.edu  
+ORCID:  0000-0002-0798-6621  
 
 
 ## CONTEXTUAL INFORMATION
 
 
 1) Abstract for the dataset  
-The data set is a set of points containing fires
-
+The data set is a set of points where fires were detected using the VIIRS sensor. Each point represents an infrared anomaly and spans from 2012 to 2018. The data set is separated into several shape files. One contains all the fire points in regions within the Fire Free Villages. Another contains all the fire points not in the regions participating in the Fire Free Village Program. Another contains only the fire points not in the regions participating in the Fire Free Village Program on the Island of !!.
 
 
 2) Context of the research project that this dataset was collected for.  
-*[Any contextual information that will help to interpret the dataset. You can give details about the research questions that prompted the collection of this dataset. ]*
+The project was designed to asses the differences in the use of the slash-and-burn farming techniques on Indonesian Palm Oil farms in areas participating in APRIL's Fire Free Village Program(FFVP). The project looks at the cluster and number of fires in the treated group (those in the FFVP) compared to the untreated groups(all other areas).
 
 
 3) Date of data collection:  
-2012-02-01 to 2019-02-01
+2012-01-01 to 2018-12-31
 
 4) Geographic location of data collection:  
 Indonesia,
@@ -97,17 +105,11 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 
 4) Recommended citation for the data:  
-*[Doe, J. & Smith, J. (2018) Title of this wonderful dataset *[Data set]*. Oregon State University. https://doi.org/10.7267/doid01DOI ]*
+Landon, M. & Smith, J. (2018) Title of this wonderful dataset [Data set. Oregon State University. https://doi.org/10.7267/123456DOI ]
 
 
 5) Dataset Digital Object Identifier (DOI)  
-*[Information to add at the end of the submission process, after dataset review.]*
-
-
-6) Limitations to reuse  
-*[Describe any known problems or caveats that would limit reuse of the data.]*
-
-
+10.7267/123456DOI
 
 ## VERSIONING AND PROVENANCE
 
@@ -123,6 +125,7 @@ This work is licensed under a Creative Commons No Rights Reserved (CC0) license
 
 3) Was data derived from another source?  
 Yes
+The
 *[If there is code in the dataset, and the code is in a repository explain how this snapshot of the code is tagged in the repository]*
 
 
@@ -144,19 +147,14 @@ Yes
 *[experimental design or protocols used in data collection]*
 
 2) Methods for processing the data:  
-imported FIRMs  
-imported shape file of the regions
-Filtered out all the fires below 50% confidence
+The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. The shape file containing the fire points and the shape file containing the region polygons. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following names from the rest of the data: !!. The selected points were then make into a new shape file and removed from the orignal shape file. The orginal was process !!.
+
 looked at the overview for Dates
 took out the 2015 fires which caused the program to form
 
 
 3) Instrument- or software-specific information needed to interpret the data:  
-*[If software is needed to interpret the data, explain where to get the software. If software is not openly available include it in the dataset (if possible). If including the software is not possible consider changing the format of the dataset. Include version of software. ]*
-
-
-4) Standards and calibration information, if appropriate:
-
+The shape files are viable in GIS software such as ArcGIS Pro or QGIS. The files were create using ArcGIS Pro v2.3.1.
 
 5) Environmental/experimental conditions:  
 *[e.g., cloud cover, atmospheric influences, computational environment, etc.]*
@@ -166,7 +164,7 @@ took out the 2015 fires which caused the program to form
 
 
 7) People involved with sample collection, processing, analysis and/or submission:  
-*[If they are not include as collaborators, or if you want to describe more carefully who did what.]*
+Mike Wazowski did the data processing which created the modified shape files.
 
 
 
@@ -204,10 +202,10 @@ took out the 2015 fires which caused the program to form
 *[This section should be created for each file or dataset that requires explanation of variables. Typically, this is always needed for tabular data with columns and column headers. All variables should be described. Include the units.]*
 
 
-1) Number of variables: 46 variables
+1) Number of variables: 19 variables
 
 
-2) Number of cases/rows: 56,494 rows
+2) Number of cases/rows:
 
 
 
@@ -235,136 +233,59 @@ took out the 2015 fires which caused the program to form
  Description: A unique ID for each row  
 
 2) Name: LATITUDE  
- Description:  
+ Description: The latitudinal center of nominal 375 m fire pixel  
 
 3) Name: LONGITUDE  
- Description:  
+ Description:  The longitudinal center of nominal 375 m fire pixel  
 
-4) Name: BRIGHTNESS  
- Description:  
+4) Name: BRIGHT_ti4  
+ Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
 
 5) Name: SCAN  
- Description:  
+ Description: Actual along scan pixel size, 375 m at nadir  
 
 6) Name: TRACK  
- Description:  
+ Description: Actual along track pixel size, 375 at nadir   
 
 7) Name: ACQ_DATE  
- Description: The date that the observation was recorded (Month/Day/Year, Time (AM/PM))   
+ Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
 
 8) Name: ACQ_TIME  
- Description: The time the observation was recorded in HHMM format  
+ Description: The time the observation was recorded in (HHMM)  
+
+9) Name: Satellite  
+  Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
+
 
 9) Name: CONFIDENCE  
- Description: The cofidence that the observation was a fire (0-100%)  
+ Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
 
 10) Name: VERSION  
  Description:  
 
-11) Name: BRIGHT_T31  
- Description:  
+11) Name: BRIGHT_ti5  
+ Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
 
 12) Name: FRP  
- Description: Fire radiative power (MW)  
+ Description: Fire radiative power (MW)!!  
 
-13) Name: treecover  
+ 24) Name: DAYNIGHT  
+  Description: D= Daytime fire, N= Nighttime fire  
+
+24) Name: DESA  
  Description:  
 
-14) Name: loss  
- Description:  
-
-15) Name: lc_seasia  
- Description:  
-
-16) Name: lc_ind  
- Description:  
-
-17) Name: ifl  
- Description:  
-
-18) Name: peat  
- Description: Whether or not the observation was detected on peatland (0 or 1)  
-
-19) Name: legal  
- Description:  
-
-20) Name: forma  
- Description:  
-
-21) Name: primary_fo  
- Description:  
-
-22) Name: ISO  
- Description:  
-
-23) Name: ISLAND  
- Description: The name of the island where the observation was detected  
-
-24) Name: TYPE  
- Description:  
-
-25) Name: PROVINCE  
+25) Name: KECAMATAN  
  Description: Name of the province where the observation was detected  
 
-26) Name: SUBDISTRIC  
+26) Name: KABUPATEN  
  Description: Name of the sub-district where the observation was detected  
 
-27) Name: DISTRICT  
+27) Name: PROPINSI  
  Description:  Name of the district where the observation was detected
 
-28) Name: sumatra  
+28) Name: LUAS  
  Description: Wheather or not the point was on Sumatra or not (0 or 1)  
 
-29) Name: moratorium  
- Description:  
-
-30) Name: primary_forest  
- Description:  
-
-31) Name: NAME  
- Description:  
-
-32) Name: ID  
- Description:  
-
-33) Name: ID_KEC  
- Description:  
-
-34) Name: ID_KAB  
- Description:  
-
-35) Name: VILLName  
- Description:  
-
-36) Name: pulpwood  
- Description:  
-
-37) Name: palm_oil  
- Description:  
-
-38) Name: logging  
- Description:  
-
-39) Name: loggint  
- Description:  
-
-40) Name: HIGH_CONF  
- Description:  
-
-41) Name: cert_scheme  
- Description:  
-
-42) Name: CERT_SCHEM  
- Description:  
-
-43) Name: treecover_pct  
- Description:  
-
-44) Name: lc_global  
- Description:  
-
-45) Name: SATELLITE  
- Description:  
-
-46) Name: wdpa  
+29) Name: MI_PRINX  
  Description:  

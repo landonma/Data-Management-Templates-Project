@@ -1,11 +1,11 @@
-
+**This is a fictional data set created to serve as an example of how to use the Documentation Template created for the OSU Data Managment Templates Project. Some of the people, grants, and links are fictional**
 This documentation file was generated on  2019-03-05 by Mark Landon
 
 
 ## GENERAL INFORMATION
 
 
-1) Title of Dataset VIIRS Detected Fire Pixel in Indonesia 2012 thorough 2018 v2
+1) Title of Dataset VIIRS Detected Fire Pixels in Indonesia 2012 thorough 2018 v2
 
 
 2) Creator Information  
@@ -87,7 +87,7 @@ This work was supported by  the National Science Foundation under grant No 12345
 
 
 1) Licenses/restrictions placed on the data:  
-This work is licensed under a Creative Commons No Rights Reserved (CC0) license
+This work is licensed under a [Creative Commons No Rights Reserved (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/)
 
 2) Links to publications related to the dataset:  
 *[If there is a publication that uses or cites the data that has not been approved yet, include it here anyway, with as much information as you have at the moment (e.g. authors and title). If the publications have been published include the DOI in the citation. ]*
@@ -111,12 +111,10 @@ Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorou
 
 2) Links/relationships to other versions of this dataset:  
 https://doi.org/10.7267/678910DOI
-This is an updated version of the 2016 dataset. !!This version included two additional years of the VIIRS satellite data as well as three additional village which have been added to the Fire Free Village program.
+This is version two of a data set originally created in June 2017. Version two includes 1.5  additional years of the VIIRS satellite data as well as the three additional village which have been added to the Fire Free Village program.
 
 3) Was data derived from another source?  
-This data was derived from VIIRS satellite data !! more informaion and link, !! shape file of 
-
-
+This data was derived from the VIIRS active fire archive dataset and the OpenStreetMap (OSM) Indonesian political boundary shapefile. The satellite data can be downloaded from the NASA website by following the link and submitting a request [FIRMS Arive Download](https://firms.modaps.eosdis.nasa.gov/download/). The OpenStreetMap boundary shapefile can be downloaded from the following link [OSM Indonesia political boundarys](https://openstreetmap.id/en/data-openstreetmap-indonesia/shapefiles)
 
 4) Additional related data collected that was not included in the current data package:
 
@@ -125,7 +123,7 @@ This data was derived from VIIRS satellite data !! more informaion and link, !! 
 ## METHODOLOGICAL INFORMATION
 
 1) Description of methods used for collection/generation of data:  
-The Visible Infrared Imaging Radiometer Suite (VIIRS) is an active fire product and is part of the Fire Imformation for Resource Managment Sytem (FIRMS). This sensor is aboard the joint NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite. The sensor looks for strong emissions in the mid-infrared bands. A suite of tests then filter out cloud mask and other false alarms. The algorithm and full description can be [read here](https://cdn.earthdata.nasa.gov/conduit/upload/4681/Schroeder_et_al_2014b_RSE.pdf).!! change name and decib of link
+The Visible Infrared Imaging Radiometer Suite (VIIRS) is an active fire product and is part of the Fire Imformation for Resource Managment Sytem (FIRMS). This sensor is aboard the joint NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite. The sensor looks for strong emissions in the mid-infrared bands. A suite of tests then filter out cloud mask and other false alarms. A full account of the product and the algorithm is described in this article [New VIIRS 375 m active fire detection data product](https://cdn.earthdata.nasa.gov/conduit/upload/4681/Schroeder_et_al_2014b_RSE.pdf).
 
 2) Methods for processing the data:  
 The data was first process in ArcGIS Pro v2.3.1 then process in RStudio Desktop 1.1.463 with R-3.5.2. Using the select tool all observations with a low confidence were filtered out only leaving the observations with nominal or high confidence. The identity tool was then used to add the region, sub-district and village name to the points. The select tool was used to separate the points with the following DESA names from the rest of the data: Sering, Pelalawan, Kuala Tolam, Teluk Meranti, Teluk Binjai, Petodaan, Kuala Panduk, Pulau Muda, Langgam, Penarikan, Pkl Gondai, Tanjung Padang, Lukit and Olak. The selected points were then make into a new shape file. !! R scribe
@@ -139,11 +137,15 @@ The data processing which created the modified shape files was done by Mike Wazo
 
 1) File List  
 
-      A. Filename: VIIRS_12_18_INDONESIA.shp
-        Short description: VIIRS fire pixels for Indonesia 2012 to 2018
+      A. Filename: VIIRS_12_18_INDONESIA.shp  
+        Short description: VIIRS fire pixels for Indonesia 2012 to 2018.  
+        The .cpg .dbf .prj .sbn .sbx .shp.xml components of this file are also include
 
-      B. Filename: VIIRS_12_18_TREATED.shp
-        Short description: VIIRS fire pixels for Indonesia 2012 to 2018
+      B. Filename: VIIRS_12_18_TREATED.shp  
+        Short description: VIIRS fire pixels for Indonesia 2012 to 2018.  
+        The .cpg .dbf .prj .sbn .sbx .shp.xml components of this file are also include  
+
+      C. Filename: VIIRS_12_FFVP.rmd
 
 
 
@@ -151,7 +153,7 @@ The data processing which created the modified shape files was done by Mike Wazo
 VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in .
 
 3) Formats  
-Both files are a shape file (.shp). There are several parts to a shape file but you open them in GIS software you can naviagate to the .shp.
+Two of the files are shapefiles with the extension .shp. As is known, shapefiles have parts which are separated into differ extensions when viewed outside of spatial software. The two shape files in this dataset have, in addition to the .shp file, 6 other parts. The .shp contains the feature geometry, the .shx contains the positional index for searching forward and backward, and the .dbf is a database file that contains the column attributes; these three file types are mandatory for all shapefiles. The following are the optional but common parts of the shapefile; the .cpg indext!!ifies character encoding for the code page, the .prj contains the coordinate reference system, and the .sbn and the .sbx make up a shape file index which speeds up queries. VIIRS_12_FFVP.rmd is an R markdown file which contains script that can be run as R as well as formatting which makes the code more readable.
 
 !! talk about other file names
 
@@ -315,8 +317,8 @@ Both files are a shape file (.shp). There are several parts to a shape file but 
 
  28) Name: LUAS  
   Description: Whether or not the point was on Sumatra or not (0 or 1)  
-  
-  !! add r and code specifc section and packages 
+
+  !! add r and code specifc section and packages
   rcode in github repo and will be kept updated
 !! make sure csv gis
 

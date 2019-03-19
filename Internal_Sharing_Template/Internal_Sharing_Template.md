@@ -131,7 +131,7 @@ The measures for establishing safeguards to protect the confidentiality of the d
 4)	Other workflows
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.
 
-## SECTION V: APPROVAL AND IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
+## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
 1)	Duration of Agreement
 This internal data sharing plan is effective from ____________________  through ________________.
@@ -139,34 +139,5 @@ This internal data sharing plan is effective from ____________________  through 
 2)	Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. All members of the Project should discuss the amendments modifications or updates and reach consensus over the new version of the Plan. Such consensus will be formalized by signing the plan by each of the Project members.
 
-3) This Internal Data Sharing Plan will be given to all new Project members. Questions or concerns should be addressed. The Project member will acknowledge having read and understood this Internal Data Sharing Plan and agreeing to comply with it by signing below.
+3) This Internal Data Sharing Plan will be given to all new Project members. Questions or concerns should be addressed.
 
-
-
-
-
-
-Hence, I understand all sections of the Internal Data Sharing Plan. I agree to comply with this plan and conform all the terms of the plan.
-
-
-
-Name:  
-Date:    
-
-
-
-Name:  
-Date:   
-
-
-
-Name:  
-Date:
-
-
-Name:  
-Date:
-
-
-Name:  
-Date:

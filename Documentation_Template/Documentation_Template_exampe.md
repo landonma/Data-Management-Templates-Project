@@ -155,86 +155,11 @@ VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only th
 3) Formats  
 Two of the files are shapefiles with the extension .shp. As is known, shapefiles have parts which are separated into differ extensions when viewed outside of spatial software. The two shape files in this dataset have, in addition to the .shp file, 6 other parts. The .shp contains the feature geometry, the .shx contains the positional index for searching forward and backward, and the .dbf is a database file that contains the column attributes; these three file types are mandatory for all shapefiles. The following are the optional but common parts of the shapefile; the .cpg indext!!ifies character encoding for the code page, the .prj contains the coordinate reference system, and the .sbn and the .sbx make up a shape file index which speeds up queries. VIIRS_12_FFVP.rmd is an R markdown file which contains script that can be run as R as well as formatting which makes the code more readable.
 
-!! talk about other file names
 
 ## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_INDONESIA.shp
 
 
-1) Number of variables: 28 variables
-
-
-2) Number of cases/rows: 2,304,511
-
-
-
-3) Missing data codes:
-        -9999   This is the number used for observations that were not recorded
-
-
-4) Variable List  
-
-1) Name: OBJECTID  
- Description: A unique ID for each row  
-
-2) Name: LATITUDE  
- Description: The latitudinal center of nominal 375 m fire pixel  
-
-3) Name: LONGITUDE  
- Description:  The longitudinal center of nominal 375 m fire pixel  
-
-4) Name: BRIGHT_ti4  
- Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
-
-5) Name: SCAN  
- Description: Actual along scan pixel size, 375 m at nadir  
-
-6) Name: TRACK  
- Description: Actual along track pixel size, 375 at nadir   
-
-7) Name: ACQ_DATE  
- Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
-
-8) Name: ACQ_TIME  
- Description: The time the observation was recorded in (HHMM)  
-
-9) Name: Satellite  
-  Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
-
-
-9) Name: CONFIDENCE  
- Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
-
-10) Name: VERSION  
- Description:  VIIRS algorithm version
-
-11) Name: BRIGHT_ti5  
- Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
-
-12) Name: FRP  
- Description: Fire radiative power (MW)!!  
-
- 24) Name: DAYNIGHT  
-  Description: D= Daytime fire, N= Nighttime fire  
-
-24) Name: DESA  
- Description:  Name of the village where the observation was detected
-
-25) Name: KECAMATAN  
- Description: Name of the province where the observation was detected  
-
-26) Name: KABUPATEN  
- Description: Name of the sub-district where the observation was detected  
-
-27) Name: PROPINSI  
- Description:  Name of the district where the observation was detected
-
-28) Name: LUAS  
- Description: Whether or not the point was on Sumatra or not (0 or 1)
-
-## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_TREATED.shp
-
-
- 1) Number of variables: 28 variables
+ 1) Number of variables: 19 variables
 
 
  2) Number of cases/rows: 45,432
@@ -247,76 +172,152 @@ Two of the files are shapefiles with the extension .shp. As is known, shapefiles
 
  4) Variable List  
 
+    1. Name: OBJECTID  
+    Description: A unique ID for each row  
 
-    Name: Species  
-    Description: Species of the Drosophila sampled  
-    DML = Drosophila melanogaster  
-    DMJ = Drosophila mojavensis  
-    O = Other  
+    2. Name: LATITUDE  
+    Description: The latitudinal center of nominal 375 m fire pixel  
 
-    A. Name: *[variable name]*  
-    Description: *[description of the variable]*  
+    3. Name: LONGITUDE  
+     Description:  The longitudinal center of nominal 375 m fire pixel  
 
-    B. Name: *[variable name]*  
-    Description: *[description of the variable]*  
-                *[Value labels if appropriate. Units if appropriate.]*   
- 1) Name: OBJECTID  
-  Description: A unique ID for each row  
+    4. Name: BRIGHT_ti4  
+     Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
 
- 2) Name: LATITUDE  
-  Description: The latitudinal center of nominal 375 m fire pixel  
+    5. Name: SCAN  
+     Description: Actual along scan pixel size, 375 m at nadir  
 
- 3) Name: LONGITUDE  
-  Description:  The longitudinal center of nominal 375 m fire pixel  
+    6. Name: TRACK  
+    Description: Actual along track pixel size, 375 at nadir   
 
- 4) Name: BRIGHT_ti4  
-  Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
+    7. Name: ACQ_DATE  
+    Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
 
- 5) Name: SCAN  
-  Description: Actual along scan pixel size, 375 m at nadir  
+    8. Name: ACQ_TIME  
+    Description: The time the observation was recorded in (HHMM)  
 
- 6) Name: TRACK  
-  Description: Actual along track pixel size, 375 at nadir   
+    9. Name: Satellite  
+    Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
 
- 7) Name: ACQ_DATE  
-  Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
+    10. Name: CONFIDENCE  
+    Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
 
- 8) Name: ACQ_TIME  
-  Description: The time the observation was recorded in (HHMM)  
+    11. Name: VERSION  
+    Description:  VIIRS algorithm version
 
- 9) Name: Satellite  
-   Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
+    12. Name: BRIGHT_ti5  
+    Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
+
+    13. Name: FRP  
+    Description: Fire radiative power (MW)   
+
+    14. Name: DAYNIGHT  
+    Description: D= Daytime fire, N= Nighttime fire  
+
+    15. Name: DESA  
+    Description:  Name of the village where the observation was detected
+
+    16. Name: KECAMATAN  
+    Description: Name of the province where the observation was detected  
+
+    17. Name: KABUPATEN  
+    Description: Name of the sub-district where the observation was detected  
+
+    18. Name: PROPINSI  
+    Description:  Name of the district where the observation was detected
+
+    19. Name: LUAS  
+    Description: Whether or not the point was on Sumatra or not (0 or 1)
+## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_TREATED.shp
 
 
- 9) Name: CONFIDENCE  
-  Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
+ 1) Number of variables: 19 variables
 
- 10) Name: VERSION  
-  Description:  VIIRS algorithm version
 
- 11) Name: BRIGHT_ti5  
-  Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
+ 2) Number of cases/rows: 45,432
 
- 12) Name: FRP  
-  Description: Fire radiative power (MW)!!  
 
-  24) Name: DAYNIGHT  
-   Description: D= Daytime fire, N= Nighttime fire  
 
- 24) Name: DESA  
-  Description:  Name of the village where the observation was detected
+ 3) Missing data codes:
+         -9999   This is the number used for observations that were not recorded
 
- 25) Name: KECAMATAN  
-  Description: Name of the province where the observation was detected  
 
- 26) Name: KABUPATEN  
-  Description: Name of the sub-district where the observation was detected  
+ 4) Variable List  
 
- 27) Name: PROPINSI  
-  Description:  Name of the district where the observation was detected
+    1. Name: OBJECTID  
+    Description: A unique ID for each row  
 
- 28) Name: LUAS  
-  Description: Whether or not the point was on Sumatra or not (0 or 1)  
+    2. Name: LATITUDE  
+    Description: The latitudinal center of nominal 375 m fire pixel  
+
+    3. Name: LONGITUDE  
+     Description:  The longitudinal center of nominal 375 m fire pixel  
+
+    4. Name: BRIGHT_ti4  
+     Description: VIIRS 1-4 brightness temperature(Kelvin) of the fire pixel  
+
+    5. Name: SCAN  
+     Description: Actual along scan pixel size, 375 m at nadir  
+
+    6. Name: TRACK  
+    Description: Actual along track pixel size, 375 at nadir   
+
+    7. Name: ACQ_DATE  
+    Description: The date that the observation was recorded ( Month/Day/Year, Time (AM/PM) )   
+
+    8. Name: ACQ_TIME  
+    Description: The time the observation was recorded in (HHMM)  
+
+    9. Name: Satellite  
+    Satellite that recorded the fire pixel, N = Suomi National Polar-orbiting Partnership (Suomi-NPP)  
+
+    10. Name: CONFIDENCE  
+    Description: The confidence that the observation was a fire. l = low confidence, n = nominal, h = high confidence  
+
+    11. Name: VERSION  
+    Description:  VIIRS algorithm version
+
+    12. Name: BRIGHT_ti5  
+    Description: I-5 Channel brightness temperature (Kelvin) of the fire pixel  
+
+    13. Name: FRP  
+    Description: Fire radiative power (MW)   
+
+    14. Name: DAYNIGHT  
+    Description: D= Daytime fire, N= Nighttime fire  
+
+    15. Name: DESA  
+    Description:  Name of the village where the observation was detected
+
+    16. Name: KECAMATAN  
+    Description: Name of the province where the observation was detected  
+
+    17. Name: KABUPATEN  
+    Description: Name of the sub-district where the observation was detected  
+
+    18. Name: PROPINSI  
+    Description:  Name of the district where the observation was detected
+
+    19. Name: LUAS  
+    Description: Whether or not the point was on Sumatra or not (0 or 1)  
+## CODE-SPECIFIC INFORMATION:
+
+
+  1) Installation  
+  *[Instructions to install the software, if necessary]*
+
+  2) Requirements  
+  *[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]*
+
+  3) Usage  
+  *[Describe how to use the code. Include examples]*
+
+  4) Support  
+  *[Will the authors support others that want to use these scripts?]*
+
+  5) Contributing  
+  *[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
+
 
   !! add r and code specifc section and packages
   rcode in github repo and will be kept updated

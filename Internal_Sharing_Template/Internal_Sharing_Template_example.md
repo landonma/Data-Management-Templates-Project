@@ -170,9 +170,8 @@ Meteo: there will be a version log informing of changes. If researches have ques
 
 
 ### B) Data storage
-Datasets will be shared internally by keeping.
+Datasets will be shared with the OSU faculty, team members, and students thorugh the R-drive (R:\projects\BrBoMaster). 
 
-Box
 
 ### C) Confidentiality
 The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.

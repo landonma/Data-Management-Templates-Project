@@ -35,7 +35,7 @@ The data management plan for the Project can be found *[complete]*.
 **Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).
 
 **Student:** member of the project pursing a degree and performs a degree-related research under the supervision of faculty member (principle investigator). Undergraduate, master, PhD or others.  
-2)	Responsibilities *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
+2)	Responsibiliti.s *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 Responsibility of: *[complete with one of the roles defined above]*.

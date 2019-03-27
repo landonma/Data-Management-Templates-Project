@@ -302,27 +302,20 @@ Two of the files are shapefiles with the extension .shp. As is known, shapefiles
     Description: Whether or not the point was on Sumatra or not (0 or 1)  
 ## CODE-SPECIFIC INFORMATION:
 
-
   1) Installation  
-  *[Instructions to install the software, if necessary]*
+  To run the .rmd file you must install both R and RStudios.
 
   2) Requirements  
-  *[Describe all programs and libraries that your code relies on. What should a user install to make sure that the code can be run successfully?]*
+  The following packages are required to run the R-code: xlsx, ggplot2, sp, maps, mapdata, rgdal, maptools, raster, ggmap, geosphere.
 
   3) Usage  
-  *[Describe how to use the code. Include examples]*
+  v12$DateAsYear is a variable added in order to get a numerical value for the date.  
+  v12$TreatedYear is a variable added to indicate the year the village joined the FFVP, 0 is for villages not part of the program.
 
   4) Support  
-  *[Will the authors support others that want to use these scripts?]*
+  This code will be kept up to date for the duration of the projects. Updates will be uploaded as needed until the end of 2019.
 
   5) Contributing  
-  *[Can other researchers contribute to the code? Is the code in a public repository? Are pull requests welcome? In this case the code submitted in the repository will be a snapshot, which can be useful for preservation.]*
-
-
-  !! add r and code specifc section and packages
-  rcode in github repo and will be kept updated
-!! make sure csv gis
-
-!! description of r variables under usage or other in code sp
+  Issues can be submitted on the Github Page if there is problem with the code. Because of the specificity of code pull requests may not be reviewed if they don't pertain to this project.
 
 !!FGDC CSDGM talk about in methodalogy

@@ -20,7 +20,6 @@ The data management plan for the Project can be found in the shared R drive at "
 ### C) Data Description  
 
 1. Meteorological data  
-    -
 2. Birds Census   
    - Spreadsheets with counts of migratory birds
    - Photographs and videos with geo-location tags

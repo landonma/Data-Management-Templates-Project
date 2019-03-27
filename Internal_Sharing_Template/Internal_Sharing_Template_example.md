@@ -14,11 +14,12 @@
 1)	Project overview  
 This agreement is between all the members of the project *[Ecological value of the Wetlands Blah]*. Throughout this document we will refer to it as the Project.  
 
-Define subproject
-1. Meteorological Data,
-2. Bird Census,
-3. Water Quality Records,
-4. Use of Wetlands Survey
+Define subproject  
+
+P1. Meteorological Data,  
+P2. Bird Census,  
+P3. Water Quality Records,  
+P4. Use of Wetlands Survey
 
 2)	Data Management Plan (DMP)  
 The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster".
@@ -40,10 +41,8 @@ maps
 
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
-
-**Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.**
-
-1)	Role definitions: *[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
+### A) Role definitions:
+*[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
 
 **Principal Investigator (PI):** Barnard, Bethany is the PI.
 
@@ -68,7 +67,8 @@ PhD2: name, surname
 
 
 
-2)	Responsibilities *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
+### Responsibilities
+ The responsibility below will be broken down by subproject.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 Responsibility of: *[complete with one of the roles defined above]*.

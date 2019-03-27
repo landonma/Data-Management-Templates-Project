@@ -1,6 +1,4 @@
 
- 
-
 # Internal Data Sharing Plan
 
 *[Instructions in italics and between square brackets. Remove them from the final document. The material in this document may be integrated into a data management plan or used as a stand-alone agreement. There may be some overlap between the Internal Data Sharing Plan and the Data Management Plan. Remove or add text in this document as necessary]*.
@@ -12,13 +10,13 @@
 
 **Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.**
 
-1)	Project overview  
+### A) Project overview  
 This agreement is between all the members of the project *[insert project title]*. Throughout this document we will refer to it as the Project.  
 
-2)	Data Management Plan (DMP)  
+### B) Data Management Plan (DMP)  
 The data management plan for the Project can be found *[complete]*.
 
-3)	Data Description  
+### C) Data Description  
 *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
 
 
@@ -26,7 +24,8 @@ The data management plan for the Project can be found *[complete]*.
 
 **Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.**
 
-1)	Role definitions: *[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
+### A) Role definitions:  
+*[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
 
 **Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.
 
@@ -35,7 +34,9 @@ The data management plan for the Project can be found *[complete]*.
 **Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).
 
 **Student:** member of the project pursing a degree and performs a degree-related research under the supervision of faculty member (principle investigator). Undergraduate, master, PhD or others.
-2)	Responsibilities *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
+
+### B) Responsibilities  
+*[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 Responsibility of: *[complete with one of the roles defined above]*.
@@ -95,7 +96,7 @@ Members of the Project involved in data management won’t be acknowledged in an
 
 **Rationale: researchers normally do not notify each other when a process (task) is complete or if they move from one role to another. Setting expectations about how and when datasets will be shared internally will minimize conflict during the project.**
 
-1)	Data access, permissions, and restriction
+### A) Data access, permissions, and restriction
 Datasets will be shared internally *[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it]*.
 
 Datasets will be shared internally with *[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]*.
@@ -110,21 +111,21 @@ When a member of the Project uses a dataset shared by another member of the team
 
 When a new version of a dataset is generated, it will be notified to the other members of the Project that may want to use the dataset by *[for example: sending a general e-mail to the whole group/documenting in the documentation file the new version and sending individual e-mails to the members of the team that are known to be using the dataset]*.
 
-2)	Data storage
+### B) Data storage
 Datasets will be shared internally by *[how are the datasets going to be delivered? For example: by e-mail/by depositing them in Box/Google drive/external hard drive/shared drive/website]*.
 
-3)	Confidentiality
+### C) Confidentiality
 The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.
 
-4)	Other workflows
+### D) Other workflows
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.
 
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
-1)	Duration of Agreement
+### A) Duration of Agreement
 This internal data sharing plan is effective from ____________________  through ________________.
 
-2)	Internal Data Sharing Plan update
+### B) Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. All members of the Project should discuss the amendments modifications or updates and reach consensus over the new version of the Plan. Such consensus will be formalized by signing the plan by each of the Project members.
 
-3) This Internal Data Sharing Plan will be given to all new Project members. Questions or concerns should be addressed.
+This Internal Data Sharing Plan will be given to all new Project members. Questions or concerns should be addressed.

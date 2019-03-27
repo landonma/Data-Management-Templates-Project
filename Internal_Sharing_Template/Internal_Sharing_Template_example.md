@@ -20,7 +20,7 @@ The data management plan for the Project can be found in the shared R drive at "
 ### C) Data Description  
 
 1. Meteorological data  
-    -
+    - !!
 2. Birds Census   
    - Spreadsheets with counts of migratory birds
    - Photographs and videos with geo-location tags
@@ -34,17 +34,18 @@ maps
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
 ### A) Role definitions:  
-**Principal Investigator (PI):** Barnard, Bethany is the PI.
+**Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
+Barnard, Bethany is the PI.
 
-**Faculty Investigator:** Four different Faculty Investigators are each responsible for one of the parts of the project.  
-Rogers, Rick is responsible for the Meteorological Data  
-Singer, Sam is responsible for the Birds Census  
-Williams, Wallace is responsible for the Water Quality Data  
-Dunning, Diane is responsible for the Wetland Interviews  
+**Faculty Investigator:** a faculty member who actively perform research on all or a part of the research project. They may provide active mentorship to students.   
+Rogers, Rick  
+Singer, Sam  
+Williams, Wallace  
+Dunning, Diane  
 
-**Team member:**
+**Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).  
 1 postdoc in the lab (subproject 3) (Post)
-1 technician in charge of maintaining instrumentation in subproject 1. (Tech)
+ (Tech)
 
 
 **Student:**
@@ -59,6 +60,11 @@ PhD2: name, surname
 
 ### B) Responsibilities
  The responsibility below will be broken down by subproject.
+
+ Rogers, Rick is responsible for the Meteorological Data  
+ Singer, Sam is responsible for the Birds Census  
+ Williams, Wallace is responsible for the Water Quality Data  
+ Dunning, Diane is responsible for the Wetland Interviews  
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 Responsibility of: *[complete with one of the roles defined above]*.
@@ -170,7 +176,7 @@ Meteo: there will be a version log informing of changes. If researches have ques
 
 
 ### B) Data storage
-Datasets will be shared with the OSU faculty, team members, and students thorugh the R-drive (R:\projects\BrBoMaster). 
+Datasets will be shared with the OSU faculty, team members, and students thorugh the R-drive (R:\projects\BrBoMaster).
 
 
 ### C) Confidentiality

@@ -67,7 +67,7 @@ PhD2: name, surname
 
 
 
-### Responsibilities
+### B) Responsibilities
  The responsibility below will be broken down by subproject.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
@@ -204,7 +204,7 @@ When a new version of a dataset is created by a group that did not generate the 
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
 1)	Duration of Agreement
-This internal data sharing plan is effective from ____________________  through ________________.
+This internal data sharing plan is effective from 2019-01-20  through 2020-05-31.
 
 2)	Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. PI will make ultimate decision. F1, F2, F3, F4 will be consulted. All members of the team should be informed and trained (if applicable) on changes.

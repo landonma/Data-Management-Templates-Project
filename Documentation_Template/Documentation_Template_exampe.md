@@ -310,7 +310,7 @@ Two of the files are shapefiles with the extension .shp. As is known, shapefiles
 
   3) Usage  
   v12$DateAsYear is a variable added in order to get a numerical value for the date.  
-  v12$TreatedYear is a variable added to indicate the year the village joined the FFVP, 0 is for villages not part of the program.
+  v12$TreatedYear is a variable added to indicate the year the village joined the FFVP, 0 is used for villages not part of the program.
 
   4) Support  
   This code will be kept up to date for the duration of the projects. Updates will be uploaded as needed until the end of 2019.

@@ -15,24 +15,28 @@
 This agreement is between all the members of the project *[Ecological value of the Wetlands Blah]*. Throughout this document we will refer to it as the Project.  
 
 Define subproject
-(1. meteo, 2. birds, 3. Water quality 4. Wetlands as recreational site
+1. Meteorological Data,
+2. Bird Census,
+3. Water Quality Records,
+4. Use of Wetlands Survey
 
 2)	Data Management Plan (DMP)  
-The data management plan for the Project can be found *[in the internal shared drive in path make/up/a/path]*.
+The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster".
 
 3)	Data Description  
 *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
 
-* 1. meteorological data
-* maps
-* 2. Birds
-   - spreadsheets with counts
-   - photographs and videos
+1. Meteorological data  
+    -
+2. Birds Census   
+   - Spreadsheets with counts of migratory birds
+   - Photographs and videos with geo-location tags
 * 3. Water quality
    - instrumentation (dissolved oxygen, NO3, PH4, temperature, etc, organic matter, turbidity, chlorophyll)
    - lab data: phytoplankton and zooplankton species identification - spreadsheet, physical samples, photos or microscope images
 * 4. Use of the wetlands as a recreational site
-   - interviews to visitors
+   - Interviews of visitors
+maps
 
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
@@ -41,14 +45,13 @@ The data management plan for the Project can be found *[in the internal shared d
 
 1)	Role definitions: *[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
 
-**Principal Investigator (PI):** Name and Surname is the PI.
+**Principal Investigator (PI):** Barnard, Bethany is the PI.
 
-**Faculty Investigator:** 4 faculty in this project, 3 from OSU, each one responsible for one part of the project (1. meteo (F1), 2. birds (F2), 3. Water quality (F3)), and one from Parks and Rec (4. Wetlands as recreation)
-
-F1: name, surname
-F2: name, surname
-F3, name surname
-F4, name, surname
+**Faculty Investigator:** Four different Faculty Investigators are each responsible for one of the parts of the project.  
+Rogers, Rick is responsible for the Meteorological Data  
+Singer, Sam is responsible for the Birds Census  
+Williams, Wallace is responsible for the Water Quality Data  
+Dunning, Diane is responsible for the Wetland Interviews  
 
 **Team member:**
 1 postdoc in the lab (subproject 3) (Post)
@@ -63,37 +66,33 @@ j;;
 PhD2: name, surname
 ...
 
+
+
 2)	Responsibilities *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
 
-**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.
-
+**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.
-
+**Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.
-
+**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).
-
+**Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.
-
+**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).
-
+**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.
-
+**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.
+**Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
+Responsibility of: *[complete with one of the roles defined above]*.
 
 Subproject 1: metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Tech will be responsible for documenting the data in the format.
 Subproject 2: a plain text read me file documenting the spreadsheet will be created by F2 and PhD2. F2 will be responsible for the methods part, PhD2 will be responsible for the rest (variable definitions, defining accronyms, etc).
@@ -101,16 +100,13 @@ Subproject 3: data will be documented with a lab specific template found in the 
 Subproject 4: documentation about the interviews, including consent forms, will be created and managed by Phd4.
 Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.
 
-**Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.
-
+**Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.
-
+**Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
 Responsibility of: *[complete with one of the roles defined above]*.
 
-**Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).
-
+**Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 Responsibility of: *[complete with one of the roles defined above]*.
 
 
@@ -123,7 +119,7 @@ Responsibility of: *[complete with one of the roles defined above]*.
 
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
-Members of the Project that were involved in data management *[change to a more specific role]* will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiatiors of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
+Members of the Project that were involved in data management *[change to a more specific role]* will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
 
 - Data coming from subproject F2, F3, F4: people responsible for data analysis will be offered co-authorship.
 
@@ -173,6 +169,7 @@ Datasets will be shared internally in ___________ format *[is there an expected 
 
 
 Datasets will be shared internally *[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]*.
+
 Datasets will be shared internally accompanied of *[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]*.
 
 Description of the quality control levels e.g. (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests in in make/up/path). The important part is that thelevel must be clear.
@@ -188,7 +185,7 @@ Meteo: there will be a version log informing of changes. If researches have ques
 
 
 2)	Data storage
-Datasets will be shared internally by *[how are the datasets going to be delivered? For example: by e-mail/by depositing them in Box/Google drive/external hard drive/shared drive/website]*.
+Datasets will be shared internally by keeping.
 
 Box
 

@@ -231,18 +231,67 @@ ORCID:
 *[Include all information that is important: Value labels if appropriate. Units if appropriate. Min and Max values if appropriate. ]*  
 *[Example:]*
 
-   Name: Species  
-   Description: Species of the Drosophila sampled  
-   DML = Drosophila melanogaster  
-   DMJ = Drosophila mojavensis  
-   O = Other  
-      
-   A. Name: *[variable name]*  
-   Description: *[description of the variable]*  
- 
-   B. Name: *[variable name]*  
-   Description: *[description of the variable]*  
-               *[Value labels if appropriate. Units if appropriate.]*    
+    1. Name:  
+    Description:   
+
+    2. Name:  
+    Description:    
+
+    3. Name:  
+    Description:   
+
+    4. Name:  
+    Description:  
+
+    5. Name:  
+    Description:    
+
+    6. Name:    
+    Description:   
+
+    7. Name:    
+    Description:     
+
+    8. Name:    
+    Description:   
+
+    9. Name:   
+    Description:  
+
+    10. Name:  
+    Description:    
+
+    11. Name:   
+    Description:  
+
+    12. Name:    
+    Description:   
+
+    13. Name:   
+    Description:    
+
+    14. Name:    
+    Description:    
+
+    15. Name:   
+    Description:  
+
+    16. Name:   
+    Description:    
+
+    17. Name:    
+    Description:   
+
+    18. Name:    
+    Description:  
+
+    19. Name:   
+    Description:  
+
+    20. Name:   
+    Description:  
+
+    *ect...*
 
 ## CODE-SPECIFIC INFORMATION:
 

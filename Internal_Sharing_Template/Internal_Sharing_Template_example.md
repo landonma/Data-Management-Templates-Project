@@ -2,16 +2,9 @@
 
 # Internal Data Sharing Plan
 
-*[Instructions in italics and between square brackets. Remove them from the final document. The material in this document may be integrated into a data management plan or used as a stand-alone agreement. There may be some overlap between the Internal Data Sharing Plan and the Data Management Plan. Remove or add text in this document as necessary]*.
-
-**Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing.**
-
-
 ## SECTION I: DATA MANAGEMENT
 
-**Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.**
-
-1)	Project overview  
+### A) Project overview  
 This agreement is between all the members of the project *[Ecological value of the Wetlands Blah]*. Throughout this document we will refer to it as the Project.  
 
 Define subproject  
@@ -21,11 +14,10 @@ P2. Bird Census,
 P3. Water Quality Records,  
 P4. Use of Wetlands Survey
 
-2)	Data Management Plan (DMP)  
+### B) Data Management Plan (DMP)  
 The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster".
 
-3)	Data Description  
-*[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
+### C) Data Description  
 
 1. Meteorological data  
     -
@@ -41,9 +33,7 @@ maps
 
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
-### A) Role definitions:
-*[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here]*.
-
+### A) Role definitions:  
 **Principal Investigator (PI):** Barnard, Bethany is the PI.
 
 **Faculty Investigator:** Four different Faculty Investigators are each responsible for one of the parts of the project.  
@@ -112,11 +102,6 @@ Responsibility of: *[complete with one of the roles defined above]*.
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE
 
-
-**Rationale: Most of the data management responsibilities outlined in Section II require a lot of time and effort. Often, datasets are shared within members of the same project and the use of these datasets improves or makes possible scholarly outcomes such as publications of articles, book chapters, presentations in conferences, proceedings, etc. It is necessary to have a common understanding on how to acknowledge the role of data managers, data creators, data analysts in the research process. These roles may not be appropriate as manuscript authors, but there are many other options. Acknowledging these roles is not a legal matter (no law requires it), but it is an ethical one. Responsible conduct of research involves acknowledging other people’s roles in managing data. Acknowledging the roles may also have an impact of the careers of researchers involved.**    
-
-*[Decide what are the procedures that you will follow to acknowledge data management roles, and if there are any preferred methods. This template lists the options in order: options that follow best practices are noted at the beginning, while practices that we discourage are noted at the end. We use here “data management” as a general term but consider changing it for more specific roles. For example, you may want to consider offering co-authorship to the researchers involved in data collection and data quality control as authors in data publications, and adding the researchers involved in instrumentation maintenance in the acknowledgements]*.
-
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
 Members of the Project that were involved in data management *[change to a more specific role]* will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
@@ -141,10 +126,10 @@ Members of the Project involved in data management won’t be acknowledged in an
 
 ### SECTION IV: WORKFLOWS
 
-**Rationale: researchers normally do not notify each other when a process (task) is complete or if they move from one role to another. Setting expectations about how and when datasets will be shared internally will minimize conflict during the project.**
 
-1)	Data access, permissions, and restriction
-Datasets will be shared internally *[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it]*.
+
+### A) Data access, permissions, and restriction
+Datasets will be shared internally
 
 - Meteo: will be shared as soon as it has been transformed to an appropriate format. ASAP. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests in in make/up/path)
 - Birds, water quality: as soon as possible, but only when there has been an appropriate level of quality control.
@@ -184,17 +169,17 @@ Birds and water quality does not apply because there should not be new versions,
 Meteo: there will be a version log informing of changes. If researches have questions, they can contact F1.
 
 
-2)	Data storage
+### B) Data storage
 Datasets will be shared internally by keeping.
 
 Box
 
-3)	Confidentiality
+### C) Confidentiality
 The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.
 
 Researchers using data that they have not generated should discuss with authors of the data possible publication dates.
 
-4)	Other workflows
+### D) Other workflows
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.
 
 When a new version of a dataset is created by a group that did not generate the original dataset:
@@ -203,13 +188,11 @@ When a new version of a dataset is created by a group that did not generate the 
 
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
-1)	Duration of Agreement
+### A) Duration of Agreement
 This internal data sharing plan is effective from 2019-01-20  through 2020-05-31.
 
-2)	Internal Data Sharing Plan update
+### B) Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. PI will make ultimate decision. F1, F2, F3, F4 will be consulted. All members of the team should be informed and trained (if applicable) on changes.
-
-3) This Internal Data Sharing Plan will be given to all new Project members. Questions or concerns should be addressed.
 
 !!flesh out diff btw f4 and others
   - diff data sharing

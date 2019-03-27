@@ -103,6 +103,7 @@ Datasets will be shared internally with *[who? Some examples: all the members of
 Datasets will be shared internally in ___________ format *[is there an expected format? For example: excel, or csv, or spss, or…]*.
 
 Datasets will be shared internally *[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]*.
+
 Datasets will be shared internally accompanied of *[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]*.
 
 When a member of the Project uses a dataset shared by another member of the team *[how will the use be notified? For example: a courtesy e-mail will be sent to the contact person/no notification will be needed at this stage/the member of the Project using the shared data will write his/her name in a log]*.

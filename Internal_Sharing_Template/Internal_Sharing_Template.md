@@ -39,37 +39,37 @@ The data management plan for the Project can be found *[complete]*.
 *[adapt the definition of each of these responsibilities to the Project. Add more or remove if necessary. Decide who (which role) is going to be responsible for each of these]*.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE
 
@@ -92,7 +92,7 @@ Members of the Project involved in data management *[change to a more specific r
 
 Members of the Project involved in data management won’t be acknowledged in any way.
 
-### SECTION IV: WORKFLOWS
+## SECTION IV: WORKFLOWS
 
 **Rationale: researchers normally do not notify each other when a process (task) is complete or if they move from one role to another. Setting expectations about how and when datasets will be shared internally will minimize conflict during the project.**
 

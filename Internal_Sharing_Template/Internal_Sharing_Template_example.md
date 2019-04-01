@@ -95,10 +95,10 @@ Subproject 4: documentation about the interviews, including consent forms, will 
 Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
-*Responsibility of:* *[complete with one of the roles defined above]*.
+*Responsibility of:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data is managed by Julie Reynolds.
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
-*Responsibility of:* *[complete with one of the roles defined above]*.
+*Responsibility of:* Julie Reynolds .
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsibility of:* *[complete with one of the roles defined above]*.
@@ -120,48 +120,46 @@ Datasets will be published separately from the research in a repository on OSU's
 
 When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.  
 
-Members of the Project involved in data management *[change to a more specific role]* will be acknowledged in the acknowledgment section in papers and publications. 󠄀
+Members of the Project involved in data analysis will be acknowledged in the acknowledgment section in papers and publications. 󠄀
 
 - When maps are used in research publications or data publications, M.S. will be acknowleged.
-
-Members of the Project involved in data management *[change to a more specific role]* will be listed as co-authors in publications. *[this option is not recommended, as the authors of publications should participate in the writing or critical review of the piece of scholarship. For a discussion about definitions of authorship see https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014 ]*.
 
 Members of the Project involved in data management won’t be acknowledged in any way.
 
 ### SECTION IV: WORKFLOWS
 
-
-
 ### A) Data access, permissions, and restriction
-Datasets will be shared internally
+Datasets will be shared internally at minimum with all people listed in this document. The meteorological data, bird survey, water quality data and maps will be shared with all members on the shared drive.
+
+The meteorological dataset will be made available continuously through out the project. This dataset will be updated with the latest calibration versions available. The version will always be clearly indicated. The uncalibrated data can be made available upon request.
+
+The bird survey data will be made available within two weeks of surveys conduction.
+
+The wetlands survey will only be shared as a de-identified dataset. This dataset will be shared after all the surveys are complete and processed. The raw data will only be available when it is deemed appropriate through special request from Diane Dunning.  
+
+The water quality dataset will be made available periodically as the water samples are processed. The raw results and the processed data will both be available on the shared drive. The collection and processing dates will be clearly indicated on the files.
 
 - Meteo: will be shared as soon as it has been transformed to an appropriate format. ASAP. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests in in make/up/path)
 - Birds, water quality: as soon as possible, but only when there has been an appropriate level of quality control.
-- Human subjects: data with identifiers will not be shared. Data without identifiers will be shared upon request. Aggregted and processed data will be shared following same practices as birds, water quality .
+- Human subjects: data with identifiers will not be shared. Data without identifiers will be shared upon request. Aggregated and processed data will be shared following same practices as birds, water quality .
 - Maps: will always be accessible by all, at all stages of development, which will be documented.
 - physical samples: upon request
 
 
-Datasets will be shared internally with *[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]*.
+Datasets will be shared internally at minimum with all people listed in this document.
 
 - Meteo: all
 - Birds, water quality: all
 - parks: only with authorized people with identifiers, all for aggregated.
 - maps: all, even with the public in website.
 
-Datasets will be shared internally in ___________ format *[is there an expected format? For example: excel, or csv, or spss, or…]*.
-
-- tabular: csv (not excel)
-- maps: shape files and...
-- images: original format
-- meteo: shared using EML standard and csv.
-
+All tabular data will be shared as comma separated values (csv) files. The maps will be available as shapefiles as well as a geodatabase. Any image or video files should be shared in their original format (jpeg and mp4).
 
 Datasets will be shared internally *[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]*.
 
 Datasets will be shared internally accompanied of *[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]*.
 
-Description of the quality control levels e.g. (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests in in make/up/path). The important part is that thelevel must be clear.
+Description of the quality control levels e.g. (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests in in make/up/path). The important part is that the level must be clear.
 
 When a member of the Project uses a dataset shared by another member of the team *[how will the use be notified? For example: a courtesy e-mail will be sent to the contact person/no notification will be needed at this stage/the member of the Project using the shared data will write his/her name in a log]*.
 
@@ -174,7 +172,7 @@ Meteo: there will be a version log informing of changes. If researches have ques
 
 
 ### B) Data storage
-Datasets will be shared with the OSU faculty, team members, and students thorugh the R-drive (R:\projects\BrBoMaster).
+Datasets will be shared with the OSU faculty, team members, and students through the R-drive (R:\projects\BrBoMaster).
 
 
 ### C) Confidentiality
@@ -195,4 +193,4 @@ When a new version of a dataset is created by a group that did not generate the 
 This internal data sharing plan is effective from 2019-01-20  through 2020-05-31.
 
 ### B) Internal Data Sharing Plan update
-This plan may be amended, modified, or updated. PI will make ultimate decision. F1, F2, F3, F4 will be consulted. All members of the team should be informed and trained (if applicable) on changes.
+This plan may be amended, modified, or updated. While Bethany Barnard will make the ultimate decision about changes; Rick Rogers, Sam Singer, Wallace Williams and Diane Dunning will be consulted. All members of the teams should be informed and trained (if applicable) on changes.

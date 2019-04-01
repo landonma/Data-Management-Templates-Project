@@ -5,14 +5,14 @@
 ## SECTION I: DATA MANAGEMENT
 
 ### A) Project overview  
-This agreement is between all the members of the project *[Ecological value of the Wetlands Blah]*. Throughout this document we will refer to it as the Project.  
+This agreement is between all the members of the Health and Value of the Brian Booth Wetlands. Throughout this document we will refer to it as the Project.  
 
-Define subproject  
+This project is a collaboration between four groups, each creating a different dataset. The four data sets are:   
 
-P1. Meteorological Data,  
-P2. Bird Census,  
-P3. Water Quality Records,  
-P4. Use of Wetlands Survey
+D1. Meteorological Data,  
+D2. Bird Census,  
+D3. Water Quality Records,  
+D4. Use of Wetlands Survey
 
 ### B) Data Management Plan (DMP)  
 The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster".
@@ -20,41 +20,39 @@ The data management plan for the Project can be found in the shared R drive at "
 ### C) Data Description  
 
 1. Meteorological data  
-    - !!
+    - Readings from a station set up for the duration of the project (temperature, wind speed, humidity, ect)
 2. Birds Census   
    - Spreadsheets with counts of migratory birds
    - Photographs and videos with geo-location tags
-* 3. Water quality
-   - instrumentation (dissolved oxygen, NO3, PH4, temperature, etc, organic matter, turbidity, chlorophyll)
-   - lab data: phytoplankton and zooplankton species identification - spreadsheet, physical samples, photos or microscope images
-* 4. Use of the wetlands as a recreational site
+3. Water quality
+   - instrumentation (dissolved oxygen, pH, turbidity, temperature, etc)
+   - lab data: phytoplankton and zooplankton species identification
+   - spreadsheet, physical samples, photos or microscope images
+4. Use of the wetlands as a recreational site
    - Interviews of visitors
-maps
+5. Maps
 
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
 ### A) Role definitions:  
 **Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
-Barnard, Bethany is the PI.
+Bethany Barnard is the PI.
 
 **Faculty Investigator:** a faculty member who actively perform research on all or a part of the research project. They may provide active mentorship to students.   
-Rogers, Rick  
-Singer, Sam  
-Williams, Wallace  
-Dunning, Diane  
+Rick Rogers, D1  
+Sam Singer,  D2  
+Wallace Williams, D3  
+Diane Dunning, D4  
 
 **Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).  
-1 postdoc in the lab (subproject 3) (Post)
- (Tech)
+Martha Marien, D1  
+Patrick Pullman, D3
 
-
-**Student:**
-j;;
-3 phd students: project 2 (PhD2), 3 (Phd3), 4 (PhD4)
-1 master student - subproject 4
-
-PhD2: name, surname
-...
+**Student:**  
+Arthur Chapman, D2  
+Cathy Thompson, D3  
+Barbra Hubble, D4  
+Henry Cortez, D4  
 
 
 
@@ -67,55 +65,55 @@ PhD2: name, surname
  Dunning, Diane is responsible for the Wetland Interviews  
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP
 
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Rick Rogers (D1), Sam Singer (D2), Wallace Williams (D3), and Diane Dunning (D4).
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Diane Dunning will protect the identifiable survey dataset
 
 **Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Martha Marien will produce and maintain the software associated with the meteorological dataset
 
 **Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Martha Marien maintains weather station
 
 **Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Sam Singer bird survey on the northern bank, Arthur Chapman bird survey on southern bank, Patrick Pullman collects water samples at sites 1-7, Cathy Thompson collects water samples at sites 8-17, Barbra Hubble conducts in person interviews
 
 **Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Sam Singer the bird survey, Patrick Pullman and Cathy Thompson are each responsible for their samples and P Pullman is responsible for merging the data, Barbra Hubble organizes the wetlands survey.
 
 **Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* Martha Marien following !! standard, Sam Singer and Arthur Chapman create text file with Sam Singer working on methods and Arthur Chapman working on variables, .
 
 Subproject 1: metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Tech will be responsible for documenting the data in the format.
-Subproject 2: a plain text read me file documenting the spreadsheet will be created by F2 and PhD2. F2 will be responsible for the methods part, PhD2 will be responsible for the rest (variable definitions, defining accronyms, etc).
+Subproject 2: a plain text read me file documenting the spreadsheet will be created by F2 and PhD2. F2 will be responsible for the methods part, PhD2 will be responsible for the rest (variable definitions, defining acronyms, etc).
 Subproject 3: data will be documented with a lab specific template found in the shared folder /make/up/path. Post and PhD3 will be responsible for documenting their own data.
 Subproject 4: documentation about the interviews, including consent forms, will be created and managed by Phd4.
 Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
-Responsibility of: *[complete with one of the roles defined above]*.
+*Responsibility of:* *[complete with one of the roles defined above]*.
 
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE
 
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
-Members of the Project that were involved in data management *[change to a more specific role]* will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
+Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
 
 - Data coming from subproject F2, F3, F4: people responsible for data analysis will be offered co-authorship.
 
 
-Datasets will be published separately from the research in a repository or as an article in a data journal *[change if there are more discipline specific options]*. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
+Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
 
 - Meteo data will be published in a repository as soon as the field season is complete. All other studies using the data will have to cite the dataset.
 - When other datasets are published and reused, they will be cited.
@@ -198,6 +196,3 @@ This internal data sharing plan is effective from 2019-01-20  through 2020-05-31
 
 ### B) Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. PI will make ultimate decision. F1, F2, F3, F4 will be consulted. All members of the team should be informed and trained (if applicable) on changes.
-
-!!flesh out diff btw f4 and others
-  - diff data sharing

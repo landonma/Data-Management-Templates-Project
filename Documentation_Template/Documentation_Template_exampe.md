@@ -54,7 +54,7 @@ Address:  Heckart Lodge
 2900 SW Jefferson Way  
 Oregon State University  
 Corvallis, OR 97331-2121  
-Email:  landonma@oregonstate.edu  
+Email:  marklandon@oregonstate.edu  
 ORCID:  0000-0002-0798-6621  
 
 
@@ -228,13 +228,14 @@ Two of the files are shapefiles with the extension .shp. As is known, shapefiles
 
     19. Name: LUAS  
     Description: Whether or not the point was on Sumatra or not (0 or 1)
+
 ## TABULAR DATA-SPECIFIC INFORMATION FOR: VIIRS_12_18_TREATED.shp
 
 
  1) Number of variables: 19 variables
 
 
- 2) Number of cases/rows: 45,432
+ 2) Number of cases/rows: 3,102
 
 
 

@@ -3,7 +3,7 @@
 
 # How to Use This Repository
 This repository contains the tools necessary to create three different data management documents; a [Data Management Implementation Plan](Implementation_Template/Implementation_Template.md), an [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template.md), and a [Documentation File](Documentation_Template/Documentation_Template.md). We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the actual data manangment documents and don't want to make a Github Webpage then skip to [this](#markdown-editing) step.
-This document will help you
+This document will help you:
 * [Understand Github](#github) and [Github Pages](#github-pages)
 * [Download the Template Files](#how-to-download-the-template-files)
 * [Basic Markdown Editing](#markdown-editing)

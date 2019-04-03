@@ -2,15 +2,16 @@
 [Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
 
 ## Info
-The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates were created fo Oregon State University but are generic and should be suitable for any discipline or institution. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. We also give you guidance on how to fill out each template and instructions if you want to publish your documents on Github Pages.  
+The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates were created for Oregon State University but are generic and should be suitable for any discipline or institution. They are published under a CC0 license so that they can be modified as needed. We also give you guidance on how to fill out the templates, examples of completed documents and instructions for publishing your documents on Github Pages.  
 
 ## Templates
-Included in the project are the following templates:
+Included in the project are the following data management document templates:
 
 ### 1. Data Management Implementation Plan  
 This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
 **View The Template**  
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
+
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md)  
@@ -23,6 +24,7 @@ For more information on how to download files from our repository go [here](gith
 Disagreements between the members of a team regarding the sharing of research data during the project is a common occurrence. This Internal Data Sharing Plan is designed so that researchers will make decisions about data sharing and data attribution at the beginning of the project, to minimize disagreements down the road. This document makes sure everyone has the information they need to decide when and how to share data internally.   
 **View The Template**  
 [Internal Data Sharing Plan](https://landonma.github.io/Data-Management-Templates-Project/Internal_Sharing_Template/Internal_Sharing_Template)  
+
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md)  
@@ -34,11 +36,18 @@ For more information on how to download files from our repository go [here](gith
 A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.  
 **View The Template**  
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Documentation_Template/Documentation_Template)  
+
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
+
+## Examples
+
+Below are fictional examples of what a completed document of each type would look like. These examples should help express how the boiler-plate text in the templates should be manipulated for a project.
+
+
 
 ## Other resources
 ### Detailed Instructions

@@ -16,7 +16,7 @@ Github is a website with variety of uses including sharing data and creating col
 There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers and students can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
 
 ## Github Pages
-Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.
+Github Pages allows you to create webpages from files hosted on your Github account. This allows you to publish documents through GitHub that anyone can access through a web browser.
 
 ###### ------------** IMPORTANT NOTE ** ------------
 GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is also some customization which allows you to only publish a certain branch or folder in your repository instead of the whole thing.

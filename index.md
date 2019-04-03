@@ -30,7 +30,7 @@ Disagreements between the members of a team regarding the sharing of research da
 [Internal Data Sharing Plan](https://landonma.github.io/Data-Management-Templates-Project/Internal_Sharing_Template/Internal_Sharing_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)

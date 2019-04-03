@@ -10,7 +10,7 @@ This document will help you
 * [Customizing Github Pages](#customizing-github-pages)
 
 ## Github
-Github is a website with variety of uses including: sharing data and creating collaborative projects. For this project we are using Github to host our document files. This service is free and allows you to share documents with anyone.  You don't need an account to access these files but you will need a Github account if you want to use Github to publish your own documents. You can create one [here](hhttps://github.com/join "Create a Github account").
+Github is a website with variety of uses including: sharing data and creating collaborative projects. For this project we are using Github to host our document files. This service is free and allows you to share documents with anyone.  You don't need an account to access these files but you will need a Github account if you want to use Github to publish your own documents. You can create one [here](https://github.com/join "Create a Github account").
 * Note: the url for the webpage will use either the username or organization name which sets it up. Try to make sure the URL will be appropriate to share with others and relevant to what is on the webpage.
 
 There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").

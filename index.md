@@ -13,7 +13,7 @@ This template will help researchers take a Data Management Plan created in the p
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions.md#cloning-and-modifying-our-templates). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
@@ -30,7 +30,7 @@ Disagreements between the members of a team regarding the sharing of research da
 [Internal Data Sharing Plan](https://landonma.github.io/Data-Management-Templates-Project/Internal_Sharing_Template/Internal_Sharing_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions.md). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
@@ -46,7 +46,7 @@ A Documentation File (sometimes referred to as README file)  has information abo
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Documentation_Template/Documentation_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions.md#cloning-and-modifying-our-templates). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  

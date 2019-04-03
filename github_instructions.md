@@ -19,7 +19,7 @@ There are two types of repositories on GitHub; public ones and private ones. Pub
 Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.
 
 ###### ------------** IMPORTANT NOTE ** ------------
-GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is also some customization which only publish a certain branch or folder
+GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is also some customization which allows you to only publish a certain branch or folder in your repository instead of the whole thing.
 
 ### Setting Up Your Account to Use Github Pages
 Setting up Github Pages is fairly simple and straight forward.
@@ -65,15 +65,14 @@ Choose the file format which you wish to edit the document. If you want to publi
 
  !!(found [here](datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
-The guidance document (found [here](guidance-edit)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
-!!
+The example documents are meant to help you think about the important parts of each section and are **not** meant to be edited and published. These document will help illustrate what a finished version for each document type will look like.  
 ## Markdown editing
-Markdown was created to be easy to read and edit and we use this format for all the documents in this repository. Markdown files(.md) have some of the structural functionality of LaTeX or HTML while still remaining easily readable. !!Through [Jekyll]() Github you can publish your markdown files as webpages. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
-* There must be a space after the ##'s when making headers
+Markdown was created to be easy to read and edit and we use this format for all the pages in this repository. Markdown files(.md) have some of the structural functionality of LaTeX or HTML while still remaining easily readable. Through [Jekyll]() you can publish your markdown files as webpages on Github. The coding involved with formatting a Markdown document is easy to learn and you can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet"). Some additional tips for creating markdown documents:
+* There must be a space after the #'s when making headers
 * There is NO space when bolding and using italics; ie. **bold** not ** bold **
 * If you want to force a line break put two spaces at the end of the line then press Enter.
 (ie. end of line." __ ")
-* The guide shows the different ways to format hyperlinks but doesn't describe the different types of links. I describe the different links in other section [below](#customizing-github-pages).
+* The guide shows the different ways to format hyperlinks but doesn't describe the different types of links. I describe the different links in another section [below](#customizing-github-pages).
 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a source code/text editor (Atom was created by GitHub and is a great tool for editing/previewing markdown). You can use any text editor such as Microsoft Word or Google Docs but if you are unfamiliar with editing code I strongly recommend using editing the documents on Github itself. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 

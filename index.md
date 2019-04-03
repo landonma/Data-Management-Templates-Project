@@ -2,7 +2,7 @@
 [Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
 
 ## Info
-The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. We have created templates are all generic, so they should be general enough that they will be generally useful to all disciplines. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. We also give you guidance on how to fill out each template and instructions if you want to publish your documents on Github Pages.  
+The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates were created fo Oregon State University but are generic and should be suitable for any discipline or institution. They are published under a CC0 license so that they can be modified as needed, for example to adapt it to a specific discipline. We also give you guidance on how to fill out each template and instructions if you want to publish your documents on Github Pages.  
 
 ## Templates
 Included in the project are the following templates:

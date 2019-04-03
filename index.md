@@ -47,6 +47,7 @@ For more information on how to download files from our repository go [here](gith
 
 Below are fictional examples of what a completed document of each type would look like. These examples should help express how the boiler-plate text in the templates should be manipulated for a project.
 
+[Internal Data Sharing Document Example](Internal_Sharing_Template/Internal_Sharing_Template_example.md)  
 
 
 ## Other resources

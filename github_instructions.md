@@ -24,10 +24,12 @@ GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. 
 ### Setting Up Your Account to Use Github Pages
 Setting up Github Pages is fairly simple and straight forward.
 - First, in your browser, go to github.com and make sure you are logged into the account which will publish your documents.
-- Then create a new repository with the name USERNAME.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
-- You can now navigate to any files uploaded to this repository
-- Any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)
-**Note:** Github pages usually takes around **5-7 minutes** to upload new pages and edits
+- Next create a new repository by clicking on the white plus in the top right and choosing "New repository"
+- Name the repository *USERNAME*.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
+- Click the "Create repository" near the bottom of the page  !! Try up to this again but don't create an initial file in the username repo
+- Because of the repository name it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see. This maybe all some people need but most will want some control over what becomes public. Keep fo
+- With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)
+**Note:** Github pages can take around **5-7 minutes** to upload edits and will go slower after multiple edits in the same day
 
 Next you will need to enable Github Pages on any other repositories such as the one that will host your various data management documents.
 - To do, sign in to your account on Github.com

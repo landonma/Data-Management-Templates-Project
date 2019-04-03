@@ -1,5 +1,5 @@
 
-[Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
+[Home](index.md) | [Instructions For Using the Templates](github_instructions.md) | [Frequently Asked Questions](faq.md)
 
 ## Info
 The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates were created for Oregon State University but are generic and should be suitable for any discipline or institution. They are published under a CC0 license so that they can be modified as needed. We also give you guidance on how to fill out the templates, examples of completed documents and instructions for publishing your documents on Github Pages.  
@@ -13,7 +13,7 @@ This template will help researchers take a Data Management Plan created in the p
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md#cloning-and-modifying-our-templates). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
@@ -30,7 +30,7 @@ Disagreements between the members of a team regarding the sharing of research da
 [Internal Data Sharing Plan](https://landonma.github.io/Data-Management-Templates-Project/Internal_Sharing_Template/Internal_Sharing_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
@@ -46,7 +46,7 @@ A Documentation File (sometimes referred to as README file)  has information abo
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Documentation_Template/Documentation_Template)  
 
 **Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions#cloning-and-modifying-our-templates). The template is available in the following formats:  
+For more information on how to download files from our repository go [here](github_instructions.md#cloning-and-modifying-our-templates). The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md)  
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
@@ -57,6 +57,6 @@ A fictional example that shows what the finalized document will look like.
 
 ## Other resources
 ### Detailed Instructions
-We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions).
+We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions.md).
 ### FAQ
 [Here](faq.md) are a list of frequently asked questions.

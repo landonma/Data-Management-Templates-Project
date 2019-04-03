@@ -26,9 +26,11 @@ Setting up Github Pages is fairly simple and straight forward.
 - First, in your browser, go to github.com and make sure you are logged into the account which will publish your documents.
 - Next create a new repository by clicking on the white plus in the top right and choosing "New repository"
 - Name the repository *USERNAME*.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
+- Even if you have a paid/educational account you should leave the "Public" option selected for this repository
 - Click the "Create repository" near the bottom of the page  !! Try up to this again but don't create an initial file in the username repo
-- Because of the repository name it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see. This maybe all some people need but most will want some control over what becomes public. Keep fo
-- With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)
+- Because of this repository's name, it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see. This isn't problematic if you are 
+
+- With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)  
 **Note:** Github pages can take around **5-7 minutes** to upload edits and will go slower after multiple edits in the same day
 
 Next you will need to enable Github Pages on any other repositories such as the one that will host your various data management documents.
@@ -36,11 +38,12 @@ Next you will need to enable Github Pages on any other repositories such as the 
 - Click on your user picture (upper right corner) and go to "Your repositories"
 - Click on the repository you want to enable Pages on or create a new repository
 - Under the name of the repository is a series of tabs, go to the "Settings" tab
-- Below the Merge button and above Danger Zone is "GitHub Pages"
+- Below the Merge button and above Danger Zone is "GitHub Pages" section
 - Click the "source" drop down menu and select either one of the following options (if you do not see some of the following options or they are greyed out it is likely because you have not created that paths in your repository)
     - **master branch** will publish your entire repository using GitHub Pages making **anything and everything** in the master branch navigable through a web browser. This is a good option if you are creating a repository for the purpose of publishing documents or if you are using a public repository.
     - **master branch /docs folder** will only publish those files contained within the /docs folder and in the master branch. This is a good option if you have some files which you don't want published but don't want to create multiple branches. It will not work with any folder name other than docs. If multiple people are using the repository they must **ALL** be clear on what can go into the docs folder.
     - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch.
+
 
 ## How to Download the Template Files
 

@@ -18,6 +18,10 @@ For more information on how to download files from our repository go [here](gith
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
 
+**Example**  
+A fictional example that shows what the finalized document will look like.  
+[Data Management Implementation Document Example](Implementation_Template/Implementation_Template_example.md)
+
 
 ### 2. Internal Data Sharing Plan
 
@@ -31,6 +35,10 @@ For more information on how to download files from our repository go [here](gith
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
 
+**Example**  
+A fictional example that shows what the finalized document will look like.  
+[Internal Data Sharing Document Example](Internal_Sharing_Template/Internal_Sharing_Template_example.md)
+
 ### 3. Documentation File
 
 A Documentation File (sometimes referred to as README file)  has information about datasets that are made publicly available in data repositories. This document ensures that others have all the information they need to understand and potentially reuse the data, it identifies the authors of the dataset so that they can be contacted if needed, and clarify the terms of use of the data.  
@@ -43,12 +51,9 @@ For more information on how to download files from our repository go [here](gith
 [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs)  
 [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
 
-## Examples
-
-Below are fictional examples of what a completed document of each type would look like. These examples should help express how the boiler-plate text in the templates should be manipulated for a project.
-
-[Internal Data Sharing Document Example](Internal_Sharing_Template/Internal_Sharing_Template_example.md)  
-
+**Example**  
+A fictional example that shows what the finalized document will look like.  
+[Documentation File Example](Documentation_Template/Documentation_Template_example.md)
 
 ## Other resources
 ### Detailed Instructions

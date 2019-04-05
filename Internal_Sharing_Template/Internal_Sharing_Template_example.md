@@ -5,19 +5,21 @@
 ## SECTION I: DATA MANAGEMENT
 
 ### A) Project overview  
-This agreement is between all the members of the Health and Value of the Brian Booth Wetlands. Throughout this document we will refer to it as the Project.  
+This agreement is between all the members of the Health and Value of the Brian Booth Wetlands Project. Throughout this document we will refer to it as the Project.  
 
-This project is a collaboration between four groups, each creating a different dataset. The four data sets are:   
+This project is a collaboration between five groups, each creating a different dataset. The four data sets are:   
 
 D1. Meteorological Data,  
 D2. Bird Census,  
 D3. Water Quality Records,  
 D4. Use of Wetlands Survey
+D5. Map Generation
 
 ### B) Data Management Plan (DMP)  
-The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster".
+The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster".
 
 ### C) Data Description  
+The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, 12 people from 5 departments and one government agency collected five datasets looking at different aspects of the same area. The datasets are as follow:
 
 1. Meteorological data  
     - Readings from a station set up for the duration of the project (temperature, wind speed, humidity, ect)
@@ -36,7 +38,7 @@ The data management plan for the Project can be found in the shared R drive at "
 ## SECTION II: ROLES AND RESPONSIBILITIES
 ### A) Role definitions:  
 **Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
-Bethany Barnard is the PI and will coordinate with all of the seperate parts.
+Bethany Barnard is the PI and will coordinate with all of the separate parts.
 
 **Faculty Investigator:**
 Three OSU faculty members are assigned to three of the subprojects:  
@@ -52,54 +54,52 @@ Martha Marien is a technicians in the College of Earth, Ocean, and Atmospheric S
 **Student:**  
 Five Oregon State University Students will be working on various projects. Arthur Chapman will work on the bird census. Cathy Thompson will work on the water quality data. Barbra Hubble and Henry Cortez will work on the wetlands survey. Julie Reynolds will work on the creation of the maps of the area.
 
-
-
 ### B) Responsibilities
 The responsibility below will be broken down by subproject.
-
+!!
  Rogers, Rick is responsible for the Meteorological Data  
  Singer, Sam is responsible for the Birds Census  
  Williams, Wallace is responsible for the Water Quality Data  
  Dunning, Diane is responsible for the Wetland Interviews  
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
-*Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP.
+*Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
 
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
-*Responsible Parties:* Rick Rogers (D1), Sam Singer (D2), Wallace Williams (D3), and Diane Dunning (D4).
+*Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps  
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
-*Responsible Parties:* Diane Dunning will protect the identifiable wetlands survey dataset.
+*Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The other datasets do not contain sensitive data  
 
 **Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).  
-*Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset.
+*Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset  
 
 **Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
-*Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data.
+*Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data  
 
 **Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).  
-*Responsible Parties:* Sam Singer bird survey on the northern bank, Arthur Chapman bird survey on southern bank, Patrick Pullman collects water samples at sites 1-7, Cathy Thompson collects water samples at sites 8-17, Barbra Hubble conducts in person interviews.
+*Responsible Parties:* Sam Singer bird survey on the northern bank, Arthur Chapman bird survey on southern bank, Patrick Pullman collects water samples at sites 1-7, Cathy Thompson collects water samples at sites 8-17, Barbra Hubble will conduct in person interviews about the use of the Brian Booth Wetlands
 
 **Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.  
-*Responsible Parties:* Sam Singer the bird survey, Patrick Pullman and Cathy Thompson are each responsible for their samples and P Pullman is responsible for merging the data, Barbra Hubble organizes the wetlands survey.
+*Responsible Parties:* Sam Singer the bird survey, Patrick Pullman and Cathy Thompson are each responsible for their samples and P Pullman is responsible for merging the data, Barbra Hubble organizes the wetlands survey  
 
 **Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
-*Responsible Parties:* Martha Marien following !! standard, Sam Singer and Arthur Chapman create text file with Sam Singer working on methods and Arthur Chapman working on variables, .
+*Responsible Parties:* Martha Marien following !! standard will generate the meteorological metadata, Sam Singer and Arthur Chapman will create text file for the bird survey with Sam Singer working on methods and Arthur Chapman working on variables, Wallace Williams will create metadata for the water quality data based on the Barbra Hubble will produce any necessary metadata for the wetlands survey,
 
 Subproject 1: metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Tech will be responsible for documenting the data in the format.
 Subproject 2: a plain text read me file documenting the spreadsheet will be created by F2 and PhD2. F2 will be responsible for the methods part, PhD2 will be responsible for the rest (variable definitions, defining acronyms, etc).
 Subproject 3: data will be documented with a lab specific template found in the shared folder /make/up/path. Post and PhD3 will be responsible for documenting their own data.
 Subproject 4: documentation about the interviews, including consent forms, will be created and managed by Phd4.
-Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.
+Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.  
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
-*Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data is managed by Julie Reynolds.
+*Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data is managed by Julie Reynolds  
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
-*Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset.
+*Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset  
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
-*Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data.
+*Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data  
 
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE

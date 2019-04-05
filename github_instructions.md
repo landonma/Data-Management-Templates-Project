@@ -2,21 +2,21 @@
 [Home](index.md) | [Instructions For Using the Templates](github_instructions) | [Frequently Asked Questions](faq.md)
 
 # How to Use This Repository
-This repository contains the tools necessary to create three different data management documents; a [Data Management Implementation Plan](Implementation_Template/Implementation_Template.md), an [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template.md), and a [Documentation File](Documentation_Template/Documentation_Template.md). We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the actual and don't want to make a Github Webpage then skip to [this](#markdown-editing) step.
-This document will help you
+This repository contains the tools necessary to create three different data management documents; a [Data Management Implementation Plan](Implementation_Template/Implementation_Template.md), an [Internal Sharing Template](Internal_Sharing_Template/Internal_Sharing_Template.md), and a [Documentation File](Documentation_Template/Documentation_Template.md). We also provide the tools to turn any of these documents into a webpage for your project using Github Pages. We have created template and example documents for each document. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the actual data manangment documents and don't want to make a Github Webpage then skip to [this](#markdown-editing) step.
+This document will help you:
 * [Understand Github](#github) and [Github Pages](#github-pages)
 * [Download the Template Files](#how-to-download-the-template-files)
 * [Basic Markdown Editing](#markdown-editing)
 * [Customizing Github Pages](#customizing-github-pages)
 
 ## Github
-Github is a website with variety of uses including: sharing data and creating collaborative projects. You will need a Github account if you want to use Github to publish your documents and can create one [here](hhttps://github.com/join "Create a Github account").
+Github is a website with variety of uses including sharing data and creating collaborative projects. For this project we are using Github to host our document files. This service is free and allows you to share documents with anyone.  You don't need an account to access these files but you will need a Github account if you want to use Github to publish your own documents. You can create one [here](https://github.com/join "Create a Github account").
 * Note: the url for the webpage will use either the username or organization name which sets it up. Try to make sure the URL will be appropriate to share with others and relevant to what is on the webpage.
 
-There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
+There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers and students can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
 
 ## Github Pages
-Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.
+Github Pages allows you to create webpages from files hosted on your Github account. This allows you to publish documents through GitHub that anyone can access through a web browser.
 
 ###### ------------** IMPORTANT NOTE ** ------------
 GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is also some customization which allows you to only publish a certain branch or folder in your repository instead of the whole thing.
@@ -24,21 +24,26 @@ GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. 
 ### Setting Up Your Account to Use Github Pages
 Setting up Github Pages is fairly simple and straight forward.
 - First, in your browser, go to github.com and make sure you are logged into the account which will publish your documents.
-- Then create a new repository with the name USERNAME.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
-- You can now navigate to any files uploaded to this repository
-- Any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)
-**Note:** Github pages usually takes around **5-7 minutes** to upload new pages and edits
+- Next create a new repository by clicking on the white plus in the top right and choosing "New repository"
+- Name the repository *USERNAME*.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
+- Even if you have a paid/educational account you should leave the "Public" option selected for this repository
+- Click the "Create repository" near the bottom of the page  !! Try up to this again but don't create an initial file in the username repo
+- Because of this repository's name, it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see. This isn't problematic if you are 
+
+- With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)  
+**Note:** Github pages can take around **5-7 minutes** to upload edits and will go slower after multiple edits in the same day
 
 Next you will need to enable Github Pages on any other repositories such as the one that will host your various data management documents.
 - To do, sign in to your account on Github.com
 - Click on your user picture (upper right corner) and go to "Your repositories"
 - Click on the repository you want to enable Pages on or create a new repository
 - Under the name of the repository is a series of tabs, go to the "Settings" tab
-- Below the Merge button and above Danger Zone is "GitHub Pages"
+- Below the Merge button and above Danger Zone is "GitHub Pages" section
 - Click the "source" drop down menu and select either one of the following options (if you do not see some of the following options or they are greyed out it is likely because you have not created that paths in your repository)
     - **master branch** will publish your entire repository using GitHub Pages making **anything and everything** in the master branch navigable through a web browser. This is a good option if you are creating a repository for the purpose of publishing documents or if you are using a public repository.
     - **master branch /docs folder** will only publish those files contained within the /docs folder and in the master branch. This is a good option if you have some files which you don't want published but don't want to create multiple branches. It will not work with any folder name other than docs. If multiple people are using the repository they must **ALL** be clear on what can go into the docs folder.
     - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch.
+
 
 ## How to Download the Template Files
 

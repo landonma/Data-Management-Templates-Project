@@ -13,7 +13,7 @@ This document will help you:
 Github is a website with variety of uses including sharing data and creating collaborative projects. For this project we are using Github to host our document files. This service is free and allows you to share documents with anyone.  You don't need an account to access these files but you will need a Github account if you want to use Github to publish your own documents. You can create one [here](https://github.com/join "Create a Github account").
 * Note: the url for the webpage will use either the username or organization name which sets it up. Try to make sure the URL will be appropriate to share with others and relevant to what is on the webpage.
 
-There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers and students can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
+There are two types of repositories on GitHub; public ones and private ones. **Public repositories** can be **seen and downloaded by anyone** on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers and students can apply for a free private account by following [these steps](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account").
 
 ## Github Pages
 Github Pages allows you to create webpages from files hosted on your Github account. This allows you to publish documents through GitHub that anyone can access through a web browser.
@@ -37,6 +37,7 @@ Next you will need to enable Github Pages on any other repositories such as the 
 - To do, sign in to your account on Github.com
 - Click on your user picture (upper right corner) and go to "Your repositories"
 - Click on the repository you want to enable Pages on or create a new repository
+- In order to enable Github Pages you must have at least one file in the repository. If you don't have a file in your repsitory you can either upload one or create a temperary file
 - Under the name of the repository is a series of tabs, go to the "Settings" tab
 - Below the Merge button and above Danger Zone is "GitHub Pages" section
 - Click the "source" drop down menu and select either one of the following options (if you do not see some of the following options or they are greyed out it is likely because you have not created that paths in your repository)

@@ -1,5 +1,5 @@
 
-[Home](index.md) | [Instructions For Using the Templates](github_instructions.md) | [Frequently Asked Questions](faq.md)
+[Home](index.md) | [Instructions For Using the Templates](github_instructions.md) | [Frequently Asked Questions](faq.md) | [Github Repository](https://github.com/landonma/Data-Management-Templates-Project)
 
 ## Info
 The Data Management Templates Project is a compilation of templates that can be used at different stages of the research project to maximize best practices in data management. The templates were created for Oregon State University but are generic and should be suitable for any discipline or institution. They are published under a CC0 license so that they can be modified as needed. We also give you guidance on how to fill out the templates, examples of completed documents and instructions for publishing your documents on Github Pages.  

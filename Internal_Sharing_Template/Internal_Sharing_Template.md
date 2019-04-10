@@ -115,7 +115,7 @@ When a new version of a dataset is generated, it will be notified to the other m
 Datasets will be shared internally by *[how are the datasets going to be delivered? For example: by e-mail/by depositing them in Box/Google drive/external hard drive/shared drive/website]*.
 
 ### C) Confidentiality
-The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.
+The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP or IRB for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.
 
 ### D) Other workflows
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.

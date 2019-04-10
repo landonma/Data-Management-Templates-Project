@@ -65,9 +65,9 @@ The responsibility below will be broken down by subproject.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 *Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
-!! Make some changes in definitions, change the below to emphases the PII data, give access to new members
+!! Make some changes in definitions, change the below to emphases the PII data, give access to new members  
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
-*Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps  
+*Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps.  
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
 *Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The other datasets do not contain sensitive data  !! person who write the IRB, questions
@@ -79,22 +79,26 @@ The responsibility below will be broken down by subproject.
 *Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data  
 
 **Data collection/ data generation:** responsible for data collection and creation, data entry, information processing, manipulation, and data generation.  
-*Responsible Parties:* Sam Singer bird survey on the northern bank, Arthur Chapman bird survey on southern bank, Patrick Pullman collects water samples at sites 1-7, Cathy Thompson collects water samples at sites 8-17, Barbra Hubble will conduct in person interviews about the use of the Brian Booth Wetlands
+*Responsible Parties:* Martha Marien will make sure the meteorological data is generating from the station. Sam Singer will conduct the bird survey on the northern bank, Arthur Chapman will conduct the bird survey on southern bank. Patrick Pullman will collect water samples at sites 1-7 and Cathy Thompson will collect water samples at sites 8-17. Barbra Hubble will conduct all in person interviews about the use of the Brian Booth Wetlands.  
 
 **Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find by creating consistent and defined folder structure and naming conventions. Responsible for saving the data in the appropriate formats.  
-*Responsible Parties:* Sam Singer the bird survey, Patrick Pullman and Cathy Thompson are each responsible for their samples and Patrick Pullman is responsible for merging the data, Barbra Hubble organizes the wetlands survey  
+*Responsible Parties:* Martha Marien will organize the meteorological data. Sam Singer will organize the bird survey. Patrick Pullman and Cathy Thompson are each responsible for their samples and Patrick Pullman is responsible for merging the data. Barbra Hubble will organizes the wetlands survey.   
 
 **Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
 *Responsible Parties:* There are different conventions depend on the specific dataset. The metadata standards for each dataset are defined below.
 
-Meteorological Data: All metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Martha Merien will be responsible for documenting the data in this format.  
-Bird Survey: A plain text read me file documenting the spreadsheet will be created by Sam Singer and Arthur Chapman. Sam Singer will be responsible for the methods part, Arthur Chapman will be responsible for the rest (variable definitions, defining acronyms, etc).  
-Water Quality Data: Data will be documented with a lab specific template found in the shared folder "R:\projects\BrBoMaster\WaterQ\Documents\Lab_standards.txt". Lab notebooks should follow all of the specifications for the lab.  
-Wetlands Survey: Documentation about the interviews, including consent forms, will be created and managed by Diane Dunning.  
-Maps Data: Julie Reynolds will be responsible for documenting the maps using FSGC metadata standards.    
+*Meteorological Data:* All metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Martha Merien will be responsible for documenting the data in this format.  
+
+*Bird Survey:* A plain text read me file documenting the spreadsheet will be created by Sam Singer and Arthur Chapman. Sam Singer will be responsible for the methods part, Arthur Chapman will be responsible for the rest (variable definitions, defining acronyms, etc).  
+
+*Water Quality Data:* Data will be documented with a lab specific template found in the shared folder "R:\projects\BrBoMaster\WaterQ\Documents\Lab_standards.txt". Lab notebooks should follow all of the specifications for the lab. Patrick Pullman and Cathy Thompson will generate metadata for samples.   
+
+*Wetlands Survey:* Documentation about the interviews, including consent forms, will be created and managed by Diane Dunning.  
+
+*Maps Data:* Julie Reynolds will be responsible for documenting the maps using FSGC metadata standards.    
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
-*Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data is managed by Julie Reynolds  
+*Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data will be managed by Julie Reynolds.  
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
 *Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset  
@@ -102,16 +106,30 @@ Maps Data: Julie Reynolds will be responsible for documenting the maps using FSG
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data  
 
-| Text | Text |  
-!! Add table section with tick marks of responsibility  
+The Below table provides a compact summary of everyone's responsibilities.  
+
+[//]: # (Tables are hard to format in "markdown". I used this site https://www.tablesgenerator.com/markdown_tables to auto generate this code.#)  
+
+|  | Bethany  Benard | Rick Rogers | Sam Singer | Wallace Williams | Diane Dunning | Martha Marien | Arthur Chapman | Patrick Pullman | Cathy Thompson | Barbra Hubble | Henry Cortez | Julie Reynolds |
+|-----------------------------------|:---------------:|:-----------:|:----------:|:----------------:|:-------------:|:-------------:|:--------------:|:---------------:|:--------------:|:-------------:|:------------:|:--------------:|
+| DMP Implementation | Yes | Yes | Yes | Yes | Yes | No | No | No | No | No | No | No |
+| Access Control | Yes | Yes | Yes | Yes | Yes | No | No | No | No | No | No | No |
+| Protection  of Sensitive Data | No | No | No | No | Yes | No | No | No | No | No | No | No |
+| Software Creation and Maintenance | No | No | No | No | No | Yes | No | No | No | No | No | No |
+| Instrumentation Maintenance | No | No | No | No | No | Yes | No | No | No | No | No | No |
+| Data Collection/ Generation | No | No | Yes | No | No | Yes | Yes | Yes | Yes | Yes | No | Yes |
+| Data Organization | No | No | Yes | No | Yes | No | No | Yes | Yes | Yes | No | No |
+| Metadata Generation | No | No | Yes | No | Yes | Yes | Yes | Yes | Yes | No | No | Yes |
+| Quality Control | Yes | Yes | Yes | No | No | No | No | Yes | Yes | Yes | No | No |
+| Data  Analysis | No | Yes | Yes | No | No | No | Yes | Yes | Yes | Yes | No | Yes |
+| Archiving and  Preservation | Yes | Yes | Yes | No | No | No | No | Yes | Yes | Yes | No | No |
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE
 
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
-Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
-!! need to look at the class btw publicly available and privileged
-!! mandatory vs highly encouraged during project duration 2 years after project
+Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. This offer is required for any publications with data that is formally unpublished. After the first publication of a dataset this convention is not mandatory but is highly encouraged for the two years following the project's completion. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
+
 Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.
 
 When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles. Members of the Project involved in data analysis will be acknowledged in the acknowledgment section in papers and publications. 󠄀

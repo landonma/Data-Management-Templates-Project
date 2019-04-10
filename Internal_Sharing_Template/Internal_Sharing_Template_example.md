@@ -109,7 +109,8 @@ Maps: M.S. will be responsible for documenting the maps using FSGC metadata stan
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
 Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
-
+!! need to look at the class btw publicly available and privileged
+!! mandatory vs highly encouraged during project duration 2 years after project
 Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.
 
 When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles. Members of the Project involved in data analysis will be acknowledged in the acknowledgment section in papers and publications. 󠄀
@@ -126,7 +127,7 @@ The bird survey data will be made available within two weeks of surveys conducti
 The wetlands survey will only be shared as a de-identified dataset to everyone except Diane Dunning and Barbra Hubble. This dataset will be shared after all the surveys are complete and processed. The raw data will only be available when it is deemed appropriate through special request from Diane Dunning. Diane Dunning will send an email to only those people using the survey dataset if there are changes after the initial upload and provided documentation in the wetland survey's readme.
 
 The water quality dataset will be made available periodically as the water samples are processed. The raw results and the processed data will both be available on the shared drive. The collection and processing dates will be clearly indicated on the files.
-
+!! contancet person reposible for subproject for publication before they publish theirs
 
 The maps are available for any members to access on the R drive. This data is also available to the public via Scholars Archive (https://ir.library.oregonstate.edu/concern/datasets/b3d8tfccd). No additional maps are planned for this project.
 
@@ -145,11 +146,14 @@ Researchers using data that they have not generated should discuss with authors 
 When a new version of a dataset is created by a group that did not generate the original dataset:
 - Communicate with original authors and explain
 - Share with all, following the standards described here. Document any important information that both sides want to share about the new dataset.
-!! project folder structure R
+!! project folder structure R drive iwht picture
+!! publication 2 years or first aricle project using the data
+
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
 ### A) Duration of Agreement
 This internal data sharing plan is effective from 2019-01-20 through 2020-05-31.
 
 ### B) Internal Data Sharing Plan update
-This plan may be amended, modified, or updated. While Bethany Barnard will make the ultimate decision about changes; Rick Rogers, Sam Singer, Wallace Williams and Diane Dunning will be consulted. All members of the teams should be informed and trained (if applicable) on changes.
+This plan may be amended, modified, or updated. While Bethany Barnard will make the ultimate decision about changes; Rick Rogers, Sam Singer, Wallace Williams and Diane Dunning will be consulted. All members of the teams should be informed and trained (if applicable) on changes.  
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")

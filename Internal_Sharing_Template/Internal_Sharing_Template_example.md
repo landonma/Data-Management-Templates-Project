@@ -65,33 +65,33 @@ The responsibility below will be broken down by subproject.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 *Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
-!! Make some changes in definitions, change the below to enphizse the PII data, give acces to new members
+!! Make some changes in definitions, change the below to emphases the PII data, give access to new members
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
 *Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps  
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
 *Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The other datasets do not contain sensitive data  !! person who write the IRB, questions
 
-**Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).  
+**Software creation and maintenance:** responsible for the creation, design, and installation of a software products and maintenance of the system (software update, error correction, enhancement of existing features).  
 *Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset  
 
 **Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
 *Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data  
 
-**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).  
+**Data collection/ data generation:** responsible for data collection and creation, data entry, information processing, manipulation, and data generation.  
 *Responsible Parties:* Sam Singer bird survey on the northern bank, Arthur Chapman bird survey on southern bank, Patrick Pullman collects water samples at sites 1-7, Cathy Thompson collects water samples at sites 8-17, Barbra Hubble will conduct in person interviews about the use of the Brian Booth Wetlands
 
-**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find !!i.e. folder structure, file naming conventions. Responsible for saving the data in the appropriate formats.  
+**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find by creating consistent and defined folder structure and naming conventions. Responsible for saving the data in the appropriate formats.  
 *Responsible Parties:* Sam Singer the bird survey, Patrick Pullman and Cathy Thompson are each responsible for their samples and Patrick Pullman is responsible for merging the data, Barbra Hubble organizes the wetlands survey  
 
 **Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
-*Responsible Parties:* Martha Marien following !! standard will generate the meteorological metadata, Sam Singer and Arthur Chapman will create text file for the bird survey with Sam Singer working on methods and Arthur Chapman working on variables, Wallace Williams will create metadata for the water quality data based on the Barbra Hubble will produce any necessary metadata for the wetlands survey,
+*Responsible Parties:* There are different conventions depend on the specific dataset. The metadata standards for each dataset are defined below.
 
-!! change to names Subproject 1: metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Tech will be responsible for documenting the data in the format.  
-Subproject 2: a plain text read me file documenting the spreadsheet will be created by F2 and PhD2. F2 will be responsible for the methods part, PhD2 will be responsible for the rest (variable definitions, defining acronyms, etc).  
-Subproject 3: data will be documented with a lab specific template found in the shared folder /make/up/path. Post and PhD3 will be responsible for documenting their own data.
-Subproject 4: documentation about the interviews, including consent forms, will be created and managed by Phd4.  
-Maps: M.S. will be responsible for documenting the maps using FSGC metadata standards, using input from other researchers in the team.  
+Meteorological Data: All metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Martha Merien will be responsible for documenting the data in this format.  
+Bird Survey: A plain text read me file documenting the spreadsheet will be created by Sam Singer and Arthur Chapman. Sam Singer will be responsible for the methods part, Arthur Chapman will be responsible for the rest (variable definitions, defining acronyms, etc).  
+Water Quality Data: Data will be documented with a lab specific template found in the shared folder "R:\projects\BrBoMaster\WaterQ\Documents\Lab_standards.txt". Lab notebooks should follow all of the specifications for the lab.  
+Wetlands Survey: Documentation about the interviews, including consent forms, will be created and managed by Diane Dunning.  
+Maps Data: Julie Reynolds will be responsible for documenting the maps using FSGC metadata standards.    
 
 **Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
 *Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data is managed by Julie Reynolds  
@@ -102,6 +102,7 @@ Maps: M.S. will be responsible for documenting the maps using FSGC metadata stan
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data  
 
+| Text | Text |  
 !! Add table section with tick marks of responsibility  
 
 ## SECTION III: ACKNOWLEDGMENT OF DATA USE

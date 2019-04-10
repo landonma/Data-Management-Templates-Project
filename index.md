@@ -9,14 +9,11 @@ Included in the project are the following data management document templates:
 
 ### 1. Data Management Implementation Plan  
 This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
-**View The Template**  
-[Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
+**View The Template**: [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
 
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
-[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md)  
-[Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs)  
-[LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
+[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.docs) | [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Implementation_Template/Implementation_Template.tex)  
 
 **Example**  
 A fictional example that shows what the finalized document will look like.  
@@ -31,9 +28,7 @@ Disagreements between the members of a team regarding the sharing of research da
 
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
-[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md)  
-[Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs)  
-[LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
+[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs) | [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
 
 **Example**  
 A fictional example that shows what the finalized document will look like.  
@@ -47,16 +42,13 @@ A Documentation File (sometimes referred to as README file)  has information abo
 
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
-[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md)  
-[Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs)  
-[LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
+[Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs) | [LeTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
 
 **Example**  
 A fictional example that shows what the finalized document will look like.  
 [Documentation File Example](Documentation_Template/Documentation_Template_example.md)
 
-## Other resources
-### Detailed Instructions
+## Detailed Instructions
 We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions.md).
-### FAQ
+## FAQ
 [Here](faq.md) are a list of frequently asked questions.

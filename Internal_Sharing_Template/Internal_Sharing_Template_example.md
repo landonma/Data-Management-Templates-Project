@@ -16,7 +16,7 @@ D4. Use of Wetlands Survey
 D5. Map Generation
 
 ### B) Data Management Plan (DMP)  
-The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster".
+The data management plan for the Project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster\DMP_latest.doc".
 
 ### C) Data Description  
 The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, 12 people from 5 departments and one government agency will collect five datasets looking at different aspects of the same area. The datasets are as follow:

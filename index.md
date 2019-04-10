@@ -50,5 +50,3 @@ A fictional example that shows what the finalized document will look like.
 
 ## Detailed Instructions
 We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions.md).
-## FAQ
-[Here](faq.md) are a list of frequently asked questions.

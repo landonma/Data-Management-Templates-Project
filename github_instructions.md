@@ -65,12 +65,11 @@ If would like to select the files you download individually follow these steps:
   - Right click somewhere on the page and select "Save as"
   - **Delete the .txt** at the end of the file name and save file to your computer
 
+#### Upload a File to Github
+After downloading the file to your computer you still need to to upload that file into your repository. Follow the intructions from Github if you need help uploading a file [Add a file to a Repo](https://help.github.com/en/articles/adding-a-file-to-a-repository).
 
 ## Using Our Template and Guide Documents
-Choose the file format which you wish to edit the document. If you want to publish on GitHub Pages you should edit the markdown format. Otherwise you can choose between the markdown, word file, or LaTeX.
-
-
- !!(found [here](datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
+After you have the template you want ([Implementation](https://github.com/landonma/Data-Management-Templates-Project/tree/master/Implementation_Template), [Internal Sharing] (https://github.com/landonma/Data-Management-Templates-Project/tree/master/Internal_Sharing_Template), or [Documentaion](https://github.com/landonma/Data-Management-Templates-Project/tree/master/Documentation_Template)) in the format you desire you are ready to edit the file for your project. If you want to publish on GitHub Pages you should use the markdown file. Otherwise you can choose between the markdown, word file, or LaTeX formats (found [here] (datastorage-norm-edited)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
 The example documents are meant to help you think about the important parts of each section and are **not** meant to be edited and published. These document will help illustrate what a finished version for each document type will look like.  
 ## Markdown editing
@@ -83,30 +82,18 @@ Markdown was created to be easy to read and edit and we use this format for all 
 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a source code/text editor (Atom was created by GitHub and is a great tool for editing/previewing markdown). You can use any text editor such as Microsoft Word or Google Docs but if you are unfamiliar with editing code I strongly recommend using editing the documents on Github itself. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 
-!!
- Then you may upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/) is a quick article if you are unfamiliar with uploading files onto Github)
-
 ## Customizing Github Pages
-When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. Our repositories have been set up so that the . For your repository you will want something that suites your needs.
-!!
-If the only page you want is the data management implementation plan document you can rename that document "index.md". Now whenever you navigate to your repository URL you will get document.
-You may want a list of links with some basic text for the home page. To do this, use this markdown file as a template and edit the text and links as necessary. There are three types of links used in this repository and they all have slightly different text inside the parentheses " () ". To best distinguish between these types it is best to look at the code in an editor.
+When you use Github Pages, your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. 
+If the only page you want is a completed document plan you can rename that document "index.md". Now whenever you navigate to your repository URL you will get document.
+Otherwise, you may want a list of links with some basic text for the home page. To do this, use this markdown file as a template and edit the text and links as necessary. There are three types of links used in this repository and they all have slightly different text inside the parentheses " () ". To best distinguish between these types it is best to look at the code in an editor.
 
 * Some of them are basic hyper links which contain the full url of the page in the () which is linked to ie. [google.com](google.com).
 
-* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). Relative links work differently on github site versus displaying pages on your .io via Github Pages.
-
-
-
-
-All the links that point to other pages in this repository were created using relative links. If you include the .md at the end of the file name it will load the actual markdown file and will not apply the formatting that is enabled with Github Pages(via Jekyll). Also these links keep you in your current web experience. This means that if you are navigating the pages via github's actual site it will keep you in this experience. While, if you are loading the pages through the .io path the relative links will keep loading .io pages. !!
-
-
+* Others are relative links which match a file name in your repository. To create this type of link include the full file name exactly as it appears in the repositry including the extension. [Data Management Implementation Plan Template](datastorage-norm-edited). Relative links work well if you want to keep the user experience consistent as clicking on them from the .io webpage will not take you to the .github page and vise versa.
 
 * There are also "links" which jump to header within the same page. These are useful when creating a table of contents and look like [this](#customizing-github-pages). They are created by putting one "#" then the name of the header you wan to jump. The header name must be typed in all lower case even if the actually header isn't and the spaces are replaces with dashes -. Make sure to change these links whenever a header name is changed. Also note that there should only be **ONE #** regardless of the header level.
 
 
 Github has also created a number of themes that change the appearance of your pages and can be viewed [here](http://jekyllthemes.org/ "Available Themes").  Instructions on how to apply the themes are [here](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/ "Add Jekyll Themes"). This repository has **no theme** applied to it but you are welcome to try them out.
-* I suggest the method that edits the "_ config" file because you can simply delete the line if you want to remove the theme later.
 
-You can also use HTML to create/format any pages on your repository. For simplicity and to show what Markdown can do; nothing in this repository was written using HTML.
+You can also use HTML to create/format any pages on your repository. For simplicity and to show what Markdown can do; spliced in HTML was used sparingly.

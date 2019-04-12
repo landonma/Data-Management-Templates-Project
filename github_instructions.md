@@ -46,7 +46,7 @@ Next you will need to enable Github Pages on any other repositories such as the 
     - **gh-pages branch** If you have created a "gh-pages" branch then you can publish from this location instead of your master branch. Github Pages will be enabled for everything in this branch but not for any other branch. This is a good option if you want to keep the things which you are publishing completely separate from the documents and files in your master branch. This option allows for the most control and the smallest possibility that files are accidently published. If you have a *private repository* I highly recommend going with this option (just don't forget to delete any sensitive files in the new branch). [This link](https://guides.github.com/activities/hello-world/) describes how to create a new branch.
 
 
-## How to Download the Template Files
+## How to Download/Upload the Template Files
 
 #### Download/Clone our Repository
 One way to get the template files is to download the entire repository. To do this:  
@@ -59,11 +59,12 @@ If would like to select the files you download individually follow these steps:
 - Navigate to out [repository homepage](https://github.com/landonma/Data-Management-Templates-Project)  
 - Click on the specific file you want to download by choosing it from the files list. The templates are contained within the respective folders with varous formats to choose from
 - You should now be on the file page and [it should look something like this](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docx).  
--If is a docx or pdf file, click the "download" button on the bottom straight
+-If is a docx or pdf file, click the "download" button  
 -If it is a md or tex file:
   - Click the "Raw" button on the right above the file's text
   - Right click somewhere on the page and select "Save as"
   - **Delete the .txt** at the end of the file name and save file to your computer
+
 
 ## Using Our Template and Guide Documents
 Choose the file format which you wish to edit the document. If you want to publish on GitHub Pages you should edit the markdown format. Otherwise you can choose between the markdown, word file, or LaTeX.

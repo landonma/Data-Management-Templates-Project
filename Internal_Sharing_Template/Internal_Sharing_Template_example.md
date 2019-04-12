@@ -70,13 +70,13 @@ The responsibility below will be broken down by subproject.
 *Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps.  
 
 **Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
-*Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The other datasets do not contain sensitive data  !! person who write the IRB, questions
+*Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The OSU IRB approved protocols are listed in the R drive in the admin folder. Questions about these protocols or the protection of sensitive data should be directed to Diane Dunning. The other datasets do not contain sensitive data that needs protecting.  
 
 **Software creation and maintenance:** responsible for the creation, design, and installation of a software products and maintenance of the system (software update, error correction, enhancement of existing features).  
-*Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset  
+*Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset.  
 
 **Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
-*Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data  
+*Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data.  
 
 **Data collection/ data generation:** responsible for data collection and creation, data entry, information processing, manipulation, and data generation.  
 *Responsible Parties:* Martha Marien will make sure the meteorological data is generating from the station. Sam Singer will conduct the bird survey on the northern bank, Arthur Chapman will conduct the bird survey on southern bank. Patrick Pullman will collect water samples at sites 1-7 and Cathy Thompson will collect water samples at sites 8-17. Barbra Hubble will conduct all in person interviews about the use of the Brian Booth Wetlands.  
@@ -101,10 +101,10 @@ The responsibility below will be broken down by subproject.
 *Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data will be managed by Julie Reynolds.  
 
 **Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
-*Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset  
+*Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset.  
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
-*Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data  
+*Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data.  
 
 The table below provides a compact summary of everyone's responsibilities.  
 
@@ -139,7 +139,7 @@ When possible, publications will be made in journals that use the CRediT authors
 ### A) Data access, permissions, and restriction
 Datasets will be shared internally at minimum with all people listed in this document. The meteorological data, bird survey, water quality data and maps will be shared with all members on the shared drive. Remote access to the server will be provide to Dianne Dunning so that she can access the data on her work computer. All tabular data will be shared as comma separated values (csv) files. The maps will be available as shapefiles as well as a geodatabase. Any image or video files should be shared in their original format (jpeg and mp4 are preferred).
 
-The meteorological dataset will be made available continuously through out the project. This dataset will be updated with the latest calibration versions available. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests are in the R drive ("R:\projects\BrBoMaster\Metero\tests\testdescriptions.txt"). Updates will be regular and no notifications will be sent for each version. The latest version will always be on the top level of the meteorological folder along with the version number.
+The meteorological dataset will be made available continuously through out the project. This dataset will be updated with the latest calibration versions available. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests are in the R drive ("R:\BrBoMaster\Metero\tests\testdescriptions.txt"). Updates will be regular and no notifications will be sent for each version. The latest version will always be on the top level of the meteorological folder along with the version number.
 
 The bird survey data will be made available within two weeks of surveys conduction. Any versions after the raw data should be clearly denoted and available in the same location. If any substantial changes are made to the dataset an email should be sent to all members of the project outlining the changes.!! add verions control detials
 
@@ -151,7 +151,7 @@ The water quality dataset will be made available periodically as the water sampl
 The maps are available for any members to access on the R drive. This data is also available to the public via Scholars Archive (https://ir.library.oregonstate.edu/concern/datasets/b3d8tfccd). No additional maps are planned for this project.
 
 ### B) Data storage
-Datasets will be shared with the OSU faculty, team members, and students through the R-drive (R:\projects\BrBoMaster).
+Datasets will be shared with the OSU faculty, team members, and students through the R-drive (R:\BrBoMaster). Remote access to this drive will be provided to Diane Dunning and to any other member upon request. The identified wetlands survey dataset will not be on the R drive and will only be made available by Diane Dunning if she deems it appropriate.  
 
 
 ### C) Confidentiality
@@ -162,11 +162,10 @@ Researchers using data that they have not generated should discuss with authors 
 ### D) Other workflows
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.
 
-When a new version of a dataset is created by a group that did not generate the original dataset:
+!!When a new version of a dataset is created by a group that did not generate the original dataset:
 - Communicate with original authors and explain
-- Share with all, following the standards described here. Document any important information that both sides want to share about the new dataset.
-!! project folder structure R drive iwht picture
-!! publication 2 years or first aricle project using the data
+- Share with all, following the standards described here. Document any important information that both sides want to share about the new dataset.  
+![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN
 
@@ -175,4 +174,3 @@ This internal data sharing plan is effective from 2019-01-20 through 2020-05-31.
 
 ### B) Internal Data Sharing Plan update
 This plan may be amended, modified, or updated. While Bethany Barnard will make the ultimate decision about changes; Rick Rogers, Sam Singer, Wallace Williams and Diane Dunning will be consulted. All members of the teams should be informed and trained (if applicable) on changes.  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")

@@ -106,7 +106,7 @@ The responsibility below will be broken down by subproject.
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data  
 
-The Below table provides a compact summary of everyone's responsibilities.  
+The table below provides a compact summary of everyone's responsibilities.  
 
 [//]: # (Tables are hard to format in "markdown". I used this site https://www.tablesgenerator.com/markdown_tables to auto generate this code.#)  
 

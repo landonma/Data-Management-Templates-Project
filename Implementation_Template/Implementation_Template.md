@@ -15,11 +15,8 @@ PI: *[Principal investigator of the project]*
 
 
 ## Table of Contents:     
-[Data Management Plan and other Documentation](#data-management-plan-and-other-documentation)  
-[Data Management Units](#data-management-units)  
-[Data Collection](#data-collection)  
-[Data Documentation](#data-documentation)  
-[Quality Control](#quality-control)  
+[Data Management Plan and other Documentation](#data-management-plan-and-other-documentation) | [Data Management Units](#data-management-units)  
+[Data Collection](#data-collection) | [Data Documentation](#data-documentation) | [Quality Control](#quality-control)  
 [File Organization](#file-organization)  
 [Formats](#formats)  
 [Storage](#storage)  

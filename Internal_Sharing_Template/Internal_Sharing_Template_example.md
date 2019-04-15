@@ -139,14 +139,13 @@ When possible, publications will be made in journals that use the CRediT authors
 ### A) Data access, permissions, and restriction
 Datasets will be shared internally at minimum with all people listed in this document. The meteorological data, bird survey, water quality data and maps will be shared with all members on the shared drive. Remote access to the server will be provide to Dianne Dunning so that she can access the data on her work computer. All tabular data will be shared as comma separated values (csv) files. The maps will be available as shapefiles as well as a geodatabase. Any image or video files should be shared in their original format (jpeg and mp4 are preferred).
 
-The meteorological dataset will be made available continuously through out the project. This dataset will be updated with the latest calibration versions available. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests are in the R drive ("R:\BrBoMaster\Metero\tests\testdescriptions.txt"). Updates will be regular and no notifications will be sent for each version. The latest version will always be on the top level of the meteorological folder along with the version number.
+The meteorological dataset will be made available continuously through out the project. This dataset will be updated with the latest calibration versions available. There will be updated quality control information, based on defined quality levels (L0 raw data, L1 has passed tests A and B, L2 has passed all tests. Description of protocols and tests are in the R drive ("R:\BrBoMaster\Metero\tests\testdescriptions.txt"). Updates will be regular and no notifications will be sent for each version. The latest version will always be on the top level of the meteorological folder along with the version number.  
 
-The bird survey data will be made available within two weeks of surveys conduction. Any versions after the raw data should be clearly denoted and available in the same location. If any substantial changes are made to the dataset an email should be sent to all members of the project outlining the changes.!! add verions control detials
+The bird survey data will be made available within two weeks of surveys conduction. Any versions after the raw data should be clearly denoted and available in the same location. If any substantial changes are made to the dataset an email should be sent to all members of the project outlining the changes. The version and changes should also be clearly indicated in text file associated with each dataset.  
 
 The wetlands survey will only be shared as a de-identified dataset to everyone except Diane Dunning and Barbra Hubble. This dataset will be shared after all the surveys are complete and processed. The raw data will only be available when it is deemed appropriate through special request from Diane Dunning. Diane Dunning will send an email to only those people using the survey dataset if there are changes after the initial upload and provided documentation in the wetland survey's readme.
 
-The water quality dataset will be made available periodically as the water samples are processed. The raw results and the processed data will both be available on the shared drive. The collection and processing dates will be clearly indicated on the files.
-!! contancet person reposible for subproject for publication before they publish theirs
+The water quality dataset will be made available periodically as the water samples are processed. The raw results and the processed data will both be available on the shared drive. The collection and processing dates will be clearly indicated on the files.  
 
 The maps are available for any members to access on the R drive. This data is also available to the public via Scholars Archive (https://ir.library.oregonstate.edu/concern/datasets/b3d8tfccd). No additional maps are planned for this project.
 
@@ -155,16 +154,11 @@ Datasets will be shared with the OSU faculty, team members, and students through
 
 
 ### C) Confidentiality
-The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are *[Complete. Feel free to refer to the DMP for detailed description of the confidentiality measures]*. This helps prevent unauthorized use or access to the data and limiting access to data for authorized staff.
-!! only the wetlands, IRB approvals was obtained and can be accessed in paht....
-Researchers using data that they have not generated should discuss with authors of the data possible publication dates.
+The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are contained in the IRB approved document which was submitted by Diane Dunning. These measures were only nessisary for the wetlands dataset and can be found on the MasterAdmin folder on the R drive.
 
 ### D) Other workflows
-*[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*.
+The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset.
 
-!!When a new version of a dataset is created by a group that did not generate the original dataset:
-- Communicate with original authors and explain
-- Share with all, following the standards described here. Document any important information that both sides want to share about the new dataset.  
 ![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
 ## SECTION V: IMPLEMENTATION OF THE INTERNAL DATA SHARING PLAN

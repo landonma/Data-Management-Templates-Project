@@ -19,7 +19,7 @@ There are two types of repositories on GitHub; public ones and private ones. **P
 Github Pages allows you to create webpages from files hosted on your Github account. This allows you to publish documents through GitHub that anyone can access through a web browser.
 
 ###### ------------** IMPORTANT NOTE ** ------------
-GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is also some customization which allows you to only publish a certain branch or folder in your repository instead of the whole thing.
+GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL FILES TYPES** in a GitHub Pages enabled location are viewable means you must be certain you are not publishing private information before enabling GitHub Pages. You can decide which repositories in your account to publish using Github Pages with one exception; your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. There is some customization which allows you to only publish a certain branch or folder in your repository instead of the whole thing but this only really relevant if you have a private repository.
 
 ### Setting Up Your Account to Use Github Pages
 Setting up Github Pages is fairly simple and straight forward.
@@ -28,8 +28,7 @@ Setting up Github Pages is fairly simple and straight forward.
 - Name the repository *USERNAME*.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.
 - Even if you have a paid/educational account you should leave the "Public" option selected for this repository
 - Click the "Create repository" near the bottom of the page  !! Try up to this again but don't create an initial file in the username repo
-- Because of this repository's name, it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see. This isn't problematic if you are 
-
+- Because of this repository's name, it is permently set up with Github Pages and will publish all files uploaded to this repository for anyone to see.
 - With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)  
 **Note:** Github pages can take around **5-7 minutes** to upload edits and will go slower after multiple edits in the same day
 
@@ -83,7 +82,7 @@ Markdown was created to be easy to read and edit and we use this format for all 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using a source code/text editor (Atom was created by GitHub and is a great tool for editing/previewing markdown). You can use any text editor such as Microsoft Word or Google Docs but if you are unfamiliar with editing code I strongly recommend using editing the documents on Github itself. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 
 ## Customizing Github Pages
-When you use Github Pages, your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. 
+When you use Github Pages, your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website.
 If the only page you want is a completed document plan you can rename that document "index.md". Now whenever you navigate to your repository URL you will get document.
 Otherwise, you may want a list of links with some basic text for the home page. To do this, use this markdown file as a template and edit the text and links as necessary. There are three types of links used in this repository and they all have slightly different text inside the parentheses " () ". To best distinguish between these types it is best to look at the code in an editor.
 

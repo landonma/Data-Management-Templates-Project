@@ -22,14 +22,29 @@ Table of Contents
 Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
 
 
-##### 1) **_[Project Name]_**
+##### 1) Health and Value of the Brian Booth Wetlands
 
 
 ##### 2) Data Management Plan (DMP)
-The data management plan for the project can be found **_[complete]_**
+The data management plan for the project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster\DMP_latest.doc".  
 
 ##### 3) Data Description
-**_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
+The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, twelve people from five departments and one government agency will collect five datasets looking at different aspects of the same area. The datasets are as follow:
+
+1. Meteorological data  
+    - Readings from a station set up for the duration of the project (temperature, wind speed, humidity, ect)
+2. Birds Census   
+   - Spreadsheets with counts of migratory birds
+   - Photographs and videos with geo-location tags
+3. Water quality
+   - instrumentation (dissolved oxygen, pH, turbidity, temperature, nutrients, etc)
+   - lab data: phytoplankton and zooplankton species identification
+   - spreadsheet, physical samples, photos and microscope images
+4. Use of the wetlands as a recreational site
+   - Interviews of visitors on how they use the wetlands and its value
+5. Maps
+   - Maps of the area that provide context for the project
+
 
 ## Data Management Plan and Documentation
 

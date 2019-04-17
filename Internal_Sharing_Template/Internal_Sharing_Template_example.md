@@ -154,7 +154,7 @@ Datasets will be shared with the OSU faculty, team members, and students through
 
 
 ### C) Confidentiality
-The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are contained in the IRB approved document which was submitted by Diane Dunning. These measures were only nessisary for the wetlands dataset and can be found on the MasterAdmin folder on the R drive.
+The measures for establishing safeguards to protect the confidentiality of the data among the researchers in this Project are contained in the IRB approved document which was submitted by Diane Dunning. These measures were only necessary for the wetlands dataset and can be found on the MasterAdmin folder on the R drive.
 
 ### D) Other workflows
 The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset.

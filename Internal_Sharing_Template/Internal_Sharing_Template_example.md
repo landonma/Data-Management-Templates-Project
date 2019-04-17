@@ -5,7 +5,7 @@
 ## SECTION I: DATA MANAGEMENT
 
 ### A) Project overview  
-This agreement is between all the members of the Health and Value of the Brian Booth Wetlands Project. Throughout this document we will refer to it as the Project.  
+This agreement is between all the members of the Health and Value of the Brian Booth Wetlands. Throughout this document we will refer to it as the Project.  
 
 This project is a collaboration between five groups, each creating a different dataset. The five data sets are:   
 

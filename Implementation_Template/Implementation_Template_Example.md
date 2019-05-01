@@ -63,26 +63,26 @@ Five groups of datasets will be generated during the course of this project.
 
 1. Meteorological Group
 	Type of dataset: Observational  
-	Collection strategy: *[blank]*  
+	Collection strategy: WxPRO weather station positioned near the center of the research site  
 	Amount of data expected: 200 days of atmospheric data  
 
 2. Bird Survey Group
-	Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
-	Collection strategy: *[blank]*  
-	Amount of data expected:   
+	Type of dataset: observational  
+	Collection strategy: Bird Survey conducted around 17 sites   
+	Amount of data expected: 34 tables     
 
 3. Water Quality Group
-  Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
-	Collection strategy: *[blank]*  
+  Type of dataset: observational  
+	Collection strategy:   
   Amount of data expected: *[blank]*  
 
 4. Wetlands Survey Group  
-  Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
-  Collection strategy: *[blank]*  
-  Amount of data expected: *[blank]*  
+  Type of dataset: observational  
+  Collection strategy: In person survey questionnaires conducted at the park  
+  Amount of data expected: 30 questions survey from 50 participants  
 
 5. Area Map Group  
-  Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
+  Type of dataset: *[observational, model output]*  
   Collection strategy: *[blank]*  
   Amount of data expected: *[blank]*  
 
@@ -95,6 +95,23 @@ These groups should be referred to throughout the document when different manage
 *[Information relevant to how data will be collected, captured or created]*
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
 
 **Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
 
@@ -129,7 +146,7 @@ These groups should be referred to throughout the document when different manage
 ###### *Text*  
 Data will be documented throughout the research process using the following tools:
 
-**Lab notebooks:** *[If the project will use lab notebooks to document their lab procedures, include here best practices to keep them in the lab]*
+**Lab notebooks:**
 
 Details about experiments and work in a lab are quickly forgotten unless they are written down. Be diligent in writing information into notebooks. Follow best practices:  
 - Lab notebooks will always be bound notebooks. Blank notebooks can be found in *[blank]*. Number and date the notebook when you begin with a new one.  
@@ -141,7 +158,7 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 -	All entries should be consecutive. Always record dates.
 -	Backup: at the end of the day *[blank]* [scan, photograph…] the pages of the notebook that you worked on, and store them in *[blank]*
 
-**Templates:** *[If the project will use templates to document datasets, include here instructions about where to find the templates and how to use them]*  
+**Templates:** survey,   
 
 **Readme:** *[If the project will be documented using readme files, include expectations about where they will be created, and which information will be recorded in them.]*  
 
@@ -209,13 +226,27 @@ Rationale: setting expectations about how and when datasets will be shared inter
 
 - Datasets will be shared internally             **_[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it ]_**.
 
+- Datasets will be shared internally             **_[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it ]_**.
+
 - Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
+- Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
+
+- The meteorological dataset will be made avabile to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing
+
+- Bird survey will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
+
+- Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
+
+- Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
 
 - Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
 
 - Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
+- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
+- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
+- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
 
-- Datasets will be shared internally accompanied of                **_[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]_**.
+- Datasets will be shared internally accompanied by                **_[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]_**.
 
 - Datasets will be shared internally by                   **_[how are the datasets going to be delivered? For example: by e-mail/by depositing them in Box/Google drive/external hard drive/shared drive/website]_**.
 
@@ -243,25 +274,13 @@ Rationale: setting expectations about how and when datasets will be shared inter
 
 ##### Acknowledgment of Data Use
 
-
-Rationale: Most of the data management responsibilities outlined in the final section require a lot of time and effort. Often, datasets are shared within members of the same project and the use of these datasets improves or makes possible scholarly outcomes  such as publications of articles, book chapters, presentations in conferences, proceedings, etc. It is necessary to have a common understanding on how to acknowledge the role of data managers, data creators, data analysts in the research process. These roles may not be appropriate as manuscript authors, but there are many other options. Acknowledging these roles is not a legal matter (no law requires it), but it is an ethical one. Responsible conduct of research involves acknowledging other people’s roles in managing data. Acknowledging the roles may also have an impact of the careers of researchers involved.    
-
-
-**_[Decide what are the procedures that you will follow to acknowledge data management roles, and if there are any preferred methods. This template lists the options in order: options that follow best practices are noted at the beginning, while practices that we discourage are noted at the end. We use here “data management” as a general term, but consider changing it for more specific roles. For example, you may want to consider offering co-authorship to the researchers involved in data collection and data quality control as authors in data publications, and adding the researchers involved in instrumentation maintenance in the acknowledgements]_**
-
-
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 
+Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. This offer is required for any publications with data that is formally unpublished. After the first publication of a dataset this convention is not mandatory but is highly encouraged for the two years following the project's completion. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
 
+Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.
 
-- Members of the Project that were involved in data management **_[change to a more specific role]_** will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. **_[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]_**. The offer for co-authorship may be accepted or declined.
-
-
-- Datasets will be published separately from the research in a repository or as an article in a data journal **_[change if there are more discipline specific options]_**. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
-
-
-
-- When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.
+When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles. Members of the Project involved in data analysis will be acknowledged in the acknowledgment section in papers and publications. 󠄀
 
 ## Data Archival
 
@@ -271,121 +290,72 @@ All members of the Project involved in roles related to data management will be 
 Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
 
 
-##### Role definitions: **_[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here.]_**
+#### Role definitions:  
+**Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
+Bethany Barnard is the PI and will coordinate with all of the separate parts.
 
+**Faculty Investigator:**
+Three OSU faculty members are assigned to three of the subprojects:  
+Rogers, Rick is responsible for the Meteorological Data  
+Singer, Sam is responsible for the Birds Census  
+Williams, Wallace is responsible for the Water Quality Data  
 
-**Principal Investigator (PI):** leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
+Dunning, Diane is Parks and Recreation Department employee and is responsible for the Wetland Interviews dataset.
 
-**Faculty Investigator:** they actively perform research on all or a part of the research Project. They may provide active mentorship to students.
+**Team member:**  
+Martha Marien is a technicians in the College of Earth, Ocean, and Atmospheric Sciences at OSU and will work on the meteorological dataset. Patrick Pullman is a Postdoc in the Department of Fisheries and Wildlife at OSU and will work on the bird survey dataset.  
 
-**Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).
+**Student:**  
+Five Oregon State University Students will be working on various projects. Arthur Chapman will work on the bird census. Cathy Thompson will work on the water quality data. Barbra Hubble and Henry Cortez will work on the wetlands survey. Julie Reynolds will work on the creation of the maps of the area.
 
-**Student:** member of the Project pursuing a degree. Undergraduate, master, PhD or others
+#### Responsibilities
+The responsibility below will be broken down by subproject.
 
-##### Responsibilities **_[adapt the definition of each of these responsibilities to the Project. Add more, or remove if necessary. Decide who (which role) is going to be responsible for each of these]_**
+ Rogers, Rick is responsible for the Meteorological Data  
+ Singer, Sam is responsible for the Birds Census  
+ Williams, Wallace is responsible for the Water Quality Data  
+ Dunning, Diane is responsible for the Wetland Interviews  
+ Bethany Barnard is responsible for the Maps dataset  
 
+**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
+*Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
+!! Make some changes in definitions, change the below to emphases the PII data, give access to new members  
+**Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
+*Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps.  
 
+**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.  
+*Responsible Parties:* Diane Dunning will protect the identifiable version of the wetlands survey dataset. The OSU IRB approved protocols are listed in the R drive in the admin folder. Questions about these protocols or the protection of sensitive data should be directed to Diane Dunning. The other datasets do not contain sensitive data that needs protecting.  
 
+**Software creation and maintenance:** responsible for the creation, design, and installation of a software products and maintenance of the system (software update, error correction, enhancement of existing features).  
+*Responsible Parties:* Martha Marien will produce and maintain the software associated with the meteorological dataset.  
 
-**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.
+**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.  
+*Responsible Parties:* Martha Marien will maintain weather station which collects the meteorological data.  
 
+**Data collection/ data generation:** responsible for data collection and creation, data entry, information processing, manipulation, and data generation.  
+*Responsible Parties:* Martha Marien will make sure the meteorological data is generating from the station. Sam Singer will conduct the bird survey on the northern bank, Arthur Chapman will conduct the bird survey on southern bank. Patrick Pullman will collect water samples at sites 1-7 and Cathy Thompson will collect water samples at sites 8-17. Barbra Hubble will conduct all in person interviews about the use of the Brian Booth Wetlands.  
 
- Responsibility of: **_[complete with one of the roles defined above]_**
+**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find by creating consistent and defined folder structure and naming conventions. Responsible for saving the data in the appropriate formats.  
+*Responsible Parties:* Martha Marien will organize the meteorological data. Sam Singer will organize the bird survey. Patrick Pullman and Cathy Thompson are each responsible for their samples and Patrick Pullman is responsible for merging the data. Barbra Hubble will organizes the wetlands survey.   
 
+**Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.  
+*Responsible Parties:* There are different conventions depend on the specific dataset. The metadata standards for each dataset are defined below.
 
-**Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.
+*Meteorological Data:* All metadata will be recorded using a metadata standard in the field (EML Ecological Metadata Language). Martha Merien will be responsible for documenting the data in this format.  
 
+*Bird Survey:* A plain text read me file documenting the spreadsheet will be created by Sam Singer and Arthur Chapman. Sam Singer will be responsible for the methods part, Arthur Chapman will be responsible for the rest (variable definitions, defining acronyms, etc).  
 
-Responsibility of: **_[complete with one of the roles defined above]_**
+*Water Quality Data:* Data will be documented with a lab specific template found in the shared folder "R:\projects\BrBoMaster\WaterQ\Documents\Lab_standards.txt". Lab notebooks should follow all of the specifications for the lab. Patrick Pullman and Cathy Thompson will generate metadata for samples.   
 
-**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.
+*Wetlands Survey:* Documentation about the interviews, including consent forms, will be created and managed by Diane Dunning.  
 
+*Maps Data:* Julie Reynolds will be responsible for documenting the maps using FSGC metadata standards.    
 
-Responsibility of: **_[complete with one of the roles defined above]_**
+**Quality control:** responsible for performing quality assurance and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.  
+*Responsible Parties:* Rick Rogers will manage the meteorological data, Sam Singer will manage the bird survey data, Patrick Pullman and Cathy Thompson will manage the water quality data, Barbra Hubble is responsible for the wetlands survey dataset, and the map data will be managed by Julie Reynolds.  
 
+**Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.  
+*Responsible Parties:* Julie Reynolds will be responsible for the creation of the maps, Rick Rogers is responsible for the meteorological data analysis, Sam Singer and Arthur Chapman will work on the bird survey data, Patrick Pullman and Cathy Thompson will work on the water quality data, Barbra Hubble and Henry Cortez will work on the wetlands dataset.  
 
-**Software creation and maintenance:** responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Data organization:** responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Metadata generation:** responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Quality control:** responsible for performing quality assurance  and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Data analysis:** responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository, or managed internally).
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-##### *Role definitions:*
-*[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here.]*
-
-
-**Principal Investigator (PI):** leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
-
-**Faculty Investigator:** they actively perform research on all or a part of the research Project. They may provide active mentorship to students.
-
-**Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).
-
-**Student:** member of the Project pursuing a degree. Undergraduate, master, PhD or others
-%%
-##### *Responsibilities* **_[adapt the definition of each of these responsibilities to the Project. Add more, or remove if necessary. Decide who (which role) is going to be responsible for each of these]_**
-
-
-
-
-**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.
-
-
- Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.
-
-
-Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).
-
-Responsibility of: **_[complete with one of the roles defined above]_**
+**Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
+*Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data.  

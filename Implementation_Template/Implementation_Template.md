@@ -1,6 +1,8 @@
-# Oregon-State-Data-Management-Plan Template
+# Oregon-State-Data-Management-Plan-Implementation Template
 
-*[Instructions in this document will appear in this format. The expectation is that all instructions will be deleted from this document after it is completed. All other sections and text are provided as suggestions to help you implement your data management plan. Delete and modify them as you see fit so that this document ends up being useful to you. Extra guidance, suggestions and examples can be found [here](https://here) If you have feedback about this template, please contact ResearchDataServices@oregonstate.edu  ]*
+*[Instructions in this document will appear in this format. The expectation is that all instructions will be deleted from this document after it is completed. All other sections and text are provided as suggestions to help you implement your data management plan. Delete and modify them as you see fit so that this document ends up being useful to you. Extra guidance, suggestions and examples can be found [here](https://here) If you have feedback about this template, please contact ResearchDataServices@oregonstate.edu or start an issue in the GitHub repository ]*
+
+*[REMINDER: This is not a Data Management Plan template. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
 
 ### Project Information
 

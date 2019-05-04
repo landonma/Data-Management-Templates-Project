@@ -55,10 +55,6 @@ The aim of the project is use a wide range of disciplines to look at function an
 
 ## Data Management Units
 
-###### *Instructions*  
-*[Define datasets that will be created during this project, and group them according to different management needs. Describe relevant general information about the data groups: are they observational, experimental, simulation, model output or assimilation datasets; How will they be collected? How much data is expected?]*  
-###### *Text*
-
 Five groups of datasets will be generated during the course of this project.
 
 1. Meteorological Group
@@ -68,12 +64,12 @@ Five groups of datasets will be generated during the course of this project.
 
 2. Bird Survey Group
 	Type of dataset: observational  
-	Collection strategy: Bird Survey conducted around 17 sites   
-	Amount of data expected: 34 tables     
+	Collection strategy: Bird Survey conducted around 17 sites by 2 people visiting each site twice   
+	Amount of data expected: 34 csv tables     
 
 3. Water Quality Group
   Type of dataset: observational  
-	Collection strategy:   
+	Collection strategy: Water samples collected at 8 sites by 2 people during mid-March then analyzed in the lab
   Amount of data expected: *[blank]*  
 
 4. Wetlands Survey Group  
@@ -86,32 +82,30 @@ Five groups of datasets will be generated during the course of this project.
   Collection strategy: *[blank]*  
   Amount of data expected: *[blank]*  
 
-##### Rationale and resources
-These groups should be referred to throughout the document when different management needs arise.
-
 
 ## Data Collection
 ###### *Instructions*  
 *[Information relevant to how data will be collected, captured or created]*
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+
+Sample Site 1: 44.5136362,-124.06405418
+Sample Site 2: 44.5174566,-124.07603136
+Sample Site 3: 44.51816278,-124.06811056
+Sample Site 4: 44.51735171,-124.07620103
+Sample Site 5: 44.51255573,-124.06886986
+Sample Site 6: 44.51908749,-124.06103387
+Sample Site 7: 44.51396917,-124.07317921
+Sample Site 8: 44.51666834,-124.07224023
+Sample Site 9: 44.51956984,-124.07594364
+Sample Site 10: 44.5167515,-124.07025754
+Sample Site 11: 44.52185365,-124.07368357
+Sample Site 12: 44.51717156,-124.06782326
+Sample Site 13: 44.51678279-124.08165506
+Sample Site 14: 44.51266873,-124.07660136
+Sample Site 15: 44.52547621,-124.07627525
+Sample Site 16: 44.52180154,-124.08229632
+Sample Site 17: 44.51773927,-124.06282085
 
 **Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
 

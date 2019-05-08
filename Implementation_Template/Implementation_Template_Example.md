@@ -70,7 +70,7 @@ Five groups of datasets will be generated during the course of this project.
 3. Water Quality Group
   Type of dataset: observational  
 	Collection strategy: Water samples collected at 8 sites by 2 people during mid-March then analyzed in the lab
-  Amount of data expected: *[blank]*  
+  Amount of data expected: 64 csv tables    
 
 4. Wetlands Survey Group  
   Type of dataset: observational  
@@ -78,14 +78,12 @@ Five groups of datasets will be generated during the course of this project.
   Amount of data expected: 30 questions survey from 50 participants  
 
 5. Area Map Group  
-  Type of dataset: *[observational, model output]*  
-  Collection strategy: *[blank]*  
-  Amount of data expected: *[blank]*  
+  Type of dataset: observational
+  Collection strategy: USGS Downloads  
+  Amount of data expected: One geodatabase with 10 to 15 shape files  
 
 
 ## Data Collection
-###### *Instructions*  
-*[Information relevant to how data will be collected, captured or created]*
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
 
@@ -109,19 +107,37 @@ Sample Site 17: 44.51773927,-124.06282085
 
 **Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
 
-1. Name: *[name of protocol]*  
-2. Location: *[where to find the protocol]*  
-3. Expected use: *[who should use the protocol, when]*  
-4. Training: *[who will train new researchers. Who to ask when there are questions about the protocol.]*  
+Meteorological Group:
+1. Name: Weather Station Setup, Maintenance and Extraction
+2. Location: R:\projects\BrBoMaster\Metero\
+3. Expected use: Marth Marien and anyone who assists her  
+4. Training: Marth Marien will handle training  
+
+Water Quality Group:
+1. Name: Water Sample Extraction  
+2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
+3. Expected use: Cathy Thompson and Barbra Hubble   
+4. Training: Shauna Thompson, the lab manager will handle training    
+
+1. Name: Water Sample Analysis  
+2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
+3. Expected use: Kathy Thomas and Patrick Pullman   
+4. Training: Shauna Thompson, the lab manager will handle training
+
+Wetlands Survey Group:
+1. Name: Questionnaire Survey Protocol  
+2. Location: R:\projects\BrBoMaster\ !!  
+3. Expected use: Barbara Hubble    
 
 **New protocols:** *[For projects that involve the creation of routinely creating new protocols, describe the process of creating new protocols.]*  
 
-1.  Process *[Defines the process to create the protocol]*  
-2. Approval *[Process to approve the protocol, and who should approve it]*  
+Bird Survey Group:
+1.  Process Modified Breeding Bird Survey  
+2. Approval: Sam Singer will approve the protocol  
 3. Tools *[If special tools will be used to create the protocol, specify]*  
-4. Storage *[Where it should be saved, with which file naming strategy]*  
+4. Storage  R:\projects\BrBoMaster\Birds  
 5. Update *[How to update the protocol]*  
-6. Expected use *[Who should use the protocol, and for which circumstances]*  
+6. Expected use Sam Singer and Arthur Chapman will use a breeding bird survey adjusted for smaller areas  
 
 **Instrumentation:** *[Include relevant information about the instruments that will be used to collect data, like where to find instructions, maintenance to ensure that the sensors will work correctly, etc.]*  
 
@@ -225,7 +241,14 @@ Rationale: setting expectations about how and when datasets will be shared inter
 - Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
 - Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
 
-- The meteorological dataset will be made avabile to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing
+- The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
+
+
+- The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it.. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded. !!Level 2 !!
+
+
+- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ. !! water quality data format !! Datasets
+
 
 - Bird survey will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
 
@@ -353,3 +376,8 @@ The responsibility below will be broken down by subproject.
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data.  
+
+
+
+Change Barbra to "Barbara"
+Change all file locations to be inside quotations.

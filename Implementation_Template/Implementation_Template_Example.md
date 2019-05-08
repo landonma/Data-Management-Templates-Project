@@ -84,23 +84,23 @@ Five groups of datasets will be generated during the course of this project.
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
 
-Sample Site 1: 44.5136362,-124.06405418
-Sample Site 2: 44.5174566,-124.07603136
-Sample Site 3: 44.51816278,-124.06811056
-Sample Site 4: 44.51735171,-124.07620103
-Sample Site 5: 44.51255573,-124.06886986
-Sample Site 6: 44.51908749,-124.06103387
-Sample Site 7: 44.51396917,-124.07317921
-Sample Site 8: 44.51666834,-124.07224023
-Sample Site 9: 44.51956984,-124.07594364
-Sample Site 10: 44.5167515,-124.07025754
-Sample Site 11: 44.52185365,-124.07368357
-Sample Site 12: 44.51717156,-124.06782326
-Sample Site 13: 44.51678279-124.08165506
-Sample Site 14: 44.51266873,-124.07660136
-Sample Site 15: 44.52547621,-124.07627525
-Sample Site 16: 44.52180154,-124.08229632
-Sample Site 17: 44.51773927,-124.06282085
+Sample Site 1: 44.5136362,-124.06405418  
+Sample Site 2: 44.5174566,-124.07603136  
+Sample Site 3: 44.51816278,-124.06811056  
+Sample Site 4: 44.51735171,-124.07620103  
+Sample Site 5: 44.51255573,-124.06886986  
+Sample Site 6: 44.51908749,-124.06103387  
+Sample Site 7: 44.51396917,-124.07317921  
+Sample Site 8: 44.51666834,-124.07224023  
+Sample Site 9: 44.51956984,-124.07594364  
+Sample Site 10: 44.5167515,-124.07025754  
+Sample Site 11: 44.52185365,-124.07368357  
+Sample Site 12: 44.51717156,-124.06782326  
+Sample Site 13: 44.51678279-124.08165506  
+Sample Site 14: 44.51266873,-124.07660136  
+Sample Site 15: 44.52547621,-124.07627525  
+Sample Site 16: 44.52180154,-124.08229632  
+Sample Site 17: 44.51773927,-124.06282085  
 
 **Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
 
@@ -180,7 +180,9 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 It may be useful to design different levels of quality control. For example:
 
 **Level zero (L0):** Data as it is downloaded directly from an instrument or model. This data is often in binary format, impossible to understand or look at by a human unless it is processed by a program. These programs tend to be proprietary and they may or may not perform operations on the data. This data level may not exist. For example: binary files coming from a temperature sensor permanently installed in a stream.  
+
 **Level one (L1):** Raw data in a format that is understandable by a human. There have been no corrections on these data. For example, a csv file obtained after running the programs supplied by the company that manufactured the instrument.  
+
 **Level two (L2):** Verified data that have undergone quality control, including but not limited to:
 *	Detecting sensor malfunctioning
 *	Assessment of outliers
@@ -188,6 +190,7 @@ It may be useful to design different levels of quality control. For example:
 *	Corrections for sensor drift or offset, data artifacts, etc.
 
 Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. When quality control is not necessary, L1 and L2 data may be the same.  
+
 **Level three (L3):** L2 data that have been analyzed to answer specific research questions. Typically, this is the data that will be used to create figures in a publication. For example, if a principal component analysis was used to analyze three years of temperature data and published in a figure as part of a peer-reviewed article.  
 
 
@@ -230,14 +233,6 @@ See [eCommons: Cornell's Digital Repository. Recommended file formats](http://gu
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
 
 
-
-- Datasets will be shared internally             **_[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it ]_**.
-
-- Datasets will be shared internally             **_[specify when researchers are expected to share their datasets. Some examples: as soon as possible after the data is collected/at the end of the sampling season/6 months after it is collected/on January of each year/when a researcher of the Project requests it ]_**.
-
-- Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
-- Datasets will be shared internally with         **_[who? Some examples: all the members of the team/members of the team approved by the IRB/the data manager of the project/the researcher who requested the dataset]_**.
-
 - The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
 
 
@@ -245,30 +240,6 @@ Rationale: setting expectations about how and when datasets will be shared inter
 
 
 - The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ. !! water quality data format !! Datasets
-
-
-- Bird survey will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
-
-- Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
-
-- Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
-
-- Datasets will be shared internally in                   format **_[is there an expected format? For example excel, or csv, or spss, or…]_**.
-
-- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
-- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
-- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
-- Datasets will be shared internally                 **_[at which quality level? For example: after a quality control level has been assigned to each point following the schema in X / after following the protocol X for quality control/at any quality control level, as long as the documentation clarifies the quality control procedures that have been followed /only if all the data points have been subject to the whole quality control process outlined in X]_**.
-
-- Datasets will be shared internally accompanied by                **_[which documentation? For example: a readme file outlining at least the methods followed for data collection, the quality control procedures that have been followed, and a data dictionary/documentation using the template X/documentation using the metadata template X]_**.
-
-- Datasets will be shared internally by                   **_[how are the datasets going to be delivered? For example: by e-mail/by depositing them in Box/Google drive/external hard drive/shared drive/website]_**.
-
-- When a member of the Project uses a dataset shared by another member of the team        **_[how will the use be notified? For example: a courtesy e-mail will be sent to the contact person/no notification will be needed at this stage/the member of the Project using the shared data will write his/her name in a log]_**.
-
-- When a new version of a dataset is generated, it will be notified to the other members of the Project that may want to use the dataset by             **_[example: sending a general e-mail to the whole group/documenting in the documentation file the new version and sending individual e-mails to the members of the team that are known to be using the dataset]_**.
-
-**_[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]_**
 
 
 

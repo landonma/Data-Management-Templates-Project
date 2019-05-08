@@ -1,4 +1,5 @@
-# Oregon-State-Data-Management-Plan
+# Health and Value of the Brian Booth Wetlands Data Implementation Plan
+*[REMINDER: This is not a Data Management Plan template. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
 Table of Contents  
 [Data Management Implementation Plan](#data-management-implementation-plan)  
 [Data Management Units](#data-management-units)  
@@ -18,6 +19,13 @@ Table of Contents
 [Roles and Responsibilities](#roles-and-responsibilities)  
 
 ## Data Management Implementation Plan
+
+
+The data management plan approved by the NSA can be found at the followin location: !!R Locatioon!!
+Contracts between OSU and the Oregon Parks department that involve data management can be found in !!R Location!! 
+The data management plan that was submitted with the grant proposal for this project can be found in *[blank]* 
+All data contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains senitive information.
+The IRB approvla for the Wetlands Survey subproject can be found here: !!R locatoin!!  
 
 ##### 1) Health and Value of the Brian Booth Wetlands
 
@@ -84,23 +92,23 @@ Five groups of datasets will be generated during the course of this project.
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
 
-Sample Site 1: 44.5136362,-124.06405418  
-Sample Site 2: 44.5174566,-124.07603136  
-Sample Site 3: 44.51816278,-124.06811056  
-Sample Site 4: 44.51735171,-124.07620103  
-Sample Site 5: 44.51255573,-124.06886986  
-Sample Site 6: 44.51908749,-124.06103387  
-Sample Site 7: 44.51396917,-124.07317921  
-Sample Site 8: 44.51666834,-124.07224023  
-Sample Site 9: 44.51956984,-124.07594364  
-Sample Site 10: 44.5167515,-124.07025754  
-Sample Site 11: 44.52185365,-124.07368357  
-Sample Site 12: 44.51717156,-124.06782326  
-Sample Site 13: 44.51678279-124.08165506  
-Sample Site 14: 44.51266873,-124.07660136  
-Sample Site 15: 44.52547621,-124.07627525  
-Sample Site 16: 44.52180154,-124.08229632  
-Sample Site 17: 44.51773927,-124.06282085  
+Sample Site 1 (S01): 44.5136362,-124.06405418  
+Sample Site 2 (SO2): 44.5174566,-124.07603136  
+Sample Site 3 (S03): 44.51816278,-124.06811056  
+Sample Site 4 (S04): 44.51735171,-124.07620103  
+Sample Site 5 (S05): 44.51255573,-124.06886986  
+Sample Site 6 (S06): 44.51908749,-124.06103387  
+Sample Site 7 (S07): 44.51396917,-124.07317921  
+Sample Site 8 (S08): 44.51666834,-124.07224023  
+Sample Site 9 (S09): 44.51956984,-124.07594364  
+Sample Site 10 (S10): 44.5167515,-124.07025754  
+Sample Site 11 (S11): 44.52185365,-124.07368357  
+Sample Site 12 (S12): 44.51717156,-124.06782326  
+Sample Site 13 (S13): 44.51678279-124.08165506  
+Sample Site 14 (S14): 44.51266873,-124.07660136  
+Sample Site 15 (S15): 44.52547621,-124.07627525  
+Sample Site 16 (S16): 44.52180154,-124.08229632  
+Sample Site 17 (S17): 44.51773927,-124.06282085  
 
 **Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
 
@@ -110,13 +118,13 @@ Meteorological Group:
 3. Expected use: Marth Marien and anyone who assists her  
 4. Training: Marth Marien will handle training  
 
-Water Quality Group 1:  
+Water Quality Group (1):  
 1. Name: Water Sample Extraction  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Cathy Thompson and Barbra Hubble   
 4. Training: Shauna Thompson, the lab manager will handle training    
 
-Water Quality Group 2:
+Water Quality Group (2):
 1. Name: Water Sample Analysis  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Kathy Thomas and Patrick Pullman   
@@ -240,7 +248,7 @@ Rationale: setting expectations about how and when datasets will be shared inter
 - The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it.. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded. !!Level 2 !!
 
 
-- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ. !! water quality data format !! Datasets
+- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ. !! water quality data format !! Datasets will
 
 
 

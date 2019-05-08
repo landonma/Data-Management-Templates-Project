@@ -149,12 +149,6 @@ Bird Survey Group:
 
 **Software:** *[Include relevant information about the software that will be used to generate data. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
 
-
-##### LAB NOTEBOOKS
-
-##### ELECTRONIC DATA
-
-
 ## Data Documentation
 ###### *Instructions*  
 *[Describe how data will be documented throughout the project]*

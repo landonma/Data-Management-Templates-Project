@@ -110,13 +110,13 @@ Meteorological Group:
 3. Expected use: Marth Marien and anyone who assists her  
 4. Training: Marth Marien will handle training  
 
-Water Quality Group:  
+Water Quality Group 1:  
 1. Name: Water Sample Extraction  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Cathy Thompson and Barbra Hubble   
 4. Training: Shauna Thompson, the lab manager will handle training    
 
-
+Water Quality Group 2:
 1. Name: Water Sample Analysis  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Kathy Thomas and Patrick Pullman   

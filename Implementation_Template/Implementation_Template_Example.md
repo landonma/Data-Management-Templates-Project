@@ -172,6 +172,10 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 
 **Readme:** *[If the project will be documented using readme files, include expectations about where they will be created, and which information will be recorded in them.]*  
 
+** Standards** link to the standards, tool for making them (ArcGIS)
+EML tool -> Morpho or r packages (EMLassmplyline)
+
+
 ##### Rationale and resources
 
 

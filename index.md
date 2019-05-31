@@ -29,8 +29,7 @@ Disagreements between the members of a team regarding the sharing of research da
 The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs) | [LaTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
 
-**Example**  
-A fictional example that shows what this document could look like for a specific research project.  
+**Example** : A fictional example that shows what this document could look like for a specific research project.  
 [Internal Data Sharing Document Example](Internal_Sharing_Template/Internal_Sharing_Template_example.md)
 
 ### 3. Documentation File
@@ -43,9 +42,8 @@ A Documentation File (sometimes referred to as README file)  has information abo
 The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs) | [LaTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
 
-**Example**  
-A fictional example that shows what this document could look like for a specific dataset.  
+**Example** : A fictional example that shows what this document could look like for a specific dataset.  
 [Documentation File Example](Documentation_Template/Documentation_Template_example.md)
 
 ## Detailed Instructions
-We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found [here](github_instructions.md).
+We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found here: [Step by step Instructions] (github_instructions.md).

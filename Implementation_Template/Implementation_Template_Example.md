@@ -20,7 +20,6 @@ Table of Contents
 
 ## Data Management Implementation Plan
 
-
 The data management plan approved by the NSA can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
 Contracts between OSU and the Oregon Parks department that involve data management can be found in "R\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
 All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
@@ -47,13 +46,6 @@ The data management plan for the project can be found in the shared R drive at "
    - Interviews of visitors on how they use the wetlands and its value
 5. Maps
    - Maps of the area that provide context for the project
-
-
-## Data Management Plan and Documentation
-
-##### Rationale and resources
-##### Boiler plate text
-##### Examples
 
 
 ## Data Management Units
@@ -154,7 +146,7 @@ Bird Survey Group:
 4. Wetlands Survey Group: Please see Barbra Hubble for any necessary instruments.  
 
 **Software:** *[Include relevant information about the software that will be used to generate data. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
-1. Meteorological Group: Up-to-date Software for the meterological data can be found in the group's GitHub Repository: https://github.com/OSUMetero/BrianWetlands  
+1. Meteorological Group: Up-to-date Software for the meteorological data can be found in the group's GitHub Repository: https://github.com/OSUMetero/BrianWetlands  
 
 2. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
 

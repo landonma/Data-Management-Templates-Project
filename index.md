@@ -25,8 +25,8 @@ Disagreements between the members of a team regarding the sharing of research da
 **View The Template**  
 [Internal Data Sharing Plan](https://landonma.github.io/Data-Management-Templates-Project/Internal_Sharing_Template/Internal_Sharing_Template)  
 
-**Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
+**Download The Template** : *For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files).*  
+The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.docs) | [LaTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template.tex)
 
 **Example**  
@@ -39,8 +39,8 @@ A Documentation File (sometimes referred to as README file)  has information abo
 **View The Template**  
 [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Documentation_Template/Documentation_Template)  
 
-**Download The Template**  
-For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  
+**Download The Template** : *For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files).*  
+The template is available in the following formats:  
 [Markdown](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.md) | [Word Document](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.docs) | [LaTeX](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Documentation_Template/Documentation_Template.tex)  
 
 **Example**  

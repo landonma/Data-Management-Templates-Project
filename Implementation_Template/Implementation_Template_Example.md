@@ -291,14 +291,13 @@ Rationale: Data management takes time and effort. In order to not oversee any im
 
 #### Role definitions:  
 **Principal Investigator (PI):**
-Bethany Barnard is the PI and will coordinate with all of the separate parts.
+Bethany Barnard is the PI and will coordinate with all of the separate parts. She will also head the maps subproject. 
 
 **Faculty Investigator:**
-Three OSU faculty members are assigned to three of the subprojects:  
+Three OSU faculty members and one State Park employee will lead four of the subprojects:  
 Rogers, Rick is responsible for the Meteorological Data  
 Singer, Sam is responsible for the Birds Census  
 Williams, Wallace is responsible for the Water Quality Data  
-
 Dunning, Diane is a Parks and Recreation Department employee and is responsible for the Wetland Interviews dataset.
 
 **Team member:**  

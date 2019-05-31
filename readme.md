@@ -18,5 +18,3 @@ This work is licensed under a CC0 license. If you would like to give attribution
 COMPLETE!!
 
 We always welcome feedback (good and bad) about how these templates have helped you. You can open an issue in this repository(https://github.com/landonma/Data-Management-Templates-Project), or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
-
-[Link](https://landonma.github.io/Data-Management-Templates-Project/)

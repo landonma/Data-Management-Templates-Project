@@ -35,7 +35,7 @@ Role:  Co-Investigator
 3) Collaborator information
 
 Name: Joe Collaborer  
-Institution:   Oregon State University
+Institution:   Oregon State University  
 College, School or Department:   Environment Sciences
 Address:  Heckart Lodge  
 2900 SW Jefferson Way  

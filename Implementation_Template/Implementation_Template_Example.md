@@ -48,7 +48,7 @@ The aim of the project is use a wide range of disciplines to look at function an
 ## Data Management Plan and other documentation
 
 The data management plan approved by the NSF can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
-The contract between OSU and the Oregon Parks department which includes a shared data management plan can be found in "R:\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf". 
+The contract between OSU and the Oregon Parks department which includes a shared data management plan can be found on the R: drive at the following location: "R:\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf". 
 All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
 
 ## Data Management Units

@@ -140,9 +140,14 @@ Bird Survey Group:
 **Instrumentation:**
 1. Meteorological Group: The WxPRO weather station with onboard memory will be used to collect the meteorological reading for the project. The user-manual provide by the company can be found with the unit which is stored in the CEOAS Machine and Technical Development Facility. The station contains enough onboard memory to last the duration of the study but should be checked monthly for functionality. The data should be checked and logged every 2 months by a member of the meteorological group.
 
+Digital copies of the user manual and handouts about the instrumentation in the lab can be found in  R:\RogersLab\InstrumentationDocs\
+
 2. Bird Survey Group: GPS units and binoculars are stored in Sam Singer's office (538a Nash Hall). Charging/USB cable and instructions are provide in the GPS unit's box.
 
 3. Water Quality Group: The materials for the water collection kits can be found in Shauna Thompson's lab (Gilbert 193). Provided with the kit are instructions on how to collect ideal samples. This lab also contains the equipment for processing and recording the samples once they are obtained. Talk to Shauna or one of the lab technicians before using any microscopes and for more instructions.     
+
+Digital copies of the user manual and handouts about the instrumentation in the lab can be found in 
+R:\WilliamsLab\InstrumentationDocs\
 
 4. Wetlands Survey Group: Please see Barbra Hubble for any necessary instruments.  
 

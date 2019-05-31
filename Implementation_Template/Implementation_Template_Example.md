@@ -227,40 +227,27 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 ## File Organization
 
-###### *Instructions*    
+In general files should be descriptive and free of acronyms and abbreviations that maybe unfamiliar to some across the project. The files should describe their contents followed by the date of last modification (in YYYY-MM-DD format). Files that are defined mainly by the date of creation (like lab notebooks) should start with the date followed by the creator.
 
-
-The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset.
+The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why. 
 
 ![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
-What happens if somebody wants to add a folder?
-
-File naming
 
 ## Formats
-###### *Instructions*    
 
-
-##### Rationale and resources
-
-
-
-
-Formats that will be better at long term preservation are formats that are platform independent (can be accessed from Linux, Mac and Windows), in an open format (no proprietary formats), and character based (not in binary format). There can be exceptions to all of these for the right reasons. For example, some data standards that are widely used in some disciplines, like netCDFs, save data in binary format.  
-See [eCommons: Cornell's Digital Repository. Recommended file formats](http://guides.library.cornell.edu/ecommons/formats) for a table with existing formats for different types of content, and their probability for full term preservation.
-
+Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained. All plain text files should be saved as Delimited Text (.txt file-extension). LibreOffice, Word, or another word process can be used to view and edit these files as long as the extension is maintained. This applies to READMEs, instructions and other documents not saved as a PDF. PDF's should have embedded fonts when possible for better archiving or be saved as PDF/A. When creating informal documents PDF's should be avoided.This project uses shapefiles to store spatial information however these files may not best format for long term preservation. 
 
 
 ## Storage  
 
-
+All of the data for the project should be stored on the R: drive inside the respective subproject. In order to use the R: drive you must first be connect to Oregon State's Network and then map the address to your computer. If you are not physically on campus you can connect to the network through a VPN. Information on how to map the R Drive or use a VPN can be found at here: (https://github.com/meteroBrBo/Mapping_the_R_Drive_and_Using_a_VPN.pdf). 
 
 ## Backup
 
-The differential backups of the R server are created daily and stored on campus through the Information Services of OSU (https://is.oregonstate.edu/service/server-backup). These backups should be tested once every three months during the project by the person in charge of archiving the data for each project.
+The differential backups of the R server are created daily and stored on campus through the Information Services of OSU (https://is.oregonstate.edu/service/server-backup). These backups should be tested once every three months during the project by the person in charge of archiving the data for each project.  
 
-Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This maybe in the form of Box of private GitHub repositories.
+Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This may be done through services like Box or a private GitHub repository. 
 
 ## Workflow Internal Data Sharing
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.

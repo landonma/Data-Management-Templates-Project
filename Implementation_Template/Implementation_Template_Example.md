@@ -195,10 +195,7 @@ All geospatial data from the Area Map group should be recorded using ISO 19115 s
 The wetland survey group will document their interviews using the interview documentation template located in R:\Projects\BrBoMaster\Templates\Surveys\
 
 ## Quality Control
-###### *Instructions*    
-
-##### Rationale and resources
-It may be useful to design different levels of quality control. For example:
+The project uses foure differnt levels of data quality in order which are defined below:
 
 **Level zero (L0):** Data as it is downloaded directly from an instrument or model. This data is often in binary format, impossible to understand or look at by a human unless it is processed by a program. These programs tend to be proprietary and they may or may not perform operations on the data. This data level may not exist. For example: binary files coming from a temperature sensor permanently installed in a stream.  
 
@@ -227,7 +224,7 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 ## File Organization
 
-In general files should be descriptive and free of acronyms and abbreviations that maybe unfamiliar to some across the project. The files should describe their contents followed by the date of last modification (in YYYY-MM-DD format). Files that are defined mainly by the date of creation (like lab notebooks) should start with the date followed by the creator.
+In general, files should be descriptive and free of acronyms and abbreviations that maybe unfamiliar to some across the project. The files should describe their contents followed by the date of last modification (in YYYY-MM-DD format). Files that are defined mainly by the date of creation (like lab notebooks) should start with the date followed by the creator.
 
 The file structure of the R: drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R: drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why. 
 
@@ -250,14 +247,10 @@ The differential backups of the R server are created daily and stored on campus 
 Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This may be done through services like Box or a private GitHub repository. 
 
 ## Workflow Internal Data Sharing
-Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
-
-
+The following information is a distillation of the Internal Sharing Document which can be found at the following location: ([This is another one of the fictional templates](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template_example.md))
 - The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
 
-
 - The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded.  
-
 
 - The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\WaterQ.  Datasets will be available in CSV format with metadata in an accompanied text file. Datasets will be uploaded within two weeks of data collection and a notification will be sent via email.
 

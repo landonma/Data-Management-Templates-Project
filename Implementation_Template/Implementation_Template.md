@@ -121,9 +121,13 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 ## Quality Control
 
 ###### *Instructions*    
-*[Most data need to go through a quality control process. Describe the process here, and describe how it will be documented.For ideas around defining levels of quality control, see the Guidance Document.]*
+*[Most data need to go through a quality control process. Describe the process here, and describe how it will be documented. ]*
 
-
+-	Timing: *[what are the points in the research process in which there should be quality control]* 
+-	Responsibilities: *[who will be responsible for performing quality control actions]* 
+-       Quality control actions: *[actions that will be taken in the quality control process. Is there a protocol documenting these? Will more than one person quality control the data files? will it be done automatically?]*
+-       Documentation: *[How will the quality control be documented? If errors are found, how will the two versions be saved? If there is extra data related to the quality control, like calibration curves, where is it stored? ]*
+-       Levels of quality control: *[For ideas around defining levels of quality control, see the [Guidance Document](guidance.md).]*
 
 ## File Organization
 

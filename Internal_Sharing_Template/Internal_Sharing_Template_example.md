@@ -37,7 +37,7 @@ The aim of the project is use a wide range of disciplines to look at function an
 
 ## SECTION II: ROLES AND RESPONSIBILITIES
 ### A) Role definitions:  
-**Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
+**Principal Investigator (PI):**  
 Bethany Barnard is the PI and will coordinate with all of the separate parts.
 
 **Faculty Investigator:**
@@ -65,7 +65,7 @@ The responsibility below will be broken down by subproject.
 
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
 *Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
-!! Make some changes in definitions, change the below to emphases the PII data, give access to new members  
+
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
 *Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps.  
 

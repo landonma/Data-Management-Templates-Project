@@ -279,8 +279,6 @@ When possible, publications will be made in journals that use the CRediT authors
 Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications. Some datasets may wait until after the initial publication containing the results before being uploaded.
 
 ## Roles and Responsibilities
-Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
-
 
 #### Role definitions:  
 **Principal Investigator (PI):**

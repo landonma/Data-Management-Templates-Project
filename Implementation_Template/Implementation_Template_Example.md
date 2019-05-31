@@ -221,7 +221,9 @@ The file structure of the R drive should maintain the following general structur
 
 ![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
+What happens if somebody wants to add a folder?
 
+File naming
 
 ## Formats
 ###### *Instructions*    

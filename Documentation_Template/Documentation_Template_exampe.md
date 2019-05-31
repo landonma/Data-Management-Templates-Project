@@ -12,7 +12,7 @@ This documentation file was generated on  2019-03-05 by Mark Landon
 
 Name:  Mark Landon  
 Institution:  Oregon State University  
-College, School or Department:  Environment Sciences
+College, School or Department:  Environment Sciences  
 Address:  Heckart Lodge  
 2900 SW Jefferson Way  
 Oregon State University  

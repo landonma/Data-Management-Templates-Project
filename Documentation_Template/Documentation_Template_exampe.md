@@ -1,4 +1,4 @@
-**This is a fictional data set created to serve as an example of how to use the Documentation Template created for the OSU Data Managment Templates Project. Some of the people, grants, and links are fictional**
+**This is a fictional data set created to serve as an example of how to use the Documentation Template created for the OSU Data Managment Templates Project. Some of the people, grants, and links are fictional.**  
 This documentation file was generated on  2019-03-05 by Mark Landon
 
 

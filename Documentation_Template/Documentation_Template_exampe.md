@@ -150,7 +150,7 @@ The data processing which created the modified shape files was done by Mike Wazo
 
 
 2) Relationship between files:
-VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in .
+VIIRS_12_18_TREATED.shp is a subset of VIIRS_12_18_INDONESIA.shp contain only those in.
 
 3) Formats  
 Two of the files are shapefiles with the extension .shp. As is known, shapefiles have parts which are separated into differ extensions when viewed outside of spatial software. The two shape files in this dataset have, in addition to the .shp file, 6 other parts. The .shp contains the feature geometry, the .shx contains the positional index for searching forward and backward, and the .dbf is a database file that contains the column attributes; these three file types are mandatory for all shapefiles. The following are the optional but common parts of the shapefile; the .cpg indext!!ifies character encoding for the code page, the .prj contains the coordinate reference system, and the .sbn and the .sbx make up a shape file index which speeds up queries. VIIRS_12_FFVP.rmd is an R markdown file which contains script that can be run as R as well as formatting which makes the code more readable.

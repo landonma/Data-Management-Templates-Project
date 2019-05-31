@@ -78,12 +78,12 @@ PI: *[Principal investigator of the project]*
 
 **New protocols:** *[For projects that involve the creation of routinely creating new protocols, describe the process of creating new protocols.]*  
 
-1.  Process *[Defines the process to create the protocol]*  
-2. Approval *[Process to approve the protocol, and who should approve it]*  
-3. Tools *[If special tools will be used to create the protocol, specify]*  
-4. Storage *[Where it should be saved, with which file naming strategy]*  
-5. Update *[How to update the protocol]*  
-6. Expected use *[Who should use the protocol, and for which circumstances]*  
+1. Process: *[Defines the process to create the protocol]*  
+2. Approval: *[Process to approve the protocol, and who should approve it]*  
+3. Tools: *[If special tools will be used to create the protocol, specify]*  
+4. Storage: *[Where it should be saved, with which file naming strategy]*  
+5. Update: *[How to update the protocol]*  
+6. Expected use: *[Who should use the protocol, and for which circumstances]*  
 
 **Instrumentation:** *[Include relevant information about the instruments that will be used to collect data, like where to find instructions, maintenance to ensure that the sensors will work correctly, etc.]*  
 

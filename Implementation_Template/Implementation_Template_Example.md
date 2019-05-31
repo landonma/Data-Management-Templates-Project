@@ -153,9 +153,7 @@ Bird Survey Group:
 3. Area Map Group: ArcGIS Pro is available on all computers in the Digital Earth Lab or through Citrix.  
 
 ## Data Documentation
-###### *Instructions*  
-
-###### *Text*  
+ 
 Data will be documented throughout the research process using the following tools:
 
 **Lab notebooks for Water Quality Group:**
@@ -163,18 +161,19 @@ Data will be documented throughout the research process using the following tool
 Details about experiments and work in a lab are quickly forgotten unless they are written down. Be diligent in writing information into notebooks. Follow best practices:  
 - Lab notebooks will always be bound notebooks. Blank notebooks can be found in top drawer of the bench nearest the door in Gilbert 193. Number and date the notebook when you begin with a new one.  
 -	Pages should always be numbered.
--	Write legibly and in a language understood by everybody in the lab.
+-	Write legibly and in English.
 -	Error correction: incorrect information should be visible, but clearly marked as incorrect.  Date, sign and explain the correction. Do not erase entries or blot them out.
 -	Printed documentation added to the lab notebook should be attached permanently.
--	Save all images to the drive under R
+-	Save all the images that you generate with the lab instrumentation to the drive under R, and write the path in the lab notebook. 
 -	All entries should be consecutive. Always record dates.
--	Backup: at the end of the day photograph the pages of the notebook that you worked on, and store them in the top drawer of your workstation
+-	Backup: at the end of the day photograph the pages of the notebook that you worked on and save them in R:\projects\BrBoMaster\WaterQ\LabNotebook. The file name should follow the following convention: yyyy-mm-dd_PageNumber_YourName, where PageNumber is the page number in the physical notebook. Store the physical notebook in the top drawer of your workstation.
+
 
 **Templates:** surveys,   
 
 **Readme:**  
 
-** Standards** link to the standards, tool for making them (ArcGIS)http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
+**Standards** link to the standards, tool for making them (ArcGIS)http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
 EML tool -> Morpho or r packages (EMLassmplyline)
 
 

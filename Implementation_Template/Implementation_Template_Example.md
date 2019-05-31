@@ -1,7 +1,7 @@
 # Health and Value of the Brian Booth Wetlands Data Implementation Plan
 *[REMINDER: This is not a Data Management Plan template. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
 
-Table of Contents  
+Table of Contents
 [Data Management Implementation Plan](#data-management-implementation-plan)  
 [Data Management Units](#data-management-units)  
 [Data Collection](#data-collection)  
@@ -262,7 +262,7 @@ Management of the sensitive material inside the Wetland Survey datasets is to be
 
 ## Management of Physical Samples
 
-All physical samples collected by the water quality group will be handle in the Gilbert 193 lab according to the specifications laid out in the following document R:.
+All physical samples collected by the water quality group will be handle in the Gilbert 193 lab according to the specifications laid out in the following document R:\WilliamsLab\LabDocs\SampleQualityControl.pdf.
 
 ## Data Publication
 

@@ -19,43 +19,35 @@ Table of Contents
 
 ## Data Management Implementation Plan
 
-Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
+This document includes additional guidance to write a Data Management Plan Implementation Document. The Implementation template can be found [here](Implementation_Template.md), and an example of a ficticious document using the template can be found [here](Implementation_Template_Example.md)
 
-
-##### 1) **_[Project Name]_**
-
-
-##### 2) Data Management Plan (DMP)
-The data management plan for the project can be found **_[complete]_**
-
-##### 3) Data Description
-**_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
+### Project Information
 
 ## Data Management Plan and Documentation
 
-##### Rationale and resources
-##### Boiler plate text
-##### Examples
+About Data Sharing Agreements: they can also be called Data Use Agreements. These are written documents that clarify the ownership, rights and responsibilities regarding the data created during a research project where there are several institutions/companies involved. Talk with the Research Office if you think you need to create one with your collaborators, or if you need to improve your understanding of what an already existing Data Sharing Agreement means. 
 
+About funder policies: DMPTool.org maintains a compilation of paths to funder policies that can help you get started to find information on the requirements, if any, that your funder has regarding data management. https://dmptool.org/public_templates
 
 ## Data Management Units
 
-##### Rationale and resources
-These groups should be referred to throughout the document when different management needs arise.
+The goal to define these data management units is to be able to refer to them easily throughout the document when the deed arises. 
 
+About the amount of data: the reason that it is interesting to have an idea about the amount of data expected is that it is harder to manage a lot of data than just a few MB of data. This should be an approximate amount, or a range.  
 
 ## Data Collection
 
-##### LAB NOTEBOOKS
-
-##### ELECTRONIC DATA
-
-
 ## Data Documentation
 
-##### Rationale and resources
+To learn more about data documentation visit the [OSU metadata and data documentation Lib Guide](https://guides.library.oregonstate.edu/research-data-services/data-management-metadata). 
 
-
+A few tips:  
+- All types of data need metadata: information that allows researchers to interpret the data.
+- All metadata should be documented separately from the data itself.
+- Metadata should be created from the very beginning of the research.
+- If there are discipline-specific standards to document the data, use these. To learn more about discipline specific metadata standards for research data consult the [Research Data Alliance metadata directory](https://rd-alliance.github.io/metadata-directory/).
+- The most structured metadata is, the better. If there are no metadata standards in your field, or you cannot use them for whatever reason, consider creating your own lab specific documentation templates so that different researchers at different points in time will record the same information, thoroughly and consistently.
+- Documenting data can be as simple as keeping a text file next to your data files, where you record all the information relative to that dataset. These files are often called readme.txt.
 
 ## Quality Control
 ##### Rationale and resources

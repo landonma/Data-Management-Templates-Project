@@ -32,7 +32,7 @@ Setting up Github Pages is fairly simple and straight forward.
 - With Github Pages any .md or .html files will appear as webpages while all other files will be navigable using their full file name (this includes videos, pictures, zip files and anything else)  
 **Note:** Github pages can take around **5-7 minutes** to upload edits and will go slower after multiple edits in the same day
 
-Next you will need to enable Github Pages on any other repositories such as the one that will host your various data management documents.
+Next you will probaly want to enable Github Pages on another repositories such as the one that will host your various data management documents.
 - To do, sign in to your account on Github.com
 - Click on your user picture (upper right corner) and go to "Your repositories"
 - Click on the repository you want to enable Pages on or create a new repository

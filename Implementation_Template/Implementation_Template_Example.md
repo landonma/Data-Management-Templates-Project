@@ -55,17 +55,17 @@ Excluding the identified Wetlands survey data, all other data in the project is 
 
 Five groups of datasets will be generated during the course of this project.
 
-1. Meteorological Group
+1. Meteorological Group  
 	Type of dataset: Observational  
 	Collection strategy: WxPRO weather station positioned near the center of the research site  
 	Amount of data expected: 200 days of atmospheric data, less than 50MB of data  
 
-2. Bird Survey Group
+2. Bird Survey Group  
 	Type of dataset: observational  
 	Collection strategy: Bird Survey conducted around 17 sites by 2 people visiting each site twice   
 	Amount of data expected: 34 csv tables, less than 50MB of data     
 
-3. Water Quality Group
+3. Water Quality Group  
   Type of dataset: Observational  
 	Collection strategy: Water samples collected at 8 sites by 2 people during mid-March then analyzed in the lab
   Amount of data expected: 64 csv tables and microscope Image, 100 to 200 MB of data    

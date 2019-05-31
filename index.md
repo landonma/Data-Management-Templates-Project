@@ -9,7 +9,7 @@ Included in the project are the following data management document templates:
 
 ### 1. Data Management Implementation Plan  
 This template will help researchers take a Data Management Plan created in the proposal stages of a grant, and implement it. The goal is that this document will have specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as needed. Hosting this template in GitHub is a good way of keeping track of the modifications in this document.  
-**View The Template**: [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template.md)  
+**View The Template**: [Implementation Plan Template](https://landonma.github.io/Data-Management-Templates-Project/Implementation_Template/Implementation_Template)  
 
 **Download The Template**  
 For more information on how to download files from our repository go [here](github_instructions.md#how-to-download-the-template-files). The template is available in the following formats:  

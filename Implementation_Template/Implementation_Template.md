@@ -8,10 +8,7 @@
 
 ### Project Information
 
-##### *Instructions*  
 *[Include basic information about the project.]*
-
-###### *Text*
 
 Project: *[Project Name]*  
 Website: *[Website of the project]*  
@@ -34,10 +31,9 @@ PI: *[Principal investigator of the project]*
 [Roles and Responsibilities](#roles-and-responsibilities)  
 
 ## Data Management Plan and other Documentation
-###### *Instructions*  
 *[Include a reference to all the documents that may affect decision making about datasets in this project.]*  
-###### *Text*  
-- 	The data management plan that was submitted with the grant proposal for this project can be found in *[blank]*  
+ 
+ - 	The data management plan that was submitted with the grant proposal for this project can be found in *[blank]*  
 - 	Data Sharing Agreement between *[blank]* and *[blank]* can be found in *[blank]*. *[See [guidance document](guidance.md#data-management-plan-and-documentation) for more information]*
 - 	Contracts between *[blank]* and *[blank]* that involve data management can be found in *[blank]*  
 - 	Department and college policies with data management consequences *[blank]*  
@@ -49,10 +45,8 @@ PI: *[Principal investigator of the project]*
 
 ## Data Management Units
 
-###### *Instructions*  
 *[Define datasets that will be created during this project, and group them according to different management needs. Describe relevant general information about the data groups: are they observational, experimental, simulation, model output or assimilation datasets; How will they be collected? How much data is expected? Feel free to refer to the Data Management Plan for a description of the dataset groups if that makes sense]*  
 
-###### *Text*
 
 *[blank]* groups of datasets will be generated during the course of this project.
 
@@ -68,7 +62,6 @@ PI: *[Principal investigator of the project]*
 
 
 ## Data Collection
-###### *Instructions*  
 *[Information relevant to how data will be collected, captured or created]*
 
 **Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
@@ -95,10 +88,8 @@ PI: *[Principal investigator of the project]*
 
 ## Data Documentation
 
-###### *Instructions*  
 *[Describe how data will be documented throughout the project]*
 
-###### *Text*  
 Data will be documented throughout the research process using the following tools:
 
 **Lab notebooks:** *[If the project will use lab notebooks to document their lab procedures, include here best practices to keep them in the lab]*
@@ -120,7 +111,6 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 
 ## Quality Control
 
-###### *Instructions*    
 *[Most data need to go through a quality control process. Describe the process here, and describe how it will be documented. ]*
 
 -	Timing: *[what are the points in the research process in which there should be quality control]* 
@@ -130,14 +120,11 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 -       Levels of quality control: *[For ideas around defining levels of quality control, see the [Guidance Document](guidance.md).]*
 
 ## File Organization
-
-###### *Instructions*    
-*[Details about the organization of data files in shared or privatefolders. What name to give to  folders? What kind of filesshould be savedin each folder?Design file naming techniques so that file names are informative for all files, and consistent throughout the folders, regardless of the person creating the file.]*
-
+ 
+*[Details about the organization of data files in shared or privatefolders. What name to give to  folders? What kind of files should be savedin each folder? Design file naming templates so that file names are informative for all files, and consistent throughout the folders, regardless of the person creating the file. For best practices around file naming, see the [Guidance Document](guidance.md).]*
 
 
 ## Formats
-###### *Instructions*    
 *[Describe preferred formatsto save information and data. Describe situations in which files should be changed from one format to a different one.See the guidance document for a list of preferred formats for long term preservation.]*
 
 

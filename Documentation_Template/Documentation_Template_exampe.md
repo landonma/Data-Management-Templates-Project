@@ -5,10 +5,10 @@ This documentation file was generated on  2019-03-05 by Mark Landon
 ## GENERAL INFORMATION
 
 
-1) Title of Dataset VIIRS Detected Fire Pixels in Indonesia 2012 thorough 2018 v2
+1) *Title of Dataset:* VIIRS Detected Fire Pixels in Indonesia 2012 thorough 2018 v2
 
 
-2) Creator Information  
+2) *Creator Information*  
 
 Name:  Mark Landon  
 Institution:  Oregon State University  

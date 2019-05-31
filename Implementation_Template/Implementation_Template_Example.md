@@ -1,5 +1,6 @@
 # Health and Value of the Brian Booth Wetlands Data Implementation Plan
 *[REMINDER: This is not a Data Management Plan template. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
+
 Table of Contents  
 [Data Management Implementation Plan](#data-management-implementation-plan)  
 [Data Management Units](#data-management-units)  
@@ -82,8 +83,6 @@ Five groups of datasets will be generated during the course of this project.
 
 ## Data Collection
 
-**Sampling sites:** *[Include information with description of sampling sites including important data about them such as location, official names to be referred to, instrumentation in each sampling site, etc. ]*  
-
 Sample Site 1 (S01): 44.5136362,-124.06405418  
 Sample Site 2 (SO2): 44.5174566,-124.07603136  
 Sample Site 3 (S03): 44.51816278,-124.06811056  
@@ -102,7 +101,7 @@ Sample Site 15 (S15): 44.52547621,-124.07627525
 Sample Site 16 (S16): 44.52180154,-124.08229632  
 Sample Site 17 (S17): 44.51773927,-124.06282085  
 
-**Existing protocols:** *[Include the location of protocols relevant to the research that already exist, like lab safety protocols, sampling protocols, instrument installation protocols, etc. Include here all the contextual information relevant for the use of the protocol that is not explained in the protocol itself ]*  
+**Existing protocols:** 
 
 Meteorological Group:
 1. Name: Weather Station Setup, Maintenance and Extraction
@@ -128,7 +127,7 @@ Wetlands Survey Group:
 3. Expected use: Barbara Hubble    
 4. Training: Barbara Hubble will train as necessary
 
-**New protocols:** *[For projects that involve the creation of routinely creating new protocols, describe the process of creating new protocols.]*  
+**New protocols:**  
 
 Bird Survey Group:
 1. Process: Modified Breeding Bird Survey  
@@ -147,8 +146,7 @@ Bird Survey Group:
 
 4. Wetlands Survey Group: Please see Barbra Hubble for any necessary instruments.  
 
-**Software:** *[Include relevant information about the software that will be used to generate data. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
-1. Meteorological Group: Up-to-date Software for the meteorological data can be found in the group's GitHub Repository: https://github.com/OSUMetero/BrianWetlands  
+**Software:** 
 
 2. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
 
@@ -156,7 +154,6 @@ Bird Survey Group:
 
 ## Data Documentation
 ###### *Instructions*  
-*[Describe how data will be documented throughout the project]*
 
 ###### *Text*  
 Data will be documented throughout the research process using the following tools:
@@ -175,7 +172,7 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 
 **Templates:** surveys,   
 
-**Readme:** *[If the project will be documented using readme files, include expectations about where they will be created, and which information will be recorded in them.]*  
+**Readme:**  
 
 ** Standards** link to the standards, tool for making them (ArcGIS)http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
 EML tool -> Morpho or r packages (EMLassmplyline)
@@ -187,7 +184,7 @@ EML tool -> Morpho or r packages (EMLassmplyline)
 
 ## Quality Control
 ###### *Instructions*    
-*[Most data need to go through a quality control process. Describe the process here, and describe how it will be documented. For ideas around defining levels of quality control, see the Guidance Document.]*
+
 ##### Rationale and resources
 It may be useful to design different levels of quality control. For example:
 
@@ -229,7 +226,7 @@ The file structure of the R drive should maintain the following general structur
 
 ## Formats
 ###### *Instructions*    
-*[Describe preferred formatsto save information and data. Describe situations in which files should be changed from one format to a different one.See the guidance document for a list of preferred formats for long term preservation.]*
+
 
 ##### Rationale and resources
 

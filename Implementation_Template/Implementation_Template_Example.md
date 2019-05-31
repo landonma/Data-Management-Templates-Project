@@ -18,19 +18,13 @@ Table of Contents
 [Data Archival](#data-archival)  
 [Roles and Responsibilities](#roles-and-responsibilities)  
 
-## Data Management Implementation Plan
+## Project information
 
-The data management plan approved by the NSA can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
-Contracts between OSU and the Oregon Parks department that involve data management can be found in "R\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
-All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
 
 ##### 1) Health and Value of the Brian Booth Wetlands
 The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, twelve people from five departments and one government agency will collect five datasets looking at different aspects of the same area.
 
-##### 2) Data Management Plan (DMP)
-The data management plan for the project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster\DMP.latest.doc".  
-
-##### 3) Data Description
+##### 2) Data Description
  The datasets are as follow:
 
 1. Meteorological data  
@@ -47,6 +41,11 @@ The data management plan for the project can be found in the shared R drive at "
 5. Maps
    - Maps of the area that provide context for the project
 
+## Data Management Plan and other documentation
+
+The data management plan approved by the NSF can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
+Contracts between OSU and the Oregon Parks department that involve data management can be found in "R\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
+All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
 
 ## Data Management Units
 

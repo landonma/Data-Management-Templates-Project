@@ -2,7 +2,9 @@
 
 *[Instructions in this document will appear in this format. The expectation is that all instructions will be deleted from this document after it is completed. All other sections and text are provided as suggestions to help you implement your data management plan. Delete and modify them as you see fit so that this document ends up being useful to you. Extra guidance, suggestions and examples can be found [here](https://here) If you have feedback about this template, please contact ResearchDataServices@oregonstate.edu or start an issue in the GitHub repository ]*
 
-*[REMINDER: This is not a Data Management Plan template. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
+*[Reminder: THIS IS NOT A DATA MANAGEMENT PLAN TEMPLATE. This is a Data Management Plan Implementation template. To learn more about the difference between the two and to find templates to write a data management plan for a grant proposal see our [FAQ](https://landonma.github.io/Data-Management-Templates-Project/faq.html) ]*
+
+*[Rationale of this document: this document is designed to be used at the beginning of a research project. It can be used regardless of whether a data management plan (DMP) was created during the grand proposal or not. This document includes most of the information that would usually be present in a data management plan, and it also includes lots of other information, usually too detailed to think about in a proposal stage]
 
 ### Project Information
 
@@ -36,18 +38,20 @@ PI: *[Principal investigator of the project]*
 *[Include a reference to all the documents that may affect decision making about datasets in this project.]*  
 ###### *Text*  
 - 	The data management plan that was submitted with the grant proposal for this project can be found in *[blank]*  
-- 	Data Sharing Agreement between *[blank]* and *[blank]* can be found in *[blank]*
+- 	Data Sharing Agreement between *[blank]* and *[blank]* can be found in *[blank]*. *[See [guidance document](guidance.md#data-management-plan-and-documentation) for more information]*
 - 	Contracts between *[blank]* and *[blank]* that involve data management can be found in *[blank]*  
 - 	Department and college policies with data management consequences *[blank]*  
 - 	Oregon State University Open Access policy can be found [here]( https://cdss.library.oregonstate.edu/sites/default/files/osu_openacesspolicy_final_single_page.pdf). The policy directs faculty to submit an electronic copy of the author's accepted (post-peer review, pre-typeset) manuscript of their articles to OSU Libraries for dissemination via the ScholarsArchive@OSU institutional repository.   
 - 	Oregon State University’s University Data Managmeent, Classification, and Incident Response policy can be found [here]( https://is.oregonstate.edu/ois/data-management-and-classification-overview). It classifies data into Unrestricted, Sensitive and Confidential and defines standards of care for each kind to protect confidentiality, integrity, and availability of data.
 - 	All the researchers and collaborators in this research project strive to work with data in an ethical manner, and will use the [Community Principles on Ethical Data Practices](https://datapractices.org/community-principles-on-ethical-data-sharing/) as a guiding code of ethics.
+-       Funder policies on data management. *[See [guidance document](guidance.md#data-management-plan-and-documentation) for more information]*
 
 
 ## Data Management Units
 
 ###### *Instructions*  
-*[Define datasets that will be created during this project, and group them according to different management needs. Describe relevant general information about the data groups: are they observational, experimental, simulation, model output or assimilation datasets; How will they be collected? How much data is expected?]*  
+*[Define datasets that will be created during this project, and group them according to different management needs. Describe relevant general information about the data groups: are they observational, experimental, simulation, model output or assimilation datasets; How will they be collected? How much data is expected? Feel free to refer to the Data Management Plan for a description of the dataset groups if that makes sense]*  
+
 ###### *Text*
 
 *[blank]* groups of datasets will be generated during the course of this project.
@@ -55,7 +59,7 @@ PI: *[Principal investigator of the project]*
 1. Dataset Group 1 *[change name to more informative name]*  
 	Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
 	Collection strategy: *[blank]*  
-	Amount of data expected: *[blank]*  
+	Amount of data expected: *[blank]* *[See [guidance document](guidance.md#data-management-units) for more information]*
 
 2. Dataset Group 2 *[change name to more informative name]*  
 	Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
@@ -87,8 +91,7 @@ PI: *[Principal investigator of the project]*
 
 **Instrumentation:** *[Include relevant information about the instruments that will be used to collect data, like where to find instructions, maintenance to ensure that the sensors will work correctly, etc.]*  
 
-**Software:** *[Include relevant information about the software that will be used to generate data. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
-
+**Software:** *[Include relevant information about the software that will be used to generate data. Licensing information. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
 
 ## Data Documentation
 

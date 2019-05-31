@@ -109,9 +109,9 @@ If you need help to use any of these templates you can:
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 - If you can't find help in your institution and you are not part of Oregon State University you can send us an e-mail. We may be able to help.
 
-### In what other formats can I find these templates?
+### In what other formats can I download the Templates?
 
-We also offer this template in Word, pdf and LaTeX.
+We have the templates avabile in markdown, Word, pdf and LaTeX.
 
 ### I don't want my documents to be openly available. How can I use this template?
 

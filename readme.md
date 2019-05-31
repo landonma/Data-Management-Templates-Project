@@ -1,7 +1,7 @@
 # The Data Management Templates Project
 
 ## Summary
-In this collection of repositories you will find templates that will help you create several data management documents. This repository explains the project, discusses each template and gives you the tools to complete these templates. This projects help you create the following three documents:
+In this repository you will find templates that will help you understand and create several data management documents. We have provided boiler plate templates and full completed examples for each of the three templates we provide. This projects help you create the following three documents:
 * Data Management Implementation Plan
 * Data Internal Sharing Plan
 * Data Documentation File (README)

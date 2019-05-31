@@ -48,7 +48,7 @@ The aim of the project is use a wide range of disciplines to look at function an
 ## Data Management Plan and other documentation
 
 The data management plan approved by the NSF can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
-Contracts between OSU and the Oregon Parks department that involve data management can be found in "R\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
+Contracts between OSU and the Oregon Parks department that involve data management can be found in "R:\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
 All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
 
 ## Data Management Units
@@ -111,19 +111,19 @@ Meteorological Group:
 
 Water Quality Group (1):  
 1. Name: Water Sample Extraction  
-2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
+2. Location: R:\Projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Cathy Thompson and Barbra Hubble   
 4. Training: Shauna Thompson, the lab manager, will handle training    
 
 Water Quality Group (2):
 1. Name: Water Sample Analysis  
-2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
+2. Location: R:\Projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Kathy Thomas and Patrick Pullman   
 4. Training: Shauna Thompson, the lab manager, will handle training
 
 Wetlands Survey Group:
 1. Name: Questionnaire Survey Protocol  
-2. Location: R:\projects\BrBoMaster\ !!  
+2. Location: R:\Projects\BrBoMaster\Wetlands\Documents  
 3. Expected use: Barbara Hubble    
 4. Training: Barbara Hubble will train as necessary
 
@@ -133,7 +133,7 @@ Bird Survey Group:
 1. Process: Modified Breeding Bird Survey  
 2. Approval: Sam Singer will approve the protocol  
 3. Tools: GPS Unit, Understanding of the Breeding Bird Survey
-4. Storage:  R:\projects\BrBoMaster\Birds  
+4. Storage:  R:\Projects\BrBoMaster\Birds  
 5. Update: A review of the modified breeding bird survey will be conducted after the first set of data collection. Updates or suggestions necessary after this point should go through Sam Singer
 6. Expected: use Sam Singer and Arthur Chapman will use a breeding bird survey adjusted for smaller areas  
 
@@ -148,9 +148,9 @@ Bird Survey Group:
 
 **Software:** 
 
-2. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
+1. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
 
-3. Area Map Group: ArcGIS Pro is available on all computers in the Digital Earth Lab or through Citrix.  
+2. Area Map Group: ArcGIS Pro is available on all computers in the Digital Earth Lab or through Citrix.  
 
 ## Data Documentation
  
@@ -166,7 +166,7 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 -	Printed documentation added to the lab notebook should be attached permanently.
 -	Save all the images that you generate with the lab instrumentation to the drive under R, and write the path in the lab notebook. 
 -	All entries should be consecutive. Always record dates.
--	Backup: at the end of the day photograph the pages of the notebook that you worked on and save them in R:\projects\BrBoMaster\WaterQ\LabNotebook. The file name should follow the following convention: yyyy-mm-dd_PageNumber_YourName, where PageNumber is the page number in the physical notebook. Store the physical notebook in the top drawer of your workstation.
+-	Backup: at the end of the day photograph the pages of the notebook that you worked on and save them in R:\Projects\BrBoMaster\WaterQ\LabNotebook. The file name should follow the following convention: yyyy-mm-dd_PageNumber_YourName, where PageNumber is the page number in the physical notebook. Store the physical notebook in the top drawer of your workstation.
 
 **Instrumentation setup**
 
@@ -175,7 +175,7 @@ When data is collected from instruments (Meteorological group and water quality 
 - Water Quality Group: R:\WilliamsLab\InstrumentationDocs\
 - Meteorological Group: R:\RogersLab\InstrumentationDocs\
 
-In cases when the setup information is not exported in a file, record the information manually. This information can be stored in the dataset itself, if it is sample dependent, or in a separate InstrumentationSetup spreadsheet. Templates for this setup information can be found in  R:\projects\BrBoMaster\Templates\Instrumentation\
+In cases when the setup information is not exported in a file, record the information manually. This information can be stored in the dataset itself, if it is sample dependent, or in a separate InstrumentationSetup spreadsheet. Templates for this setup information can be found in  R:\Projects\BrBoMaster\Templates\Instrumentation\
 
 **EML data**
 All data from the Meteorological group, the Water quality group, and the Bird survey group, will be documented in EML format. Information about EML format can be found in https://knb.ecoinformatics.org/external//emlparser/docs/index.html Researchers are welcome to use the methods they prefer to record metadata in EML format. These tools may be useful:
@@ -192,7 +192,7 @@ All geospatial data from the Area Map group should be recorded using ISO 19115 s
 
 **Surveys**
 
-The wetland survey group will document their interviews using the interview documentation template located in R:\projects\BrBoMaster\Templates\Surveys\
+The wetland survey group will document their interviews using the interview documentation template located in R:\Projects\BrBoMaster\Templates\Surveys\
 
 ## Quality Control
 ###### *Instructions*    
@@ -216,7 +216,7 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 2. Bird Survey Group: Level 2 datasets has been combined with all other surveys conducted up to this point and has identically naming conventions for species, site locations, units, ect...
 
-3. Water Quality Group: The conventions for level 2 data for the lab can be found in the R drive at the following location: R:  
+3. Water Quality Group: The conventions for level 2 data for the lab can be found in the R drive at the following location: R:\Projects\BroBoMaster\WaterQ\Documents\Levels_of_Data_Quality.pdf  
 
 4. Wetlands Survey Group: Level 2 surveys are those that have been processed for missing information but have not been analyzed further. Both identified and de-identified versions should be available at this level.    
 
@@ -229,19 +229,19 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 In general files should be descriptive and free of acronyms and abbreviations that maybe unfamiliar to some across the project. The files should describe their contents followed by the date of last modification (in YYYY-MM-DD format). Files that are defined mainly by the date of creation (like lab notebooks) should start with the date followed by the creator.
 
-The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why. 
+The file structure of the R: drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R: drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why. 
 
 ![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
 
 ## Formats
 
-Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained. All plain text files should be saved as Delimited Text (.txt file-extension). LibreOffice, Word, or another word process can be used to view and edit these files as long as the extension is maintained. This applies to READMEs, instructions and other documents not saved as a PDF. PDF's should have embedded fonts when possible for better archiving or be saved as PDF/A. When creating informal documents PDF's should be avoided.This project uses shapefiles to store spatial information however these files may not best format for long term preservation. 
+Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained. All plain text files should be saved as Delimited Text (.txt file-extension). LibreOffice, Word, or another word process can be used to view and edit these files as long as the extension is maintained. This applies to READMEs, instructions and other documents not saved as a PDF. PDF's should be saved with embedded fonts when possible for better archiving or be saved as PDF/A. When creating informal documents PDF's should be avoided.This project uses shapefiles to store spatial information however these files may not be the best format for long term preservation. 
 
 
 ## Storage  
 
-All of the data for the project should be stored on the R: drive inside the respective subproject. In order to use the R: drive you must first be connect to Oregon State's Network and then map the address to your computer. If you are not physically on campus you can connect to the network through a VPN. Information on how to map the R Drive or use a VPN can be found at here: (https://github.com/meteroBrBo/Mapping_the_R_Drive_and_Using_a_VPN.pdf). 
+All of the data for the project should be stored on the R: drive inside the respective subproject. In order to use the R: drive you must first be connect to Oregon State's Network, map the drive on your computure then sign in with your approved ONID account. If you are not physically on campus you can connect to the network through a VPN. Information on how to map the R Drive or use a VPN can be found at here: (https://github.com/meteroBrBo/Mapping_the_R_Drive_and_Using_a_VPN.pdf). If you have questions about getting your account approved or if you have trouble connecting to the R: drive, contact Martha Marien.
 
 ## Backup
 
@@ -253,28 +253,23 @@ Cloud backups are encouraged as long as the material is de-identified and not pu
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
 
 
-- The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
+- The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
 
 
-- The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded.  
+- The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded.  
 
 
-- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ.  Datasets will be available in CSV format with metadata in an accompanied text file. Datasets will be uploaded within two weeks of data collection and a notification will be sent via email.
+- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\WaterQ.  Datasets will be available in CSV format with metadata in an accompanied text file. Datasets will be uploaded within two weeks of data collection and a notification will be sent via email.
 
-- The de-identified wetland's survey will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Wet!!. The dataset will be available in CSV format with all necessary metadata in a text file. The dataset will be updated in two batches and a notification will be sent via email when a new batch is available.
-
-
-## Data Use
-
-Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained.
+- The de-identified wetland's survey will be made available to everyone involved with the project on the shared drive at the following location; R:\Projects\BrBoMaster\. The dataset will be available in CSV format with all necessary metadata in a text file. The dataset will be updated in two batches and a notification will be sent via email when a new batch is available.
 
 ## Protection for Sensitive and Confidential Data
 
-Management of the sensitive material inside the Wetland Survey datasets is to be handled by Dianne Dunning. The details concerning the protection of the sensitive can be found in the following location and was approved by the Institutional Review Board at Oregon State on 2019-01-18 R !
+Management of the sensitive material inside the Wetland Survey datasets is to be handled by Dianne Dunning. The details concerning the protection of the sensitive can be found in the following location and was approved by the Institutional Review Board (IRB) at Oregon State on 2019-01-18 R:\Projects\BrBoMaster\MasterAdmin
 
 ## Management of Physical Samples
 
-All physical samples collected by the water quality group will be handle in the Gilbert 193 lab according to the specifications laid out in the following document R: .
+All physical samples collected by the water quality group will be handle in the Gilbert 193 lab according to the specifications laid out in the following document R:.
 
 ## Data Publication
 

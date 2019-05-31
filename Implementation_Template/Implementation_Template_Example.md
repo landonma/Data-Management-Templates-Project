@@ -76,7 +76,7 @@ Five groups of datasets will be generated during the course of this project.
   Amount of data expected: 30 questions survey from 50 participants, less than 50 MB of data  
 
 5. Area Map Group  
-  Type of dataset: Observational
+  Type of dataset: Observational  
   Collection strategy: USGS Downloads  
   Amount of data expected: One geodatabase with 10 to 15 shape files 100 to 200 MB of data
 

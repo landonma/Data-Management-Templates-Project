@@ -46,4 +46,4 @@ The template is available in the following formats:
 [Documentation File Example](Documentation_Template/Documentation_Template_example.md)
 
 ## Detailed Instructions
-We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found here: [Step by step Instructions] (github_instructions.md).
+We have provided detailed instructions on how to download, edit and upload our templates. Those intructions cane be found here: [Step by step Instructions](github_instructions.md).

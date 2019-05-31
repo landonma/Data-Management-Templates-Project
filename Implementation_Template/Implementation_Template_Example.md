@@ -20,10 +20,9 @@ Table of Contents
 
 ## Project information
 
-Project name: Health and Value of the Brian Booth Wetlands
-PI: Bethany Barnard
-Website: https://healthandvalueBBW
-
+Project name: Health and Value of the Brian Booth Wetlands.  
+PI: Bethany Barnard.  
+Website: https://www.healthandvalueBBW  
 
 ##### 1) Description of the project
 The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, twelve people from five departments and one government agency will collect five datasets looking at different aspects of the same area.

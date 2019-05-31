@@ -23,7 +23,7 @@ Role:  Primary Investigator
 
 Name:  Sam Smith   
 Institution:  Oregon State University  
-College, School or Department:  Environment Sciences
+College, School or Department:  Environment Sciences  
 Address:  Heckart Lodge  
 2900 SW Jefferson Way  
 Oregon State University  

@@ -168,18 +168,31 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 -	All entries should be consecutive. Always record dates.
 -	Backup: at the end of the day photograph the pages of the notebook that you worked on and save them in R:\projects\BrBoMaster\WaterQ\LabNotebook. The file name should follow the following convention: yyyy-mm-dd_PageNumber_YourName, where PageNumber is the page number in the physical notebook. Store the physical notebook in the top drawer of your workstation.
 
+**Instrumentation setup**
 
-**Templates:** surveys,   
+When data is collected from instruments (Meteorological group and water quality group), the setup of the instrument should be recorded. Most instruments will export the setup in an electronic file, that should be saved together with the data that was generated with that setup. Instructions for the instruments and how to generate setup files can be found in:
 
-**Readme:**  
+- Water Quality Group: R:\WilliamsLab\InstrumentationDocs\
+- Meteorological Group: R:\RogersLab\InstrumentationDocs\
 
-**Standards** link to the standards, tool for making them (ArcGIS)http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
-EML tool -> Morpho or r packages (EMLassmplyline)
+In cases when the setup information is not exported in a file, record the information manually. This information can be stored in the dataset itself, if it is sample dependent, or in a separate InstrumentationSetup spreadsheet. Templates for this setup information can be found in  R:\projects\BrBoMaster\Templates\Instrumentation\
 
+**EML data**
+All data from the Meteorological group, the Water quality group, and the Bird survey group, will be documented in EML format. Information about EML format can be found in https://knb.ecoinformatics.org/external//emlparser/docs/index.html Researchers are welcome to use the methods they prefer to record metadata in EML format. These tools may be useful:
 
-##### Rationale and resources
+- Morpho https://knb.ecoinformatics.org/tools/morpho
+- EML assembly line, an R library to create EML files https://ediorg.github.io/EMLassemblyline/index.html
 
+**Geospatial data**
 
+All geospatial data from the Area Map group should be recorded using ISO 19115 standards. These tools may be useful:
+
+- EPA metadata editor https://www.epa.gov/geospatial/epa-metadata-editor
+- ArcGIS http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
+
+**Surveys**
+
+The wetland survey group will document their interviews using the interview documentation template located in R:\projects\BrBoMaster\Templates\Surveys\
 
 ## Quality Control
 ###### *Instructions*    

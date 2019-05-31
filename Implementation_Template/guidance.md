@@ -37,7 +37,11 @@ About the amount of data: the reason that it is interesting to have an idea abou
 
 ## Data Collection
 
+No extra guidance.
+
 ## Data Documentation
+
+The rule of thumb is that a person familiar with the project's field of research but not familiar with the research project should be able to look at the project's files and understand the data, understand what has been done to the data and why, without having to ask anybody. This can be achieved with documentation, and with file organization.
 
 To learn more about data documentation visit the [OSU metadata and data documentation Lib Guide](https://guides.library.oregonstate.edu/research-data-services/data-management-metadata). 
 
@@ -64,21 +68,24 @@ It may be useful to design different levels of quality control. For example:
 Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. When quality control is not necessary, L1 and L2 data may be the same.  
 **Level three (L3):** L2 data that have been analyzed to answer specific research questions. Typically, this is the data that will be used to create figures in a publication. For example, if a principal component analysis was used to analyze three years of temperature data and published in a figure as part of a peer-reviewed article.  
 
-
-
-
 ## File Organization
 
-Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
+The rule of thumb is that a person familiar with the project's field of research but not familiar with the research project should be able to look at the project's files and understand the data, understand what has been done to the data and why, without having to ask anybody. This can be achieved with documentation, and with file organization. 
 
-- The directory containing experimental output should have the following format:
-YYYY-MM-DD_notebook-page_descriptive-name
-- The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
-- Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
-
-
+Best practices about file naming:
+-      All file names should be descriptive of what is in the file. Generic names like data.dat are not useful.
+-      It is best to avoid renaming data files. Renaming files can break scripts that used the renamed files, and they can break links. 
+-      File naming templates are very helpful to create consistency. For example, all the data files of a project could be named yyyy-mm-dd_project_site_variable.ext This file name includes information about the date where data was created, the project that the data was collected for, the site where the cata was collected, and the variable recorded. File names that start with the date will be ordered by a computer chronologically if the year-month-day date format is used.
+-      Avoid special characters when naming files: ~ ! @ # $ % ^ & * ( ) \` ; < > ? , [ ] { } ' ". 
+-      Avoid spaces when naming files, especially if they are going to be accessed from the command line.
+-      In folders with lots of files for which a file naming convention is not appropriate, it may be helpful to have a text file in the folder explaining what each of the files is. These files are often named readme.txt
+-      If the data files are updated often, make sure that there is a robust version control system in place. Consider using version control software (e.g. Git) if you are developing code, or have relatively small text based data files that change often. 
+-      All researchers contributing files in a common folder should be aware of the expectations of file management in that shared folder. 
 
 ## Formats
+
+Data standards 
+
 ##### Rationale and resources
 
 Formats that will be better at long term preservation are formats that are platform independent (can be accessed from Linux, Mac and Windows), in an open format (no proprietary formats), and character based (not in binary format). There can be exceptions to all of these for the right reasons. For example, some data standards that are widely used in some disciplines, like netCDFs, save data in binary format.  

@@ -21,20 +21,18 @@ Table of Contents
 ## Data Management Implementation Plan
 
 
-The data management plan approved by the NSA can be found at the followin location: !!R Locatioon!!
-Contracts between OSU and the Oregon Parks department that involve data management can be found in !!R Location!! 
-The data management plan that was submitted with the grant proposal for this project can be found in *[blank]* 
-All data contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains senitive information.
-The IRB approvla for the Wetlands Survey subproject can be found here: !!R locatoin!!  
+The data management plan approved by the NSA can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
+Contracts between OSU and the Oregon Parks department that involve data management can be found in "R\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf"
+All datasets contain unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview) data except the raw data from the Wetlands Survey subproject which contains sensitive information.
 
 ##### 1) Health and Value of the Brian Booth Wetlands
-
+The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, twelve people from five departments and one government agency will collect five datasets looking at different aspects of the same area.
 
 ##### 2) Data Management Plan (DMP)
-The data management plan for the project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster\DMP_latest.doc".  
+The data management plan for the project can be found in the shared R drive at "R:\projects\BrBoMaster\DMPMaster\DMP.latest.doc".  
 
 ##### 3) Data Description
-The aim of the project is use a wide range of disciplines to look at function and health of the Brian Booth Wetlands which lies along the Central Oregon Coast. To do this, twelve people from five departments and one government agency will collect five datasets looking at different aspects of the same area. The datasets are as follow:
+ The datasets are as follow:
 
 1. Meteorological data  
     - Readings from a station set up for the duration of the project (temperature, wind speed, humidity, ect)
@@ -65,27 +63,27 @@ Five groups of datasets will be generated during the course of this project.
 1. Meteorological Group
 	Type of dataset: Observational  
 	Collection strategy: WxPRO weather station positioned near the center of the research site  
-	Amount of data expected: 200 days of atmospheric data  
+	Amount of data expected: 200 days of atmospheric data, less than 50MB of data  
 
 2. Bird Survey Group
 	Type of dataset: observational  
 	Collection strategy: Bird Survey conducted around 17 sites by 2 people visiting each site twice   
-	Amount of data expected: 34 csv tables     
+	Amount of data expected: 34 csv tables, less than 50MB of data     
 
 3. Water Quality Group
-  Type of dataset: observational  
+  Type of dataset: Observational  
 	Collection strategy: Water samples collected at 8 sites by 2 people during mid-March then analyzed in the lab
-  Amount of data expected: 64 csv tables    
+  Amount of data expected: 64 csv tables and microscope Image, 100 to 200 MB of data    
 
 4. Wetlands Survey Group  
-  Type of dataset: observational  
+  Type of dataset: Observational  
   Collection strategy: In person survey questionnaires conducted at the park  
-  Amount of data expected: 30 questions survey from 50 participants  
+  Amount of data expected: 30 questions survey from 50 participants, less than 50 MB of data  
 
 5. Area Map Group  
-  Type of dataset: observational
+  Type of dataset: Observational
   Collection strategy: USGS Downloads  
-  Amount of data expected: One geodatabase with 10 to 15 shape files  
+  Amount of data expected: One geodatabase with 10 to 15 shape files 100 to 200 MB of data
 
 
 ## Data Collection
@@ -122,32 +120,45 @@ Water Quality Group (1):
 1. Name: Water Sample Extraction  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Cathy Thompson and Barbra Hubble   
-4. Training: Shauna Thompson, the lab manager will handle training    
+4. Training: Shauna Thompson, the lab manager, will handle training    
 
 Water Quality Group (2):
 1. Name: Water Sample Analysis  
 2. Location: R:\projects\BrBoMaster\WaterQ\Documents  
 3. Expected use: Kathy Thomas and Patrick Pullman   
-4. Training: Shauna Thompson, the lab manager will handle training
+4. Training: Shauna Thompson, the lab manager, will handle training
 
 Wetlands Survey Group:
 1. Name: Questionnaire Survey Protocol  
 2. Location: R:\projects\BrBoMaster\ !!  
 3. Expected use: Barbara Hubble    
+4. Training: Barbara Hubble will train as necessary
 
 **New protocols:** *[For projects that involve the creation of routinely creating new protocols, describe the process of creating new protocols.]*  
 
 Bird Survey Group:
-1.  Process Modified Breeding Bird Survey  
+1. Process: Modified Breeding Bird Survey  
 2. Approval: Sam Singer will approve the protocol  
-3. Tools *[If special tools will be used to create the protocol, specify]*  
-4. Storage  R:\projects\BrBoMaster\Birds  
-5. Update *[How to update the protocol]*  
-6. Expected use Sam Singer and Arthur Chapman will use a breeding bird survey adjusted for smaller areas  
+3. Tools: GPS Unit, Understanding of the Breeding Bird Survey
+4. Storage:  R:\projects\BrBoMaster\Birds  
+5. Update: A review of the modified breeding bird survey will be conducted after the first set of data collection. Updates or suggestions necessary after this point should go through Sam Singer
+6. Expected: use Sam Singer and Arthur Chapman will use a breeding bird survey adjusted for smaller areas  
 
-**Instrumentation:** *[Include relevant information about the instruments that will be used to collect data, like where to find instructions, maintenance to ensure that the sensors will work correctly, etc.]*  
+**Instrumentation:**
+1. Meteorological Group: The WxPRO weather station with onboard memory will be used to collect the meteorological reading for the project. The user-manual provide by the company can be found with the unit which is stored in the CEOAS Machine and Technical Development Facility. The station contains enough onboard memory to last the duration of the study but should be checked monthly for functionality. The data should be checked and logged every 2 months by a member of the meteorological group.
+
+2. Bird Survey Group: GPS units and binoculars are stored in Sam Singer's office (538a Nash Hall). Charging/USB cable and instructions are provide in the GPS unit's box.
+
+3. Water Quality Group: The materials for the water collection kits can be found in Shauna Thompson's lab (Gilbert 193). Provided with the kit are instructions on how to collect ideal samples. This lab also contains the equipment for processing and recording the samples once they are obtained. Talk to Shauna or one of the lab technicians before using any microscopes and for more instructions.     
+
+4. Wetlands Survey Group: Please see Barbra Hubble for any necessary instruments.  
 
 **Software:** *[Include relevant information about the software that will be used to generate data. Where to access the documentation. Intellectual property information about the software to be aware of. ]*  
+1. Meteorological Group: Up-to-date Software for the meterological data can be found in the group's GitHub Repository: https://github.com/OSUMetero/BrianWetlands  
+
+2. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
+
+3. Area Map Group: ArcGIS Pro is available on all computers in the Digital Earth Lab or through Citrix.  
 
 ## Data Documentation
 ###### *Instructions*  
@@ -156,23 +167,23 @@ Bird Survey Group:
 ###### *Text*  
 Data will be documented throughout the research process using the following tools:
 
-**Lab notebooks:**
+**Lab notebooks for Water Quality Group:**
 
 Details about experiments and work in a lab are quickly forgotten unless they are written down. Be diligent in writing information into notebooks. Follow best practices:  
-- Lab notebooks will always be bound notebooks. Blank notebooks can be found in *[blank]*. Number and date the notebook when you begin with a new one.  
+- Lab notebooks will always be bound notebooks. Blank notebooks can be found in top drawer of the bench nearest the door in Gilbert 193. Number and date the notebook when you begin with a new one.  
 -	Pages should always be numbered.
 -	Write legibly and in a language understood by everybody in the lab.
 -	Error correction: incorrect information should be visible, but clearly marked as incorrect.  Date, sign and explain the correction. Do not erase entries or blot them out.
 -	Printed documentation added to the lab notebook should be attached permanently.
--	Note where all electronic files associated with the experiment are located.
+-	Save all images to the drive under R
 -	All entries should be consecutive. Always record dates.
--	Backup: at the end of the day *[blank]* [scan, photograph…] the pages of the notebook that you worked on, and store them in *[blank]*
+-	Backup: at the end of the day photograph the pages of the notebook that you worked on, and store them in the top drawer of your workstation
 
-**Templates:** survey,   
+**Templates:** surveys,   
 
 **Readme:** *[If the project will be documented using readme files, include expectations about where they will be created, and which information will be recorded in them.]*  
 
-** Standards** link to the standards, tool for making them (ArcGIS)
+** Standards** link to the standards, tool for making them (ArcGIS)http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/creating-and-managing-fgdc-metadata.htm
 EML tool -> Morpho or r packages (EMLassmplyline)
 
 
@@ -196,24 +207,29 @@ It may be useful to design different levels of quality control. For example:
 *	Calibration
 *	Corrections for sensor drift or offset, data artifacts, etc.
 
-Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. When quality control is not necessary, L1 and L2 data may be the same.  
+Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. Level two data can look different for different data sets:
+
+1. Meteorological Group: Level 2 datasets has been calibrated with the latest software but has not undergone statistical analysis.
+
+2. Bird Survey Group: Level 2 datasets has been combined with all other surveys conducted up to this point and has identically naming conventions for species, site locations, units, ect...
+
+3. Water Quality Group: The conventions for level 2 data for the lab can be found in the R drive at the following location: R:  
+
+4. Wetlands Survey Group: Level 2 surveys are those that have been processed for missing information but have not been analyzed further. Both identified and de-identified versions should be available at this level.    
+
+5. Mapping Group: Level 2 data are geodatabases with unified projections, units, ect... but lack further analysis or joining of layers.
 
 **Level three (L3):** L2 data that have been analyzed to answer specific research questions. Typically, this is the data that will be used to create figures in a publication. For example, if a principal component analysis was used to analyze three years of temperature data and published in a figure as part of a peer-reviewed article.  
-
-
 
 
 ## File Organization
 
 ###### *Instructions*    
-*[Details about the organization of data files in shared or privatefolders. What name to give to  folders? What kind of filesshould be savedin each folder?Design file naming techniques so that file names are informative for all files, and consistent throughout the folders, regardless of the person creating the file.]*
 
-Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
 
-- The directory containing experimental output should have the following format:
-YYYY-MM-DD_notebook-page_descriptive-name
-- The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
-- Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
+The file structure of the R drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset.
+
+![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
 
 
@@ -222,6 +238,9 @@ YYYY-MM-DD_notebook-page_descriptive-name
 *[Describe preferred formatsto save information and data. Describe situations in which files should be changed from one format to a different one.See the guidance document for a list of preferred formats for long term preservation.]*
 
 ##### Rationale and resources
+
+
+
 
 Formats that will be better at long term preservation are formats that are platform independent (can be accessed from Linux, Mac and Windows), in an open format (no proprietary formats), and character based (not in binary format). There can be exceptions to all of these for the right reasons. For example, some data standards that are widely used in some disciplines, like netCDFs, save data in binary format.  
 See [eCommons: Cornell's Digital Repository. Recommended file formats](http://guides.library.cornell.edu/ecommons/formats) for a table with existing formats for different types of content, and their probability for full term preservation.
@@ -234,7 +253,9 @@ See [eCommons: Cornell's Digital Repository. Recommended file formats](http://gu
 
 ## Backup
 
+The differential backups of the R server are created daily and stored on campus through the Information Services of OSU (https://is.oregonstate.edu/service/server-backup). These backups should be tested once every three months during the project by the person in charge of archiving the data for each project.
 
+Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This maybe in the form of Box of private GitHub repositories.
 
 ## Workflow Internal Data Sharing
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
@@ -243,24 +264,25 @@ Rationale: setting expectations about how and when datasets will be shared inter
 - The meteorological dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Metero\. The data will be available in csv format accompanied by XML documents which adhere to EML metadata standards. Datasets will be consistently updated and calibrated throughout the project by Martha Marien. As datasets are updated, no notification will be given. Raw data will only be uploaded if there are no processed version and otherwise can be requested by emailing Martha Marien.
 
 
-- The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it.. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded. !!Level 2 !!
+- The bird survey dataset will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Birds. The dataset will be available in CSV format accompanied by text files which include the metadata. Datasets will be uploaded within two weeks of data collection by the individual who collected it. The first survey will be conducted in March and the second in May. Email notifications will be sent when the new datasets are uploaded.  
 
 
-- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ. !! water quality data format !! Datasets will
+- The water quality datasets will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\WaterQ.  Datasets will be available in CSV format with metadata in an accompanied text file. Datasets will be uploaded within two weeks of data collection and a notification will be sent via email.
 
+- The de-identified wetland's survey will be made available to everyone involved with the project on the shared drive at the following location; R:\projects\BrBoMaster\Wet!!. The dataset will be available in CSV format with all necessary metadata in a text file. The dataset will be updated in two batches and a notification will be sent via email when a new batch is available.
 
 
 ## Data Use
 
-
+Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained.
 
 ## Protection for Sensitive and Confidential Data
 
-
+Management of the sensitive material inside the Wetland Survey datasets is to be handled by Dianne Dunning. The details concerning the protection of the sensitive can be found in the following location and was approved by the Institutional Review Board at Oregon State on 2019-01-18 R !
 
 ## Management of Physical Samples
 
-
+All physical samples collected by the water quality group will be handle in the Gilbert 193 lab according to the specifications laid out in the following document R: .
 
 ## Data Publication
 
@@ -270,20 +292,18 @@ All members of the Project involved in roles related to data management will be 
 
 Members of the Project that were involved in data generation will be offered co-authorship to papers that make use of their data. This offer is required for any publications with data that is formally unpublished. After the first publication of a dataset this convention is not mandatory but is highly encouraged for the two years following the project's completion. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. The offer for co-authorship may be accepted or declined. When students (PhD or masters) accept co-authorship, the initiators of the article will commit to provide support and mentorship to the student, so that their role can be meaningful.
 
-Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.
-
 When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles. Members of the Project involved in data analysis will be acknowledged in the acknowledgment section in papers and publications. 󠄀
 
 ## Data Archival
 
-
+Datasets will be published separately from the research in a repository on OSU's Scholars Archive. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications. Some datasets may wait until after the initial publication containing the results before being uploaded.
 
 ## Roles and Responsibilities
 Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
 
 
 #### Role definitions:  
-**Principal Investigator (PI):** as designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be a faculty member.  
+**Principal Investigator (PI):**
 Bethany Barnard is the PI and will coordinate with all of the separate parts.
 
 **Faculty Investigator:**
@@ -292,7 +312,7 @@ Rogers, Rick is responsible for the Meteorological Data
 Singer, Sam is responsible for the Birds Census  
 Williams, Wallace is responsible for the Water Quality Data  
 
-Dunning, Diane is Parks and Recreation Department employee and is responsible for the Wetland Interviews dataset.
+Dunning, Diane is a Parks and Recreation Department employee and is responsible for the Wetland Interviews dataset.
 
 **Team member:**  
 Martha Marien is a technicians in the College of Earth, Ocean, and Atmospheric Sciences at OSU and will work on the meteorological dataset. Patrick Pullman is a Postdoc in the Department of Fisheries and Wildlife at OSU and will work on the bird survey dataset.  
@@ -303,15 +323,8 @@ Five Oregon State University Students will be working on various projects. Arthu
 #### Responsibilities
 The responsibility below will be broken down by subproject.
 
- Rogers, Rick is responsible for the Meteorological Data  
- Singer, Sam is responsible for the Birds Census  
- Williams, Wallace is responsible for the Water Quality Data  
- Dunning, Diane is responsible for the Wetland Interviews  
- Bethany Barnard is responsible for the Maps dataset  
-
 **DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.  
-*Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP  
-!! Make some changes in definitions, change the below to emphases the PII data, give access to new members  
+*Responsible Parties:* Bethany Barnard will make sure all the subprojects are coming together and abiding by the DMP    
 **Access control:** responsible for regulating access to data based on the roles of the authorized user, whether from the project or not. Access is the ability to perform a specific task, such as view, create, or modify a file. Responsible for granting access to data by members outside of the project when requested during the duration of the project.  
 *Responsible Parties:* Rick Rogers will control access to the meteorological dataset, Sam Singer will control access to the bird survey, Wallace Williams will control access to the water quality dataset, and Diane Dunning will control access to the wetland interviews, Bethany Barnard will control access to the maps.  
 
@@ -351,8 +364,3 @@ The responsibility below will be broken down by subproject.
 
 **Archiving and preservation:** responsible for assuring archiving and storage, preservation and access to data (and associated metadata) long term (e.g. in a repository or managed internally).  
 *Responsible Parties:* Rick Rogers will preserve the various meteorological dataset versions, Sam Singer will preserve all of the bird survey data, Patrick Pullman will preserve the water quality data, Barbra Hubble will preserve the identified and de-identified wetlands surveys, Bethany Barnard will preserve the map data.  
-
-
-
-Change Barbra to "Barbara"
-Change all file locations to be inside quotations.

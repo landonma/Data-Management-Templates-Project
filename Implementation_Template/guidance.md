@@ -19,19 +19,19 @@ Table of Contents
 
 ## Data Management Implementation Plan
 
-This document includes additional guidance to write a Data Management Plan Implementation Document. The Implementation template can be found [here](Implementation_Template.md), and an example of a ficticious document using the template can be found [here](Implementation_Template_Example.md)
+This document includes additional guidance to write a Data Management Plan Implementation Document. The Implementation template can be found [here](Implementation_Template.md), and an example of a fictitious document using the template can be found [here](Implementation_Template_Example.md)
 
 ### Project Information
 
 ## Data Management Plan and Documentation
 
-About Data Sharing Agreements: they can also be called Data Use Agreements. These are written documents that clarify the ownership, rights and responsibilities regarding the data created during a research project where there are several institutions/companies involved. Talk with the Research Office if you think you need to create one with your collaborators, or if you need to improve your understanding of what an already existing Data Sharing Agreement means. 
+About Data Sharing Agreements: they can also be called Data Use Agreements. These are written documents that clarify the ownership, rights and responsibilities regarding the data created during a research project where there are several institutions/companies involved. Talk with the Research Office if you think you need to create one with your collaborators, or if you need to improve your understanding of what an already existing Data Sharing Agreement means.
 
 About funder policies: DMPTool.org maintains a compilation of paths to funder policies that can help you get started to find information on the requirements, if any, that your funder has regarding data management. https://dmptool.org/public_templates
 
 ## Data Management Units
 
-The goal to define these data management units is to be able to refer to them easily throughout the document when the deed arises. 
+The goal to define these data management units is to be able to refer to them easily throughout the document when the deed arises.
 
 About the amount of data: the reason that it is interesting to have an idea about the amount of data expected is that it is harder to manage a lot of data than just a few MB of data. This should be an approximate amount, or a range.  
 
@@ -43,7 +43,7 @@ No extra guidance.
 
 The rule of thumb is that a person familiar with the project's field of research but not familiar with the research project should be able to look at the project's files and understand the data, understand what has been done to the data and why, without having to ask anybody. This can be achieved with documentation, and with file organization.
 
-To learn more about data documentation visit the [OSU metadata and data documentation Lib Guide](https://guides.library.oregonstate.edu/research-data-services/data-management-metadata). 
+To learn more about data documentation visit the [OSU metadata and data documentation Lib Guide](https://guides.library.oregonstate.edu/research-data-services/data-management-metadata).
 
 A few tips:  
 - All types of data need metadata: information that allows researchers to interpret the data.
@@ -70,21 +70,21 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 ## File Organization
 
-The rule of thumb is that a person familiar with the project's field of research but not familiar with the research project should be able to look at the project's files and understand the data, understand what has been done to the data and why, without having to ask anybody. This can be achieved with documentation, and with file organization. 
+The rule of thumb is that a person familiar with the project's field of research but not familiar with the research project should be able to look at the project's files and understand the data, understand what has been done to the data and why, without having to ask anybody. This can be achieved with documentation, and with file organization.
 
 Best practices about file naming:
 -      All file names should be descriptive of what is in the file. Generic names like data.dat are not useful.
--      It is best to avoid renaming data files. Renaming files can break scripts that used the renamed files, and they can break links. 
--      File naming templates are very helpful to create consistency. For example, all the data files of a project could be named yyyy-mm-dd_project_site_variable.ext This file name includes information about the date where data was created, the project that the data was collected for, the site where the cata was collected, and the variable recorded. File names that start with the date will be ordered by a computer chronologically if the year-month-day date format is used.
--      Avoid special characters when naming files: ~ ! @ # $ % ^ & * ( ) \` ; < > ? , [ ] { } ' ". 
+-      It is best to avoid renaming data files. Renaming files can break scripts that used the renamed files, and they can break links.
+-      File naming templates are very helpful to create consistency. For example, all the data files of a project could be named yyyy-mm-dd_project_site_variable.ext This file name includes information about the date where data was created, the project that the data was collected for, the site where the data was collected, and the variable recorded. File names that start with the date will be ordered by a computer chronologically if the year-month-day date format is used.
+-      Avoid special characters when naming files: ~ ! @ # $ % ^ & * ( ) \` ; < > ? , [ ] { } ' ".
 -      Avoid spaces when naming files, especially if they are going to be accessed from the command line.
 -      In folders with lots of files for which a file naming convention is not appropriate, it may be helpful to have a text file in the folder explaining what each of the files is. These files are often named readme.txt
--      If the data files are updated often, make sure that there is a robust version control system in place. Consider using version control software (e.g. Git) if you are developing code, or have relatively small text based data files that change often. 
--      All researchers contributing files in a common folder should be aware of the expectations of file management in that shared folder. 
+-      If the data files are updated often, make sure that there is a robust version control system in place. Consider using version control software (e.g. Git) if you are developing code, or have relatively small text based data files that change often.
+-      All researchers contributing files in a common folder should be aware of the expectations of file management in that shared folder.
 
 ## Formats
 
-Data standards 
+Data standards
 
 ##### Rationale and resources
 

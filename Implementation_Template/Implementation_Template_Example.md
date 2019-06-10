@@ -48,7 +48,7 @@ The aim of the project is use a wide range of disciplines to look at function an
 ## Data Management Plan and other documentation
 
 The data management plan approved by the NSF can be found at the following location: "R:\Project\BrBoMaster\DMPMaster\Data_Managment_Plan_Approved.2019.01.05"
-The contract between OSU and the Oregon Parks department which includes a shared data management plan can be found on the R: drive at the following location: "R:\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf". 
+The contract between OSU and the Oregon Parks department which includes a shared data management plan can be found on the R: drive at the following location: "R:\Projects\BrBoMaster\MasterAdmin\OSU_Contract_with_Oregon_Parks.2018.12.15.pdf".
 Excluding the identified Wetlands survey data, all other data in the project is considered unrestricted (based on the [OSU's Data Classifications](https://uit.oregonstate.edu/ois/data-management-and-classification-overview)).
 
 ## Data Management Units
@@ -101,7 +101,7 @@ Sample Site 15 (S15): 44.52547621,-124.07627525
 Sample Site 16 (S16): 44.52180154,-124.08229632  
 Sample Site 17 (S17): 44.51773927,-124.06282085  
 
-**Existing protocols:** 
+**Existing protocols:**
 
 Meteorological Group:
 1. Name: Weather Station Setup, Maintenance and Extraction
@@ -146,19 +146,19 @@ Digital copies of the user manual and handouts about the instrumentation in the 
 
 3. Water Quality Group: The materials for the water collection kits can be found in Shauna Thompson's lab (Gilbert 193). Provided with the kit are instructions on how to collect ideal samples. This lab also contains the equipment for processing and recording the samples once they are obtained. Talk to Shauna or one of the lab technicians before using any microscopes and for more instructions.     
 
-Digital copies of the user manual and handouts about the instrumentation in the lab can be found in 
+Digital copies of the user manual and handouts about the instrumentation in the lab can be found in
 R:\WilliamsLab\InstrumentationDocs\
 
 4. Wetlands Survey Group: Please see Barbra Hubble for any necessary instruments.  
 
-**Software:** 
+**Software:**
 
 1. Bird Survey Group: Software for importing the data from the GPS units can be found on any computer in the Digital Earth Lab.  
 
 2. Area Map Group: ArcGIS Pro is available on all computers in the Digital Earth Lab or through Citrix.  
 
 ## Data Documentation
- 
+
 Data will be documented throughout the research process using the following tools:
 
 **Lab notebooks for Water Quality Group:**
@@ -169,7 +169,7 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 -	Write legibly and in English.
 -	Error correction: incorrect information should be visible, but clearly marked as incorrect.  Date, sign and explain the correction. Do not erase entries or blot them out.
 -	Printed documentation added to the lab notebook should be attached permanently.
--	Save all the images that you generate with the lab instrumentation to the drive under R, and write the path in the lab notebook. 
+-	Save all the images that you generate with the lab instrumentation to the drive under R, and write the path in the lab notebook.
 -	All entries should be consecutive. Always record dates.
 -	Backup: at the end of the day photograph the pages of the notebook that you worked on and save them in R:\Projects\BrBoMaster\WaterQ\LabNotebook. The file name should follow the following convention: yyyy-mm-dd_PageNumber_YourName, where PageNumber is the page number in the physical notebook. Store the physical notebook in the top drawer of your workstation.
 
@@ -200,7 +200,7 @@ All geospatial data from the Area Map group should be recorded using ISO 19115 s
 The wetland survey group will document their interviews using the interview documentation template located in R:\Projects\BrBoMaster\Templates\Surveys\
 
 ## Quality Control
-The project uses foure differnt levels of data quality in order which are defined below:
+The project uses four different levels of data quality in order which are defined below:
 
 **Level zero (L0):** Data as it is downloaded directly from an instrument or model. This data is often in binary format, impossible to understand or look at by a human unless it is processed by a program. These programs tend to be proprietary and they may or may not perform operations on the data. This data level may not exist. For example: binary files coming from a temperature sensor permanently installed in a stream.  
 
@@ -231,25 +231,25 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 In general, files should be descriptive and free of acronyms and abbreviations that maybe unfamiliar to some across the project. The files should describe their contents followed by the date of last modification (in YYYY-MM-DD format). Files that are defined mainly by the date of creation (like lab notebooks) should start with the date followed by the creator.
 
-The file structure of the R: drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R: drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why. 
+The file structure of the R: drive should maintain the following general structure. It is the responsibility of the uploader to move the data from the current to the outdated folder before uploading the new dataset. You need approval form the team lead of your project in order to add or rename folders on the R: drive. All requests for changes to the R Drive should be make via email with a description of what you would like changed/added and why.
 
 ![alt text](https://landonma.github.io/filepath.png "File Structure for the R Drive")
 
 
 ## Formats
 
-Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained. All plain text files should be saved as Delimited Text (.txt file-extension). LibreOffice, Word, or another word process can be used to view and edit these files as long as the extension is maintained. This applies to READMEs, instructions and other documents not saved as a PDF. PDF's should be saved with embedded fonts when possible for better archiving or be saved as PDF/A. When creating informal documents PDF's should be avoided.This project uses shapefiles to store spatial information however these files may not be the best format for long term preservation. 
+Most of the projects use CSV (comma-separated values) as a means of storing the data. Any program can be used to open and edit these files (Excel, LibreOffice, Notepad++, ect) as long as the format and file extension are maintained. All plain text files should be saved as Delimited Text (.txt file-extension). LibreOffice, Word, or another word process can be used to view and edit these files as long as the extension is maintained. This applies to READMEs, instructions and other documents not saved as a PDF. PDF's should be saved with embedded fonts when possible for better archiving or be saved as PDF/A. When creating informal documents PDF's should be avoided.This project uses shapefiles to store spatial information however these files may not be the best format for long term preservation.
 
 
 ## Storage  
 
-All of the data for the project should be stored on the R: drive inside the respective subproject. In order to use the R: drive you must first be connect to Oregon State's Network, map the drive on your computure then sign in with your approved ONID account. If you are not physically on campus you can connect to the network through a VPN. Information on how to map the R Drive or use a VPN can be found at here: (https://github.com/meteroBrBo/Mapping_the_R_Drive_and_Using_a_VPN.pdf). If you have questions about getting your account approved or if you have trouble connecting to the R: drive, contact Martha Marien.
+All of the data for the project should be stored on the R: drive inside the respective subproject. In order to use the R: drive you must first be connect to Oregon State's Network, map the drive on your computer then sign in with your approved ONID account. If you are not physically on campus you can connect to the network through a VPN. Information on how to map the R Drive or use a VPN can be found at here: (https://github.com/meteroBrBo/Mapping_the_R_Drive_and_Using_a_VPN.pdf). If you have questions about getting your account approved or if you have trouble connecting to the R: drive, contact Martha Marien.
 
 ## Backup
 
 The differential backups of the R server are created daily and stored on campus through the Information Services of OSU (https://is.oregonstate.edu/service/server-backup). These backups should be tested once every three months during the project by the person in charge of archiving the data for each project.  
 
-Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This may be done through services like Box or a private GitHub repository. 
+Cloud backups are encouraged as long as the material is de-identified and not publicly viewable. This may be done through services like Box or a private GitHub repository.
 
 ## Workflow Internal Data Sharing
 The following information is a distillation of the Internal Sharing Document which can be found at the following location: ([This is another one of the fictional templates](https://github.com/landonma/Data-Management-Templates-Project/blob/master/Internal_Sharing_Template/Internal_Sharing_Template_example.md))
@@ -287,7 +287,7 @@ Datasets will be published separately from the research in a repository on OSU's
 
 #### Role definitions:  
 **Principal Investigator (PI):**
-Bethany Barnard is the PI and will coordinate with all of the separate parts. She will also head the maps subproject. 
+Bethany Barnard is the PI and will coordinate with all of the separate parts. She will also head the maps subproject.
 
 **Faculty Investigator:**
 Three OSU faculty members and one State Park employee will lead four of the subprojects:  

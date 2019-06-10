@@ -92,7 +92,7 @@ Yes! Github Pages allows your documents to appear as webpages but simply hosting
 ### Your templates does not fit very well with my discipline.
 
 These templates are discipline agnostic. It is possible that they won't fit your research. There are several things you can do:
-- These templates are published under a CC0 license, so you can modify them as you wish. Add what is missing, and remove what is not necesary.
+- These templates are published under a CC0 license, so you can modify them as you wish. Add what is missing, and remove what is not necessary.
 - You can let us know! We would love to know how these are useful or not and how they could be improved. Write us an e-mail at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu) or open an issue. We may be able to improve the templates in the future.
 
 These templates can be changed as much as you need, so hopefully this will still be somewhat useful to help implement create the documents for your research project.
@@ -111,7 +111,7 @@ If you need help to use any of these templates you can:
 
 ### In what other formats can I download the Templates?
 
-We have the templates avabile in markdown, Word, pdf and LaTeX.
+We have the templates available in markdown, Word, pdf and LaTeX.
 
 ### I don't want my documents to be openly available. How can I use this template?
 
@@ -119,4 +119,4 @@ You can still use our template documents for creating your own. You should **NOT
 
 ### Will I find these templates useful if I am not from OSU?
 
-We have writen these templates as generally as possible so that they are useful to the maximum number of people. However, the guidance documents have been written with Oregon State University in mind, so that they are especially useful for researchers of that institution. If you have suggestions about how to improve the templates or the guidance documents so that they are more broadly useful, please open an issue or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
+We have written these templates as generally as possible so that they are useful to the maximum number of people. However, the guidance documents have been written with Oregon State University in mind, so that they are especially useful for researchers of that institution. If you have suggestions about how to improve the templates or the guidance documents so that they are more broadly useful, please open an issue or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)

@@ -110,7 +110,7 @@ The table below provides a compact summary of everyone's responsibilities.
 
 [//]: # (Tables are hard to format in "markdown". I used this site https://www.tablesgenerator.com/markdown_tables to auto generate this code.#)  
 
-|  | Bethany  Benard | Rick Rogers | Sam Singer | Wallace Williams | Diane Dunning | Martha Marien | Arthur Chapman | Patrick Pullman | Cathy Thompson | Barbra Hubble | Henry Cortez | Julie Reynolds |
+|  | Bethany  Barnard | Rick Rogers | Sam Singer | Wallace Williams | Diane Dunning | Martha Marien | Arthur Chapman | Patrick Pullman | Cathy Thompson | Barbra Hubble | Henry Cortez | Julie Reynolds |
 |-----------------------------------|:---------------:|:-----------:|:----------:|:----------------:|:-------------:|:-------------:|:--------------:|:---------------:|:--------------:|:-------------:|:------------:|:--------------:|
 | DMP Implementation | Yes | Yes | Yes | Yes | Yes | No | No | No | No | No | No | No |
 | Access Control | Yes | Yes | Yes | Yes | Yes | No | No | No | No | No | No | No |

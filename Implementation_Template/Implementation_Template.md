@@ -32,15 +32,15 @@ PI: *[Principal investigator of the project]*
 
 ## Data Management Plan and other Documentation
 *[Include a reference to all the documents that may affect decision making about datasets in this project.]*  
- 
+
  - 	The data management plan that was submitted with the grant proposal for this project can be found in *[blank]*  
 - 	Data Sharing Agreement between *[blank]* and *[blank]* can be found in *[blank]*. *[See [guidance document](guidance.md#data-management-plan-and-documentation) for more information]*
 - 	Contracts between *[blank]* and *[blank]* that involve data management can be found in *[blank]*  
 - 	Department and college policies with data management consequences *[blank]*  
 - 	Oregon State University Open Access policy can be found [here]( https://cdss.library.oregonstate.edu/sites/default/files/osu_openacesspolicy_final_single_page.pdf). The policy directs faculty to submit an electronic copy of the author's accepted (post-peer review, pre-typeset) manuscript of their articles to OSU Libraries for dissemination via the ScholarsArchive@OSU institutional repository.   
-- 	Oregon State University’s University Data Managmeent, Classification, and Incident Response policy can be found [here]( https://is.oregonstate.edu/ois/data-management-and-classification-overview). It classifies data into Unrestricted, Sensitive and Confidential and defines standards of care for each kind to protect confidentiality, integrity, and availability of data.
+- 	Oregon State University’s University Data Management, Classification, and Incident Response policy can be found [here]( https://is.oregonstate.edu/ois/data-management-and-classification-overview). It classifies data into Unrestricted, Sensitive and Confidential and defines standards of care for each kind to protect confidentiality, integrity, and availability of data.
 - 	All the researchers and collaborators in this research project strive to work with data in an ethical manner, and will use the [Community Principles on Ethical Data Practices](https://datapractices.org/community-principles-on-ethical-data-sharing/) as a guiding code of ethics.
--       Funder policies on data management. *[See [guidance document](guidance.md#data-management-plan-and-documentation) for more information]*
+-       Funder policies on data management. *[See [guidance document](guidance.md #data-management-plan-and-documentation) for more information]*
 
 
 ## Data Management Units
@@ -53,7 +53,7 @@ PI: *[Principal investigator of the project]*
 1. Dataset Group 1 *[change name to more informative name]*  
 	Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
 	Collection strategy: *[blank]*  
-	Amount of data expected: *[blank]* *[See [guidance document](guidance.md#data-management-units) for more information]*
+	Amount of data expected: *[blank]* *[See [guidance document](guidance.md #data-management-units) for more information]*
 
 2. Dataset Group 2 *[change name to more informative name]*  
 	Type of dataset: *[observational, experimental, simulation, model output, assimilation…]*  
@@ -113,19 +113,19 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 
 *[Most data need to go through a quality control process. Describe the process here, and describe how it will be documented. ]*
 
--	Timing: *[what are the points in the research process in which there should be quality control]* 
--	Responsibilities: *[who will be responsible for performing quality control actions]* 
+-	Timing: *[what are the points in the research process in which there should be quality control]*
+-	Responsibilities: *[who will be responsible for performing quality control actions]*
 -       Quality control actions: *[actions that will be taken in the quality control process. Is there a protocol documenting these? Will more than one person quality control the data files? will it be done automatically?]*
 -       Documentation: *[How will the quality control be documented? If errors are found, how will the two versions be saved? If there is extra data related to the quality control, like calibration curves, where is it stored? ]*
 -       Levels of quality control: *[For ideas around defining levels of quality control, see the [Guidance Document](guidance.md).]*
 
 ## File Organization
- 
-*[Details about the organization of data files in shared or privatefolders. What name to give to  folders? What kind of files should be savedin each folder? Design file naming templates so that file names are informative for all files, and consistent throughout the folders, regardless of the person creating the file. For best practices around file naming, see the [Guidance Document](guidance.md).]*
+
+*[Details about the organization of data files in shared or private folders. What name to give to  folders? What kind of files should be saved in each folder? Design file naming templates so that file names are informative for all files, and consistent throughout the folders, regardless of the person creating the file. For best practices around file naming, see the [Guidance Document](guidance.md).]*
 
 
 ## Formats
-*[Describe preferred formatsto save information and data. Describe situations in which files should be changed from one format to a different one.See the guidance document for a list of preferred formats for long term preservation.]*
+*[Describe preferred formats to save information and data. Describe situations in which files should be changed from one format to a different one. See the guidance document for a list of preferred formats for long term preservation.]*
 
 
 

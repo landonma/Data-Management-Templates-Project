@@ -91,6 +91,7 @@ This work is licensed under a [Creative Commons No Rights Reserved (CC0) license
 
 2) Links to publications related to the dataset:  
 *[If there is a publication that uses or cites the data that has not been approved yet, include it here anyway, with as much information as you have at the moment (e.g. authors and title). If the publications have been published include the DOI in the citation. ]*
+Landon, M., 2019: Assesing How Effective Fire-Free Villages Are at Suppressing Fires in Indonesia, https://doi.org/10.1029/2001JD900181
 
 3) Links to other publicly accessible locations of the data:
 None
@@ -111,7 +112,7 @@ Landon, M. & Smith, S. (2019) VIIRS Detected Fire Pixel in Indonesia 2012 thorou
 
 2) Links/relationships to other versions of this dataset:  
 https://doi.org/10.7267/678910DOI
-This is version two of a data set originally created in June 2017. Version two includes 1.5  additional years of the VIIRS satellite data as well as the three additional village which have been added to the Fire Free Village program.
+This is version two of a data set originally created in June 2017. Version two includes 1.5 additional years of VIIRS satellite data as well as the three additional village which have been added to the Fire Free Village program.
 
 3) Was data derived from another source?  
 This data was derived from the VIIRS active fire archive dataset and the OpenStreetMap (OSM) Indonesian political boundary shapefile. The satellite data can be downloaded from the NASA website by following the link and submitting a request [FIRMS Arive Download](https://firms.modaps.eosdis.nasa.gov/download/). The OpenStreetMap boundary shapefile can be downloaded from the following link [OSM Indonesia political boundarys](https://openstreetmap.id/en/data-openstreetmap-indonesia/shapefiles)
